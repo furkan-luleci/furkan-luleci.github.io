@@ -80,15 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Furkan Lüleci"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "PhD Candidate and Research Assistant at Civil Infrastructure Technologies for Resillience and Safety (CITRS) labs"
+  location         : "Orlando, FL"
+  employer         : "University of Central Florida"
+  googlescholar    : "https://scholar.google.com/citations?user=5y3RcVMAAAAJ&hl=en"
+  email            : "furkanluleci@gmail.com
+  researchgate     : "https://www.researchgate.net/profile/Furkan-Lueleci-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,24 +95,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/furkan-luleci"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "https://www.instagram.com/furkanllci/"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/furkan-luleci/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5265-6771"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCh_9O7KYoQtEB0uYqW_Z1yA"
   wikipedia        :
 
 

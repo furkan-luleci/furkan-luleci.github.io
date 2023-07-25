@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Furkan's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Furkan Lüleci"
 description              : &description "personal description"
 url                      : https://furkan-luleci.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Furkan Lüleci"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "PhD Candidate and Research Assistant at Civil Infrastructure Technologies for Resillience and Safety (CITRS) labs"
+  location         : "Orlando, Florida"
+  employer         : "University of Central Florida"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

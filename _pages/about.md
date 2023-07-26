@@ -11,7 +11,7 @@ redirect_from:
 <img align="right" width="309" height="267" src="/images/bridge.jpg">
 
 ## Briefly about me
-👨🏻‍💻 I'm a PhD candidate in Civil - Structural - Engineering and a research assistant at Civil Infrastructure Technologies for Resiliency and Safety (CITRS) labs at the University of Central Florida (UCF).
+👨🏻‍💻 I'm a PhD candidate in Civil - Structural - Engineering and a research assistant at [Civil Infrastructure Technologies for Resiliency and Safety (CITRS)](https://www.cece.ucf.edu/citrs/) labs at the [University of Central Florida (UCF)](https://www.ucf.edu/). My PhD advisor is Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/), who is Lockheed Martin St. Laurent Professor and the director of CITRS.
 
 📖 My research explores novel solutions to challenging problems in the operation, maintenance, and management of civil engineering structures by employing **Generative Artificial Intelligence**, **Virtual Reality**, and **Robotics**, coupled with **Structural Health Monitoring** techniques.
 
@@ -21,7 +21,7 @@ redirect_from:
 
 👷 During my master's and bachelor's programs in Civil (Structural) Engineering, I had the opportunity to work in residential (skyscrapers) and infrastructure (bridge & airports) constructions as well as residential structural engineering design firms.
 
-🌐 I'm also a member of ASCE-SEI, the Chair of the ASCE-SEI Grad Student Chapter at the University of Central Florida, and have served in ASCE-SEI Graduate Student Chapters as chair, vice chair, and public secretary roles.
+🌐 I'm also a member of ASCE-SEI, the Chair of the [ASCE-SEI Grad Student Chapter at the University of Central Florida](https://www.linkedin.com/company/sei-ucf/?viewAsMember=true), and have served in [ASCE-SEI Graduate Student Chapter Leadership Council](https://www.asce.org/communities/institutes-and-technical-groups/structural-engineering-institute/local-chapters) as chair, vice chair, and public secretary roles.
 
 <img align="center" width="628" height="297" src="/images/bridge 2.jpg">
 

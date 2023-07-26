@@ -33,6 +33,6 @@ redirect_from:
 
 ### Lifetime Goals
 - Convert near future goals into a practical business model to contribute to the society for betterment of our life quality.
-- Be a professor and become a great mentor for new generations
-- Write a novel
+- Be a professor and become a great mentor for new generations.
+- Write a novel.
 - Maybe have a PhD in another field, like History or Archeology. 

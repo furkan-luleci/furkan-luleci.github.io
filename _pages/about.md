@@ -16,5 +16,5 @@ redirect_from:
 
 📖 My research explores novel solutions to challenging problems in operation, maintenance, and management of civil engineering structures by employing **generative Artificial Intelligence**, **Virtual Reality**, and **Robotics**, coupled with **Structural Health Monitoring** tools.
 
-🎯 My research aims to enhance the condition assessment procedures of civil engineering structures to improve their overall safety in order to make our lives better.
+🎯 My research aims to enhance the condition assessment procedures of civil engineering structures to improve their overall safety for the betterment of our life quality.
 

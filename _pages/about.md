@@ -25,7 +25,7 @@ redirect_from:
 
 <img align="center" width="628" height="297" src="/images/bridge 2.jpg">
 
-**My research interests**: Structural Health Monitoring, Generative Artificial Intelligence (especially large generative models using adversarial-based models, diffusion models and transformers), Virtual Reality systems, Robotics (unmanned ground vehicles), Structural Dynamics, Non-Destructive Testing & Evaluation, Numeric Modelling & Analysis, Modal Analysis, Bridge Load Rating, Smart Cities, Structural Reliability, Resilience, Sustainability, System Diagnostics & Prognostics.
+**My research interests**: Structural Health Monitoring, Generative Artificial Intelligence (especially large generative models using adversarial-based models, diffusion models and/or transformers), Virtual Reality systems, Robotics (unmanned ground vehicles), Structural Dynamics, Non-Destructive Testing & Evaluation, Numeric Modelling & Analysis, Modal Analysis, Bridge Load Rating, Smart Cities, Structural Reliability, Resilience, Sustainability, System Diagnostics & Prognostics.
 
 ### Near Future Goals
 - Develop a multi-robot-based structural condition assessment system to support community and infrastructure resiliency and enhance their efficiency in operation, maintenance, and management.

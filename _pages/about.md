@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" width="358.83" height="310.83" src="/images/bridge.jpg">
+<img align="right" width="309" height="267" src="/images/bridge.jpg">
 
-## About me
+## Briefly about me
 👨🏻‍💻 I'm a PhD candidate in Civil - Structural - Engineering and a research assistant at Civil Infrastructure Technologies for Resillience and Safety (CITRS) labs at University of Central Florida (UCF).
 
 📖 My research explores novel solutions to challenging problems in operation, maintenance, and management of civil engineering structures by employing **Generative Artificial Intelligence**, **Virtual Reality**, and **Robotics**, coupled with **Structural Health Monitoring** techniques.
@@ -23,7 +23,12 @@ redirect_from:
 
 🌐 I'm also a member of ASCE-SEI, the Chair of the ASCE-SEI Grad Student Chapter at the University of Central Florida, and have served in ASCE-SEI Graduate Student Chapters as chair, vice chair, and public secretary roles.
 
-<img align="right" width="732.5" height="346" src="/images/bridge 2.jpg">
+<img align="right" width="628" height="297" src="/images/bridge 2.jpg">
 
+**My research interests**: Structural Health Monitoring, Generative Artificial Intelligence (especially large generative models using adversarial-based models, diffusion models and transformers), Virtual Reality systems, Robotics (unmanned ground vehicles), Structural Dynamics, Non-Destructive Testing & Evaluation, Numeric Modelling & Analysis, Modal Analysis, Bridge Load Rating, Smart Cities, Structural Reliability, Resilience, Sustainability, System Diagnostics & Prognostics.
 
+### Near Future Goals
+- 
+- 
 
+### Lifetime Goals

@@ -23,7 +23,7 @@ redirect_from:
 
 🌐 I'm also a member of ASCE-SEI, the Chair of the ASCE-SEI Grad Student Chapter at the University of Central Florida, and have served in ASCE-SEI Graduate Student Chapters as chair, vice chair, and public secretary roles.
 
-<img align="right" width="628" height="297" src="/images/bridge 2.jpg">
+<img align="center" width="628" height="297" src="/images/bridge 2.jpg">
 
 **My research interests**: Structural Health Monitoring, Generative Artificial Intelligence (especially large generative models using adversarial-based models, diffusion models and transformers), Virtual Reality systems, Robotics (unmanned ground vehicles), Structural Dynamics, Non-Destructive Testing & Evaluation, Numeric Modelling & Analysis, Modal Analysis, Bridge Load Rating, Smart Cities, Structural Reliability, Resilience, Sustainability, System Diagnostics & Prognostics.
 

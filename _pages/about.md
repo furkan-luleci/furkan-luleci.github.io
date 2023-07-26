@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" width="350" height="410" src="/images/bridge.jpg">
+<img align="right" width="358.83" height="310.83" src="/images/bridge.jpg">
 
 👨🏻‍💻 I am a PhD candidate in Civil - Structural - Engineering and a research assistant at Civil Infrastructure Technologies for Resillience and Safety (CITRS) labs at University of Central Florida (UCF).
 
@@ -22,7 +22,7 @@ redirect_from:
 
 🌐 I am also a member of **ASCE-SEI**, the Chair of the ASCE-SEI Grad Student Chapter at the University of Central Florida, and have served in ASCE-SEI Graduate Student Chapters as chair, vice chair, and public secretary roles.
 
-<img align="right" width="500" height="280" src="/images/bridge 2.jpg">
+<img align="right" width="732.5" height="346" src="/images/bridge 2.jpg">
 
 
 

@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Furkan Lüleci"
-  avatar           : "/images/profile picture.jpg"
+  avatar           : "profile picture.jpg"
   bio              : "PhD Candidate and Research Assistant at Civil Infrastructure Technologies for Resillience and Safety (CITRS) labs"
   location         : "Orlando, Florida"
   employer         : "University of Central Florida"

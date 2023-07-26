@@ -28,7 +28,11 @@ redirect_from:
 **My research interests**: Structural Health Monitoring, Generative Artificial Intelligence (especially large generative models using adversarial-based models, diffusion models and transformers), Virtual Reality systems, Robotics (unmanned ground vehicles), Structural Dynamics, Non-Destructive Testing & Evaluation, Numeric Modelling & Analysis, Modal Analysis, Bridge Load Rating, Smart Cities, Structural Reliability, Resilience, Sustainability, System Diagnostics & Prognostics.
 
 ### Near Future Goals
-- 
-- 
+- Develop a multi-robot-based structural condition assessment system to support community and infrastructure resiliency and enhance their efficiency in operation, maintenance, and management.
+- Characterize and develop a Generative Artificial Intelligence-based methodology to generate possible sensor data of various types of civil engineering structures for different structural conditions to optimize/minimize the data collection efforts from them.
 
 ### Lifetime Goals
+- Convert near future goals into a practical business model to contribute to the society for betterment of our life quality.
+- Be a professor and become a great mentor for new generations
+- Write a novel
+- Maybe have a PhD in another field, like History or Archeology. 

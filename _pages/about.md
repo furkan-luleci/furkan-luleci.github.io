@@ -19,4 +19,4 @@ redirect_from:
 
 👷 During my master and bachelor programs in Civil (Structural) Engineering, I had the opportunity to work in the residential (skyscrapers) and infrastructure (bridge & airports) constructions as well as residential structural engineering design firms.
 
-🌐 I am also a member of ASCE-SEI, the Chair of the ASCE-SEI Grad Student Chapter at the University of Central Florida, and have served in ASCE-SEI Graduate Student Chapters as chair, vice chair, and public secretary roles.
+🌐 I am also a member of **ASCE-SEI**, the Chair of the ASCE-SEI Grad Student Chapter at the University of Central Florida, and have served in ASCE-SEI Graduate Student Chapters as chair, vice chair, and public secretary roles.

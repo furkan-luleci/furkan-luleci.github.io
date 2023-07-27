@@ -24,19 +24,19 @@ redirect_from:
 - Managing research projects in planning, experimenting, and documenting.
 - Administering and organizing laboratory experimental activities for research tasks.
 
-**Graduate Teaching Assistant, UCF, Orlando, FL	Aug 2022 – Dec 2022**
+**Graduate Teaching Assistant, UCF, Orlando, FL,	Aug 2022 – Dec 2022**
 - Graduate Teaching Assistant in an Engineering Statics course of 150 students.
 - Held student office hours and performed assignment/exam gradings.
 
 # Industry Experience
-**Field Engineer, Superior Construction, Orlando, FL	Sep 2019 – Jan 2020**
+**Field Engineer, Superior Construction, Orlando, FL,	Sep 2019 – Jan 2020**
 - Helped with the development and implementation of project execution strategies. Maintained and communicated various project performance metrics and analytics. Supported forecasting and reporting site-related job activities.
 - Fostered and maintained a safe work environment and collaborated with the superintendent to manage work progress and field problems. Coordinated site testing and inspection efforts.
 - Assisted with job controls to ensure compliance with the contract, budget, schedule forecasting and job costing.
 - Developed essential job data, including take-offs, material price lists, labor costs per man hour, and equipment to ensure accurate estimates and bids.
 - Prepared and submitted Daily and Nightly Site Reports, including work-in-place quantities. 
 
-**Structural Engineer Intern, AB Consulting Engs., Orlando, FL	May 2019 – Aug 2019**
+**Structural Engineer Intern, AB Consulting Engineers, Orlando, FL,	May 2019 – Aug 2019**
 - Conducted FEA of multiple structures using Nastran NX against various loading cases.
 - Designed Aluminum Guardrail Base Shoes following the ASCE 7-16.
 - Involved in threshold site inspections as a project engineer. Worked with the superintendent to resolve field problems. 
@@ -44,26 +44,53 @@ redirect_from:
 -	Participated in project meetings and issued meeting minutes. Assisted PM with the preparation of monthly owner billings. 
 -	Organized and administered on-site contractor job coordination meetings.
 
-**Structural Engineer Intern, BBM Structural, Maitland, FL	Feb 2019 – May 2019**
+**Structural Engineer Intern, BBM Structural, Maitland, FL,	Feb 2019 – May 2019**
 -	Assisted PMs by designing one-story and multi-story Tilt-up, Concrete, and CMU masonry walls on various projects.
 -	Designed steel and concrete, composite and non-composite structural systems, and was involved in calculations lateral design of commercial, educational, and public facilities.
 -	Experienced in metal deck diaphragm, concrete slab, concrete shear wall, steel joist, girder beam design & connection.
 -	Involved in multiple construction site visits to completed or under-construction buildings in response to the request for an inspection process.
 -	Experienced in following the ASCE-7, ACI 318-14, and AISC and designing structural systems.
 
-**Field Engineer Intern, TAV Construction, Tbilisi, Georgia	Jun 2016 – Aug 2016**
+**Field Engineer Intern, TAV Construction, Tbilisi, Georgia,	Jun 2016 – Aug 2016**
 -	Assisted in Shota Rustaveli Tbilisi Airport arrival terminal construction extension from earthworks to the construction of the first-floor slab, also the renewal of runways and taxiways.
 -	Involved in the calculation of quantity survey of construction sites and earthworks of runways, taxiways, and terminal construction.
 -	Assisted in typical construction site activities, e.g., work progress tracking.
 
-**Field Engineer Intern, K Yapi Gayrimenkul, Istanbul, Turkey	Jun 2015 – Aug 2015**
+**Field Engineer Intern, K Yapi Gayrimenkul, Istanbul, Turkey,	Jun 2015 – Aug 2015**
 -	Involved in constructing three reinforced concrete skyscrapers, mainly assigned to assist in installing tunnel formworks.
 -	Completed essential tasks, such as inspecting the reinforcement in columns, beams and slabs.
 -	Assisted and managed concrete casting of floors as well as columns and beams.
 -	Experienced in the inspection of concrete samples and reading AutoCAD plans.
 
-# Honors and Awards
+# American Society of Civil Engineers Experience
+**Chair, ASCE SEI Graduate Student Chapter at UCF, Orlando, FL	May 2019 – Present**
+- Organizing American Society of Civil Engineers (ASCE) Structural Engineering Institute (SEI) at UCF Grad Chapter booths at in-person events on the UCF campus.
+-	Coordinating in-person/online chapter events, such as luncheons, seminars, and meetings/discussions, inviting professionals from the industry.
+-	Promoting ASCE SEI organization, membership, and its activities on campus.
 
+**Chair, ASCE SEI Graduate Student Chapters Leadership Council 	Oct 2021 – Sep 2022**
+-	Acted as a voting member of the Graduate Student Chapters Leadership Council (GSCLC).
+-	Organized and directed the recursive and other meetings of the GSCLC. Actively communicated with the SEI Local Activities Division. Provided necessary support and guidance for new Graduate Student Chapters.
+-	Devoted substantial time and effort to Graduate Student Chapter Activities. Promoted SEI and its membership. Collaborated with all graduate student chapters in carrying out Council activities.
+-	Collaborated with other ASCE SEI Local Chapters to foster organizational activities.
+-	Participated in the meetings and conference calls set up by the GSCLC/LAD EXCOM.
+
+**Vice Chair, ASCE SEI GSCLC 	Oct 2020 – Sep 2021**
+-	Acted as a voting member of the GSCLC.
+-	Represented the Council at meetings/activities during the absence of the Chair.
+-	Assisted the Chair as and when required during Council activities.
+-	Collaborated with all graduate student chapters in carrying out Council activities.
+-	Participated in the meetings and conference calls set up by the GSCLC/LAD EXCOM.
+
+**Public Relations Officer, ASCE SEI GSCLC 	Oct 2019 – Sep 2020**
+-	Acted as a voting member of the GSCLC.
+-	Established working relations with all graduate student chapters in coordination with the Vice Chair.
+-	Publicized the events and activities of the Council.
+-	Participated in the meetings and conference calls set up by the GSCLC/LAD EXCOM.
+-	Managed external communications between student and ASCE organizations.
+
+
+# Honors and Awards
 **Geotechnical and Environmental Scholarship Award	Jun 2022**
 - One of three recipients of $2,000 from the UCF College of Engineering
   

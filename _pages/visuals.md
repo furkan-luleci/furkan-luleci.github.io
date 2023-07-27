@@ -1,10 +1,11 @@
 ---
-layout: archive
-title: ""
-permalink: /visuals/
+permalink: /
+title: "Visuals"
+excerpt: ""
 author_profile: true
-redirect_from:
-  - /visuals
+redirect_from: 
+  - /visuals/
+  - /visuals.html
 ---
 
 # Some visuals from our CITRS lab and research activities

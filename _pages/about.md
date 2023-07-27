@@ -1,10 +1,12 @@
 ---
-layout: archive
+permalink: /
 title: "Hello, I'm Furkan👋🏼"
-permalink: /about/
+excerpt: ""
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-
 <img align="right" width="309" height="267" src="/images/bridge.jpg">
 
 ## Briefly about me

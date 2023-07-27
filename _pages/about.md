@@ -11,8 +11,6 @@ redirect_from:
 ## Briefly about me
 👨🏻‍💻 I'm a PhD candidate in Civil - Structural - Engineering and a research assistant at [Civil Infrastructure Technologies for Resiliency and Safety (CITRS)](https://www.cece.ucf.edu/citrs/) labs at the [University of Central Florida (UCF)](https://www.ucf.edu/). My PhD advisor is Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/), who is Lockheed Martin St. Laurent Professor and the director of CITRS.
 
-<img align="center" width="309" height="267" src="/images/bridge.jpg">
-
 📖 My research explores novel solutions to challenging problems in the operation, maintenance, and management of civil engineering structures by employing **Generative Artificial Intelligence**, **Virtual Reality**, and **Robotics**, coupled with **Structural Health Monitoring** techniques.
 
 🎯 My research aims to enhance the condition assessment procedures of civil engineering structures to improve their overall safety for the betterment of our life quality.
@@ -33,8 +31,10 @@ Structural Health Monitoring, Generative Artificial Intelligence (especially lar
 - Characterize and develop a Generative Artificial Intelligence-based methodology to generate possible sensor data of various types of civil engineering structures for different structural conditions to optimize/minimize the data collection efforts from them.
 
 ### Lifetime Goals
+<img align="right" width="309" height="267" src="/images/bridge.jpg">
+
 - Convert near-future goals into a practical business model to contribute to society for the betterment of our life quality.
-- Be a professor and become a great mentor for new generations.
+- Be a professor and become a great mentor for new generations.  
 - Write a novel.
 - Maybe have a PhD in another field, like History or Archeology.
 - Open an art gallery, showcasing the pictures/videoclips I took/made over the years.

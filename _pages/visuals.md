@@ -1,7 +1,7 @@
 ---
-layout: archive
+permalink: /
 title: "Visuals"
-permalink: /visuals/
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /visuals/

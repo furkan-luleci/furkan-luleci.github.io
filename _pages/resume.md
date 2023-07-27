@@ -32,7 +32,7 @@ redirect_from:
 - Graduate Teaching Assistant in an Engineering Statics course of 150 students.
 - Held student office hours and performed assignment/exam gradings.
 
-**Graduate Assistant, UCF, Orlando, FL	Aug 2021 – Jul 2022**
+**Graduate Assistant, UCF, Orlando, FL	Aug 2018 – Dec 2019**
 - Assisted students with application and admission procedures for UCF Global and other UCF programs. Facilitated campus tours of UCF to new and prospective students.
 - Fielded approximately 30 calls and 100 e-mails daily regarding UCF's English Language Institute and UCF programs.
 
@@ -131,11 +131,6 @@ redirect_from:
 **ESOGU Honors Designation	Jun 2017**
 - Graduated in the top 2% of the civil engineering department (ranked 8th)
 
-
-# Patents
-- Luleci F, Catbas FN, Avci O, (2023). Generative Adversarial Networks for Structural Damage Diagnostics, Application Serial No: 18/302,393. (Nonprovisional application submitted). USPTO.
-
-- Luleci F, Catbas FN, (2023). Immersive Visualization for Condition Assessment of Civil Structures, Application Serial No: 18/300,072. (Nonprovisional application submitted). USPTO.
 
 # Projects & Contests Involved in Academia
 - **Sercel Project** – Experimentation and validation of ultrasensitive wireless accelerometers (S-lynks) on engineering structures (bridges, buildings, etc.)

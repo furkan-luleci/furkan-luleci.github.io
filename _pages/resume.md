@@ -7,25 +7,23 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
+* Ph.D in Civil Engineering, University of Central Florida, Aug 2020 - May 2024
+  - Structural engineering focused, emphasis on structural health monitoring.
+  - Advisor professor: F. Necati Catbas.
+* M.S. in Civil Engineering, University of Central Florida, Jan 2018 - Dec 2019
+  - Structural engineering focused.
+* B.S. in Civil Engineering, Eskisehir Osmangazi University, Sep 2013 - Jun 2017
+  - Capstone project: Sustainability design of buildings.
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Academic and Teaching Experience
+**Graduate Research Assistant**, UCF, Orlando, FL,	Aug 2021 – Present
+- Exploring novel and effective solutions to challenging problems in the operation, maintenance, and management of civil engineering structures using artificial intelligence, robotics, and virtual reality coupling with Structural Health Monitoring techniques.
+- Proactively participating in research team meetings and discussions for different project research tasks.
+- Assisting research team members with experiments, field monitoring data collection, and report/article writing activities.
+- Managing research projects in planning, experimenting, and documenting.
+- Administering and organizing laboratory experimental activities for research tasks.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======

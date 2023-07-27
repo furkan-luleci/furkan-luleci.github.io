@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+
 # Education
 **Ph.D in Civil Engineering, University of Central Florida, Aug 2020 - May 2024**
  - Structural engineering focused, emphasis on structural health monitoring.
@@ -17,6 +18,7 @@ redirect_from:
     
 **B.S. in Civil Engineering, Eskisehir Osmangazi University, Sep 2013 - Jun 2017**
  - Capstone project: Sustainability design of buildings.
+
 
 # Academic and Teaching Experience
 **Graduate Research Assistant, UCF, Orlando, FL,	Aug 2021 – Present**
@@ -29,6 +31,7 @@ redirect_from:
 **Graduate Teaching Assistant, UCF, Orlando, FL,	Aug 2022 – Dec 2022**
 - Graduate Teaching Assistant in an Engineering Statics course of 150 students.
 - Held student office hours and performed assignment/exam gradings.
+
 
 # Industry Experience
 **Field Engineer, Superior Construction, Orlando, FL,	Sep 2019 – Jan 2020**
@@ -95,26 +98,50 @@ redirect_from:
 # Honors and Awards
 **Geotechnical and Environmental Scholarship Award	Jun 2022**
 - One of three recipients of $2,000 from the UCF College of Engineering
-  
+
 **Graduate Student Chapter of the Year Award	Feb 2022**
 - ASCE SEI Graduate Student Chapter at UCF was selected to receive this award under my presidency
-  
+ 
 **ASCE SEI East Central Branch Scholarship Award	Oct 2021**
 - Recipient of $1,000 in East Central Florida
-  
+
 **UCF International Scholarship Award	Aug 2020**
 - Recipient of $2,500 in UCF
-  
+
 **UCF ORCGS Doctoral Fellowship Award	Feb 2020**
 - Tuition, fees, insurance coverage for the doctoral program, and a $25,000 stipend for a year
   
 **UCF Graduate Assistant Fellowship Award	Jan 2018**
 - Tuition, fees, and insurance coverage for the master’s program
-  
+
 **ESOGU Honors Designation	Jun 2017**
 - Graduated in the top 2% of the civil engineering department (ranked 8th)
 
 
+# Patents
+- Luleci F, Catbas FN, Avci O, (2023). Generative Adversarial Networks for Structural Damage Diagnostics, Application Serial No: 18/302,393. (Nonprovisional application submitted). USPTO.
+
+- Luleci F, Catbas FN, (2023). Immersive Visualization for Condition Assessment of Civil Structures, Application Serial No: 18/300,072. (Nonprovisional application submitted). USPTO.
+
+
+# Academia Service
+- Chair for Multiple Sessions, for the 8th World Conference on Structural Control and Monitoring (WCSCM) conference in Orlando in 2022
+- Reviewer, Structural Engineering Journal, 				                    2023-Present
+
+
+# Community Service
+Teach-In Activity, Carillon Elementary School
+  - Teach-in sessions to 2nd grade elementary school kids about fundamentals of engineering.
+
+# Professional Licenses & Certifications
+- Engineer in Training (Civil), No: 1100026741, by Florida Board of Professional Engineers.
+- SAP2000 Training, Computers and Structures, Inc. Issued May 2017
+- Autocad Training, Bilişim Eğitim Merkezi,Issued Sep 2015, Credential ID 4706
+
+# Professional Affilitations
+- American Society of Civil Engineers, Student Member, 			      2018 - Present
+ - Have served and serving in multiple roles in ASCE Structural Engineering Institute (SEI)
+- Institution of Structural Engineers, Student Member, 			      2018-2019
 
 
 Skills

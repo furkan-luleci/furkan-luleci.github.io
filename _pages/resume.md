@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Resume"
+title: ""
 permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-## Education
+# Education
 * Ph.D in Civil Engineering, University of Central Florida, Aug 2020 - May 2024
   - *Structural engineering focused, emphasis on structural health monitoring.*
   - *Advisor professor: F. Necati Catbas.*
@@ -16,7 +16,7 @@ redirect_from:
 * B.S. in Civil Engineering, Eskisehir Osmangazi University, Sep 2013 - Jun 2017
   - *Capstone project: Sustainability design of buildings.*
 
-## Academic and Teaching Experience
+# Academic and Teaching Experience
 **Graduate Research Assistant**, UCF, Orlando, FL,	Aug 2021 – Present
 - Exploring novel and effective solutions to challenging problems in the operation, maintenance, and management of civil engineering structures using artificial intelligence, robotics, and virtual reality coupling with Structural Health Monitoring techniques.
 - Proactively participating in research team meetings and discussions for different project research tasks.

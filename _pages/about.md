@@ -36,4 +36,11 @@ Structural Health Monitoring, Generative Artificial Intelligence (especially lar
 - Convert near-future goals into a practical business model to contribute to society for the betterment of our life quality.
 - Be a professor and become a great mentor for new generations.
 - Write a novel.
-- Maybe have a PhD in another field, like History or Archeology. 
+- Maybe have a PhD in another field, like History or Archeology.
+
+### Hobbies & Interests
+📷 I love to take nature pictures and videos with my camera setups, smartphone, and drones. I also create short drone videoclips and share on my [instagram account](https://www.instagram.com/furkanllci/) and [youtube channel](https://www.youtube.com/@furkan-luleci).
+
+⛰️ I also love any outdoor activities, camping, hiking, kayaking, snowboarding and often visit different national parks as much as I can.
+
+📘 I have a deep interest in history, archeology, and world politics, and in my free time, I read books/articles from various sources about them. 

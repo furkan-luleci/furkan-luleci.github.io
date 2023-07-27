@@ -163,4 +163,19 @@ Teach-In Activity, Carillon Elementary School
  - Have served and serving in multiple roles in ASCE Structural Engineering Institute (SEI)
 - Institution of Structural Engineers, Student Member, 			      2018-2019
 
-
+# Selected Coursework
+- Computer Vision
+- 3D Computer Vision
+- Machine Learning
+- Advanced Virtual Reality
+- Immersive Visualization
+- Dynamics of Structures
+- Finite Element Structural Analysis
+- Advanced Steel Structures
+- Matrix Methods for Structural Analysis
+- Wind and Earthquake Engineering
+- Prestress Concrete Structures
+- Sustainable Infrastructure Systems
+- Advanced Geotech Engineering
+- Project Engineering
+- Industry Ecology

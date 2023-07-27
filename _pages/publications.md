@@ -35,7 +35,7 @@ Catbas FN, Cano JA, **Luleci F**, Walters LC, Michlowitz R (2023). On the Genera
 
 **Luleci F**, Catbas FN (2022) [Structural State Translation: Condition Transfer between Civil Structures Using Domain-Generalization for Structural Health Monitoring](https://doi.org/10.48550/arXiv.2212.14048). In Review by Engineering Structures Journal. 
 
-## Peer-Reviewed Conference Papers
+## Peer-Reviewed Conference Papers and Presentations
 
 **Luleci F**, AlGadi A, Debees M, et al. (2022) [Investigation of Comparative Analysis of a Multi-Span Prestressed Concrete Highway Bridge](http://dx.doi.org/10.1201/9781003322641-174). In: Bridge Safety, Maintenance, Management, Life-Cycle, Resilience and Sustainability. CRC Press, London, pp 1433–1437. Presented at IABMAS in Barcelona, Spain, July 2022.
 

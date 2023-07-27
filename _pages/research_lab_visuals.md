@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: ""
-excerpt: ""
+permalink: /research_lab_visuals/
 author_profile: true
-redirect_from: 
-  - /research_lab_visuals/
-  - /research_lab_visuals.html
 ---
 
 # Some visuals from our CITRS lab and research activities

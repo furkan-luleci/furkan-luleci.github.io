@@ -32,6 +32,10 @@ redirect_from:
 - Graduate Teaching Assistant in an Engineering Statics course of 150 students.
 - Held student office hours and performed assignment/exam gradings.
 
+**Graduate Assistant, UCF, Orlando, FL	Aug 2021 – Jul 2022**
+- Assisted students with application and admission procedures for UCF Global and other UCF programs. Facilitated campus tours of UCF to new and prospective students.
+- Fielded approximately 30 calls and 100 e-mails daily regarding UCF's English Language Institute and UCF programs.
+
 
 # Industry Experience
 **Field Engineer, Superior Construction, Orlando, FL,	Sep 2019 – Jan 2020**
@@ -134,10 +138,10 @@ redirect_from:
 - Luleci F, Catbas FN, (2023). Immersive Visualization for Condition Assessment of Civil Structures, Application Serial No: 18/300,072. (Nonprovisional application submitted). USPTO.
 
 # Projects & Contests Involved in Academia
-- Sercel Project – Experimentation and validation of ultrasensitive wireless accelerometers (S-lynks) on engineering structures (bridges, buildings, etc.)
-- MAPS Project - Mobile Assessment for Civil Infrastructure Preservation using Structural Health Monitoring (SHM) and Building Information Modeling (BIM)
-- NASA Project - A Framework for Structural Assessment Using Structural Health Monitoring (SHM) And Non-Destructive Evaluation (NDE) Along with Advanced Modeling
-- Big Beam Prestressed Contest 2018 by PCI - Designed a 20 feet prestressed beam following the guidelines of PCI and ACI
+- **Sercel Project** – Experimentation and validation of ultrasensitive wireless accelerometers (S-lynks) on engineering structures (bridges, buildings, etc.)
+- **MAPS Project** - Mobile Assessment for Civil Infrastructure Preservation using Structural Health Monitoring (SHM) and Building Information Modeling (BIM)
+- **NASA Project** - A Framework for Structural Assessment Using Structural Health Monitoring (SHM) And Non-Destructive Evaluation (NDE) Along with Advanced Modeling
+- **Big Beam Prestressed Contest 2018 by PCI** - Designed a 20 feet prestressed beam following the guidelines of PCI and ACI
 
 
 # Personal Skills & Competences
@@ -172,33 +176,3 @@ Teach-In Activity, Carillon Elementary School
 - Institution of Structural Engineers, Student Member, 			      2018-2019
 
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

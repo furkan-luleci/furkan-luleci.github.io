@@ -9,14 +9,14 @@ redirect_from:
 
 
 # Education
-**Ph.D in Civil Engineering, University of Central Florida, Aug 2020 - May 2024**
+**Ph.D in Civil Engineering, University of Central Florida (UCF), Aug 2020 - May 2024**
  - Structural engineering focused, emphasis on structural health monitoring.
  - Advisor professor: F. Necati Catbas.
     
-**M.S. in Civil Engineering, University of Central Florida, Jan 2018 - Dec 2019**
+**M.S. in Civil Engineering, University of Central Florida (UCF), Jan 2018 - Dec 2019**
  - Structural engineering focused.
     
-**B.S. in Civil Engineering, Eskisehir Osmangazi University, Sep 2013 - Jun 2017**
+**B.S. in Civil Engineering, Eskisehir Osmangazi University (ESOGU), Sep 2013 - Jun 2017**
  - Capstone project: Green Buildings and Their Design Criteria.
 
 
@@ -37,6 +37,7 @@ redirect_from:
 **Field Engineer, Superior Construction, Orlando, FL,	Sep 2019 – Jan 2020**
 
 *Project: Direct Connect Ramps to/from I-4 (SR400) and Turnpike Mainline (SR 91): Implementation of express lanes on SR 91 from the SR 528 (Beachline) to SR 400, bid: $85,000,000.00
+
 *Project: Epcot Center Drive/World Drive Ramp: Resurfacing asphalt pavement, 1.25 miles
 - Helped with the development and implementation of project execution strategies. Maintained and communicated various project performance metrics and analytics. Supported forecasting and reporting site-related job activities.
 - Fostered and maintained a safe work environment and collaborated with the superintendent to manage work progress and field problems. Coordinated site testing and inspection efforts.
@@ -131,6 +132,23 @@ redirect_from:
 - Luleci F, Catbas FN, Avci O, (2023). Generative Adversarial Networks for Structural Damage Diagnostics, Application Serial No: 18/302,393. (Nonprovisional application submitted). USPTO.
 
 - Luleci F, Catbas FN, (2023). Immersive Visualization for Condition Assessment of Civil Structures, Application Serial No: 18/300,072. (Nonprovisional application submitted). USPTO.
+
+# Projects & Contests Involved in Academia
+- Sercel Project – Experimentation and validation of ultrasensitive wireless accelerometers (S-lynks) on engineering structures (bridges, buildings, etc.)
+- MAPS Project - Mobile Assessment for Civil Infrastructure Preservation using Structural Health Monitoring (SHM) and Building Information Modeling (BIM)
+- NASA Project - A Framework for Structural Assessment Using Structural Health Monitoring (SHM) And Non-Destructive Evaluation (NDE) Along with Advanced Modeling
+- Big Beam Prestressed Contest 2018 by PCI - Designed a 20 feet prestressed beam following the guidelines of PCI and ACI
+
+
+# Personal Skills & Competences
+**Software**
+- SAP 2000, ANSYS, NASTRAN, RISA, Bentley RAM, AutoCAD, CSiBridge, SketchUp, Unity, Blender, CloudCompare, MeshLab, RealityCapture
+
+**Programming & Tools**
+- Python, C#, R, LabVIEW, MATLAB, PyTorch, Robot Operating System (ROS) 1&2, GitHub
+
+**Knowledge**
+- Artificial Intelligence, Data Domain Learning, Deep Learning, Machine Learning, Modal Analysis (experimental & operational), System Diagnostics & Prognostics, Numeric Modeling & Analysis, Robotic Systems (hardware & software), Virtual Reality Systems (software), Data Mining, Signal Processing
 
 
 # Academia Service

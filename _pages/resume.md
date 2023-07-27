@@ -35,6 +35,10 @@ redirect_from:
 
 # Industry Experience
 **Field Engineer, Superior Construction, Orlando, FL,	Sep 2019 – Jan 2020**
+
+*Project: Direct Connect Ramps to/from I-4 (SR400) and Turnpike Mainline (SR 91): Implementation of express lanes on SR 91 from the SR 528 (Beachline) to SR 400, bid: $85,000,000.00
+
+*Project: Epcot Center Drive/World Drive Ramp: Resurfacing asphalt pavement, 1.25 miles
 - Helped with the development and implementation of project execution strategies. Maintained and communicated various project performance metrics and analytics. Supported forecasting and reporting site-related job activities.
 - Fostered and maintained a safe work environment and collaborated with the superintendent to manage work progress and field problems. Coordinated site testing and inspection efforts.
 - Assisted with job controls to ensure compliance with the contract, budget, schedule forecasting and job costing.
@@ -42,6 +46,9 @@ redirect_from:
 - Prepared and submitted Daily and Nightly Site Reports, including work-in-place quantities. 
 
 **Structural Engineer Intern, AB Consulting Engineers, Orlando, FL,	May 2019 – Aug 2019**
+
+*Project: Marriott Orlando Downtown Elevated Pool Deck Construction and Renovation
+
 - Conducted FEA of multiple structures using Nastran NX against various loading cases.
 - Designed Aluminum Guardrail Base Shoes following the ASCE 7-16.
 - Involved in threshold site inspections as a project engineer. Worked with the superintendent to resolve field problems. 
@@ -132,6 +139,7 @@ redirect_from:
 # Community Service
 Teach-In Activity, Carillon Elementary School
   - Teach-in sessions to 2nd grade elementary school kids about fundamentals of engineering.
+
 
 # Professional Licenses & Certifications
 - Engineer in Training (Civil), No: 1100026741, by Florida Board of Professional Engineers.

@@ -110,26 +110,19 @@ redirect_from:
 
 
 # Honors and Awards
-**Geotechnical and Environmental Scholarship Award	Jun 2022**
-- One of three recipients of $2,000 from the UCF College of Engineering
+**Geotechnical and Environmental Scholarship Award	Jun 2022**: One of three recipients of $2,000 from the UCF College of Engineering
 
-**Graduate Student Chapter of the Year Award	Feb 2022**
-- ASCE SEI Graduate Student Chapter at UCF was selected to receive this award under my presidency
+**Graduate Student Chapter of the Year Award	Feb 2022**: ASCE SEI Graduate Student Chapter at UCF was selected to receive this award under my presidency
  
-**ASCE SEI East Central Branch Scholarship Award	Oct 2021**
-- Recipient of $1,000 in East Central Florida
+**ASCE SEI East Central Branch Scholarship Award	Oct 2021**: Recipient of $1,000 in East Central Florida
 
-**UCF International Scholarship Award	Aug 2020**
-- Recipient of $2,500 in UCF
+**UCF International Scholarship Award	Aug 2020**: Recipient of $2,500 in UCF
 
-**UCF ORCGS Doctoral Fellowship Award	Feb 2020**
-- Tuition, fees, insurance coverage for the doctoral program, and a $25,000 stipend for a year
+**UCF ORCGS Doctoral Fellowship Award	Feb 2020**: Tuition, fees, insurance coverage for the doctoral program, and a $25,000 stipend for a year
   
-**UCF Graduate Assistant Fellowship Award	Jan 2018**
-- Tuition, fees, and insurance coverage for the master’s program
+**UCF Graduate Assistant Fellowship Award	Jan 2018**: Tuition, fees, and insurance coverage for the master’s program
 
-**ESOGU Honors Designation	Jun 2017**
-- Graduated in the top 2% of the civil engineering department (ranked 8th)
+**ESOGU Honors Designation	Jun 2017**: Graduated in the top 2% of the civil engineering department (ranked 8th)
 
 
 # Projects & Contests Involved in Academia

@@ -4,8 +4,8 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /visuals/
-  - /visuals.html
+  - /research_lab_visuals/
+  - /research_lab_visuals.html
 ---
 
 # Some visuals from our CITRS lab and research activities

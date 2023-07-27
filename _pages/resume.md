@@ -178,4 +178,4 @@ Teach-In Activity, Carillon Elementary School
 - Sustainable Infrastructure Systems
 - Advanced Geotech Engineering
 - Project Engineering
-- Industry Ecology
+- Industrial Ecology

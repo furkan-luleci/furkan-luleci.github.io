@@ -37,6 +37,7 @@ Structural Health Monitoring, Generative Artificial Intelligence (especially lar
 - Be a professor and become a great mentor for new generations.
 - Write a novel.
 - Maybe have a PhD in another field, like History or Archeology.
+- Open an art gallery, showcasing the pictures/videoclips I took/made over the years.
 
 ### Hobbies & Interests
 📷 I love to take nature pictures and videos with my camera setups, smartphone, and drones. I also create short drone videoclips and share on my [instagram account](https://www.instagram.com/furkanllci/) and [youtube channel](https://www.youtube.com/@furkan-luleci).

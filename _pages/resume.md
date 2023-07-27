@@ -17,14 +17,77 @@ redirect_from:
   - Capstone project: Sustainability design of buildings.
 
 # Academic and Teaching Experience
-**Graduate Research Assistant**, UCF, Orlando, FL,	Aug 2021 – Present
-- Exploring novel and effective solutions to challenging problems in the operation, maintenance, and management of civil engineering structures using artificial intelligence, robotics, and virtual reality coupling with Structural Health Monitoring techniques.
+**Graduate Research Assistant, UCF, Orlando, FL,	Aug 2021 – Present**
+- Exploring novel solutions to challenging problems in the operation, maintenance, and management of civil engineering structures by employing Generative Artificial Intelligence, Virtual Reality, and Robotics, coupled with Structural Health Monitoring techniques.
 - Proactively participating in research team meetings and discussions for different project research tasks.
 - Assisting research team members with experiments, field monitoring data collection, and report/article writing activities.
 - Managing research projects in planning, experimenting, and documenting.
 - Administering and organizing laboratory experimental activities for research tasks.
 
+**Graduate Teaching Assistant, UCF, Orlando, FL	Aug 2022 – Dec 2022**
+- Graduate Teaching Assistant in an Engineering Statics course of 150 students.
+- Held student office hours and performed assignment/exam gradings.
+
+# Industry Experience
+**Field Engineer, Superior Construction, Orlando, FL	Sep 2019 – Jan 2020**
+- Helped with the development and implementation of project execution strategies. Maintained and communicated various project performance metrics and analytics. Supported forecasting and reporting site-related job activities.
+- Fostered and maintained a safe work environment and collaborated with the superintendent to manage work progress and field problems. Coordinated site testing and inspection efforts.
+- Assisted with job controls to ensure compliance with the contract, budget, schedule forecasting and job costing.
+- Developed essential job data, including take-offs, material price lists, labor costs per man hour, and equipment to ensure accurate estimates and bids.
+- Prepared and submitted Daily and Nightly Site Reports, including work-in-place quantities. 
+
+**Structural Engineer Intern, AB Consulting Engs., Orlando, FL	May 2019 – Aug 2019**
+- Conducted FEA of multiple structures using Nastran NX against various loading cases.
+- Designed Aluminum Guardrail Base Shoes following the ASCE 7-16.
+- Involved in threshold site inspections as a project engineer. Worked with the superintendent to resolve field problems. 
+- Prepared and reviewed RFI, Shop Drawings, Deficiency Logs, Inspection Reports & other construction submittals. 
+-	Participated in project meetings and issued meeting minutes. Assisted PM with the preparation of monthly owner billings. 
+-	Organized and administered on-site contractor job coordination meetings.
+
+**Structural Engineer Intern, BBM Structural, Maitland, FL	Feb 2019 – May 2019**
+-	Assisted PMs by designing one-story and multi-story Tilt-up, Concrete, and CMU masonry walls on various projects.
+-	Designed steel and concrete, composite and non-composite structural systems, and was involved in calculations lateral design of commercial, educational, and public facilities.
+-	Experienced in metal deck diaphragm, concrete slab, concrete shear wall, steel joist, girder beam design & connection.
+-	Involved in multiple construction site visits to completed or under-construction buildings in response to the request for an inspection process.
+-	Experienced in following the ASCE-7, ACI 318-14, and AISC and designing structural systems.
+
+**Field Engineer Intern, TAV Construction, Tbilisi, Georgia	Jun 2016 – Aug 2016**
+-	Assisted in Shota Rustaveli Tbilisi Airport arrival terminal construction extension from earthworks to the construction of the first-floor slab, also the renewal of runways and taxiways.
+-	Involved in the calculation of quantity survey of construction sites and earthworks of runways, taxiways, and terminal construction.
+-	Assisted in typical construction site activities, e.g., work progress tracking.
+
+**Field Engineer Intern, K Yapi Gayrimenkul, Istanbul, Turkey	Jun 2015 – Aug 2015**
+-	Involved in constructing three reinforced concrete skyscrapers, mainly assigned to assist in installing tunnel formworks.
+-	Completed essential tasks, such as inspecting the reinforcement in columns, beams and slabs.
+-	Assisted and managed concrete casting of floors as well as columns and beams.
+-	Experienced in the inspection of concrete samples and reading AutoCAD plans.
+
+# Honors and Awards
+
+**Geotechnical and Environmental Scholarship Award	Jun 2022**
+- One of three recipients of $2,000 from the UCF College of Engineering
   
+**Graduate Student Chapter of the Year Award	Feb 2022**
+- ASCE SEI Graduate Student Chapter at UCF was selected to receive this award under my presidency
+  
+**ASCE SEI East Central Branch Scholarship Award	Oct 2021**
+- Recipient of $1,000 in East Central Florida
+  
+**UCF International Scholarship Award	Aug 2020**
+- Recipient of $2,500 in UCF
+  
+**UCF ORCGS Doctoral Fellowship Award	Feb 2020**
+- Tuition, fees, insurance coverage for the doctoral program, and a $25,000 stipend for a year
+  
+**UCF Graduate Assistant Fellowship Award	Jan 2018**
+- Tuition, fees, and insurance coverage for the master’s program
+  
+**ESOGU Honors Designation	Jun 2017**
+- Graduated in the top 2% of the civil engineering department (ranked 8th)
+
+
+
+
 Skills
 ======
 * Skill 1

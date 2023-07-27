@@ -17,7 +17,7 @@ redirect_from:
  - Structural engineering focused.
     
 **B.S. in Civil Engineering, Eskisehir Osmangazi University, Sep 2013 - Jun 2017**
- - Capstone project: Sustainability design of buildings.
+ - Capstone project: Green Buildings and Their Design Criteria.
 
 
 # Academic and Teaching Experience
@@ -136,7 +136,7 @@ Teach-In Activity, Carillon Elementary School
 # Professional Licenses & Certifications
 - Engineer in Training (Civil), No: 1100026741, by Florida Board of Professional Engineers.
 - SAP2000 Training, Computers and Structures, Inc. Issued May 2017
-- Autocad Training, Bilişim Eğitim Merkezi,Issued Sep 2015, Credential ID 4706
+- AutoCAD Training, Bilişim Eğitim Merkezi, Issued Sep 2015, Credential ID 4706
 
 # Professional Affilitations
 - American Society of Civil Engineers, Student Member, 			      2018 - Present

@@ -8,15 +8,15 @@ redirect_from:
 ---
 
 # Education
-## **Ph.D in Civil Engineering, University of Central Florida, Aug 2020 - May 2024**
-  ### Structural engineering focused, emphasis on structural health monitoring.
-  ### Advisor professor: F. Necati Catbas.
+**Ph.D in Civil Engineering, University of Central Florida, Aug 2020 - May 2024**
+ - Structural engineering focused, emphasis on structural health monitoring.
+ - Advisor professor: F. Necati Catbas.
     
-## **M.S. in Civil Engineering, University of Central Florida, Jan 2018 - Dec 2019**
-  - Structural engineering focused.
+**M.S. in Civil Engineering, University of Central Florida, Jan 2018 - Dec 2019**
+ - Structural engineering focused.
     
-## **B.S. in Civil Engineering, Eskisehir Osmangazi University, Sep 2013 - Jun 2017**
-  - Capstone project: Sustainability design of buildings.
+**B.S. in Civil Engineering, Eskisehir Osmangazi University, Sep 2013 - Jun 2017**
+ - Capstone project: Sustainability design of buildings.
 
 # Academic and Teaching Experience
 **Graduate Research Assistant, UCF, Orlando, FL,	Aug 2021 – Present**

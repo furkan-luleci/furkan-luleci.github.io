@@ -174,7 +174,7 @@ Teach-In Activity, Carillon Elementary School
 - Advanced Steel Structures
 - Matrix Methods for Structural Analysis
 - Wind and Earthquake Engineering
-- Prestress Concrete Structures
+- Prestressed Concrete Structures
 - Sustainable Infrastructure Systems
 - Advanced Geotech Engineering
 - Project Engineering

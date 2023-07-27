@@ -1,12 +1,12 @@
 ---
-permalink: /
-title: "Visuals"
-excerpt: ""
+layout: archive
+title: ""
+permalink: /visuals/
 author_profile: true
-redirect_from: 
-  - /visuals/
-  - /visuals.html
+redirect_from:
+  - /visuals
 ---
+
 # Some visuals from our CITRS lab and research activities
 
 - Using unmanned ground robotics for interior/exterior condition assessment

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Visuals"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -32,14 +32,14 @@ redirect_from:
 
 
 
+- Testing the vertical and horizontal lidars on the robot
+![Screenshot 2023-07-27 135219](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/7cc1d16e-bef3-4914-a14d-fd7d455651ee)
 
 
-https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/c3f3781b-af96-4dd8-aaf8-faae6c2f2232
 
+- Carrying our robot in the bed of a truck to take it to a building for a digital twin study
+![Screenshot 2023-07-27 135128](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/0877c973-e1b0-4753-9391-cd24fbe9110d)
 
-- Carrying our robot with a truck to test in a building for a digital twin study
-
-https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/2a6eb2f0-91fe-45f6-8dbe-f0321d8ae895
 
 
 

@@ -32,7 +32,7 @@ redirect_from:
 - Graduate Teaching Assistant in an Engineering Statics course of 150 students.
 - Held student office hours and performed assignment/exam gradings.
 
-**Graduate Assistant, UCF, Orlando, FL	Jan 2018 – Dec 2018**
+**Graduate Assistant, UCF, Orlando, FL,	Jan 2018 – Dec 2018**
 - Assisted students with application and admission procedures for UCF Global and other UCF programs. Facilitated campus tours of UCF to new and prospective students.
 - Fielded approximately 30 calls and 100 e-mails daily regarding UCF's English Language Institute and UCF programs.
 

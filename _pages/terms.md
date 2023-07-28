@@ -7,4 +7,5 @@ redirect_from:
   - /photography
 ---
 
-## Below are the some the pictures I took
+## Below are some of the pictures I took
+

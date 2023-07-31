@@ -146,6 +146,7 @@ redirect_from:
 # Academia Service
 - Chair for Multiple Sessions, for the 8th World Conference on Structural Control and Monitoring (WCSCM) conference in Orlando in 2022
 - Reviewer, Structural Engineering Journal, 				                    2023-Present
+- Reviewer, Advances in Engineering Software,                           2023-Present
 
 
 # Community Service

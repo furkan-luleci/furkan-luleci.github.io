@@ -9,7 +9,9 @@ author_profile: true
 
 ## Journal Publications
 
-Debees M, **Luleci F**, Catbas FN (2023) [Effect of Structural Repairs on the Load Rating and Reliability of a Prestressed Concrete Bridge](https://doi.org/10.1186/s43251-023-00087-0). Advances in Bridge Engineering, Springer 4.
+**Luleci F**, Catbas FN (2023) [Condition transfer between prestressed bridges using structural state translation for structural health monitoring](https://doi.org/10.1007/s43503-023-00016-0). AI in Civil Engineering, 2(7), Springer.
+
+Debees M, **Luleci F**, Catbas FN (2023) [Effect of Structural Repairs on the Load Rating and Reliability of a Prestressed Concrete Bridge](https://doi.org/10.1186/s43251-023-00087-0). Advances in Bridge Engineering 4(8), Springer.
 
 **Luleci F**, Catbas FN, Avci O (2023) [CycleGAN for Undamaged-to-Damaged Domain Translation for Structural Health Monitoring and Damage Detection]( https://doi.org/10.1016/j.ymssp.2023.110370). Mech Syst Signal Process 197. 
 

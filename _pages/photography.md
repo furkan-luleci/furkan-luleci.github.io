@@ -5,7 +5,7 @@ permalink: /photography/
 author_profile: true
 ---
 
-## Below are some of the pictures I took
+## Below are some of the pictures I took with my cameras, smartphone, and drones
 
 ![Picture14](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/23e8eed6-4a28-499c-86cb-30e9027aef07)
 

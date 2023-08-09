@@ -9,21 +9,21 @@ author_profile: true
 
 ## Journal Publications
 
-**Luleci F**, Catbas FN (2023) [Condition transfer between prestressed bridges using structural state translation for structural health monitoring](https://doi.org/10.1007/s43503-023-00016-0). AI in Civil Engineering, 2(7), Springer.
+**Luleci F**, Catbas FN (2023) [Condition transfer between prestressed bridges using structural state translation for structural health monitoring](https://doi.org/10.1007/s43503-023-00016-0). AI in Civil Engineering, 2 (7), Springer.
 
-Debees M, **Luleci F**, Catbas FN (2023) [Effect of Structural Repairs on the Load Rating and Reliability of a Prestressed Concrete Bridge](https://doi.org/10.1186/s43251-023-00087-0). Advances in Bridge Engineering 4(8), Springer.
+Debees M, **Luleci F**, Catbas FN (2023) [Effect of Structural Repairs on the Load Rating and Reliability of a Prestressed Concrete Bridge](https://doi.org/10.1186/s43251-023-00087-0). Advances in Bridge Engineering 4 (8), Springer.
 
-**Luleci F**, Catbas FN, Avci O (2023) [CycleGAN for Undamaged-to-Damaged Domain Translation for Structural Health Monitoring and Damage Detection]( https://doi.org/10.1016/j.ymssp.2023.110370). Mech Syst Signal Process 197(110370), Elsevier. 
+**Luleci F**, Catbas FN, Avci O (2023) [CycleGAN for Undamaged-to-Damaged Domain Translation for Structural Health Monitoring and Damage Detection]( https://doi.org/10.1016/j.ymssp.2023.110370). Mech Syst Signal Process 197 (110370), Elsevier. 
 
-**Luleci F**, Avci O, Catbas FN (2023) [Improved Undamaged-to-Damaged Acceleration Response Translation for Structural Health Monitoring](https://doi.org/10.1016/j.engappai.2023.106146). Eng Appl Artif Intell 122(106146), Elsevier. 
+**Luleci F**, Avci O, Catbas FN (2023) [Improved Undamaged-to-Damaged Acceleration Response Translation for Structural Health Monitoring](https://doi.org/10.1016/j.engappai.2023.106146). Eng Appl Artif Intell 122 (106146), Elsevier. 
 
 **Luleci F**, Catbas FN, Avci O (2023) [Generative Adversarial Networks for Labeled Acceleration Data Augmentation for Structural Damage Detection](https://doi.org/10.1007/s13349-022-00627-8). J Civ Struct Health Monit 13:181–198, Springer. 
 
 Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Condition Assessment of Civil Engineering Structures: A Literature Review](https://doi.org/10.3390/s22239560). Sensors 22:9560, MDPI.  
 
-**Luleci F**, Catbas FN, Avci O (2022) [A literature Review: Generative Adversarial Networks for Civil Structural Health Monitoring](https://doi.org/10.3389/fbuil.2022.1027379). Front Built Environ 8(1027379), Frontiers.
+**Luleci F**, Catbas FN, Avci O (2022) [A literature Review: Generative Adversarial Networks for Civil Structural Health Monitoring](https://doi.org/10.3389/fbuil.2022.1027379). Front Built Environ 8 (1027379), Frontiers.
 
-**Luleci F**, Catbas FN, Avci O (2022) [Generative Adversarial Networks for Data Generation in Structural Health Monitoring](https://doi.org/10.3389/fbuil.2022.816644). Front Built Environ 8(816644), Frontiers. 
+**Luleci F**, Catbas FN, Avci O (2022) [Generative Adversarial Networks for Data Generation in Structural Health Monitoring](https://doi.org/10.3389/fbuil.2022.816644). Front Built Environ 8 (816644), Frontiers. 
 
 ## Journal Papers in Review
 

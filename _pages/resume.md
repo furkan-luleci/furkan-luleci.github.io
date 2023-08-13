@@ -81,7 +81,7 @@ redirect_from:
 -	Assisted and managed concrete casting of floors as well as columns and beams.
 -	Experienced in the inspection of concrete samples and reading AutoCAD plans.
 
-# American Society of Civil Engineers Experience
+# ASCE Community Experience
 **Chair, ASCE SEI Graduate Student Chapter at UCF, Orlando, FL	May 2019 – Present**
 - Organizing American Society of Civil Engineers (ASCE) Structural Engineering Institute (SEI) at UCF Grad Chapter booths at in-person events on the UCF campus.
 -	Coordinating in-person/online chapter events, such as luncheons, seminars, and meetings/discussions, inviting professionals from the industry.
@@ -139,7 +139,7 @@ redirect_from:
 **Programming & Tools**
 - Python, C#, R, LabVIEW, MATLAB, PyTorch, Robot Operating System (ROS) 1&2, GitHub
 
-**Knowledge**
+**Domain Knowledge**
 - Artificial Intelligence, Data Domain Learning, Deep Learning, Machine Learning, Modal Analysis (experimental & operational), System Diagnostics & Prognostics, Numeric Modeling & Analysis, Robotic Systems (hardware & software), Virtual Reality Systems (software), Data Mining, Signal Processing
 
 

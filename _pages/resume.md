@@ -140,7 +140,7 @@ redirect_from:
 - Python, C#, R, LabVIEW, MATLAB, PyTorch, Robot Operating System (ROS) 1&2, GitHub
 
 **Domain Knowledge**
-- Artificial Intelligence, Data Domain Learning, Deep Learning, Machine Learning, Modal Analysis (experimental & operational), System Diagnostics & Prognostics, Numeric Modeling & Analysis, Robotic Systems (hardware & software), Virtual Reality Systems (software), Data Mining, Signal Processing
+- Artificial Intelligence, Data Domain Learning, Deep Learning, Machine Learning, Modal Analysis (experimental & operational), System Diagnostics & Prognostics, Numeric Modeling & Analysis, Robotic Systems (hardware & software), Virtual Reality Systems (software), Data Mining, Signal Processing, Engineering Resilience.
 
 
 # Academia Service

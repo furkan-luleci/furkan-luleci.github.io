@@ -33,8 +33,6 @@ Debees M, **Luleci F**, Dong CZ, Catbas FN (2023). Investigating the Increase in
 
 Catbas FN, Cano JA, **Luleci F**, Walters LC, Michlowitz R (2023). On the Generation of Digital Twin for Structure and Infrastructure Systems: Point Cloud to Numerical Modeling. In Review by Structure and Infrastructure Engineering Journal.
 
-**Luleci F**, Catbas FN (2022) [A Brief Introductory Review to Deep Generative Models for Civil Structural Health Monitoring](https://doi.org/10.13140/RG.2.2.10438.55361). In Review by AI in Civil Engineering Journal. [*Just Accepted*].
-
 **Luleci F**, Catbas FN (2022) [Structural State Translation: Condition Transfer between Civil Structures Using Domain-Generalization for Structural Health Monitoring](https://doi.org/10.48550/arXiv.2212.14048). In Review by Engineering Structures Journal. 
 
 ## Peer-Reviewed Conference Papers and Presentations

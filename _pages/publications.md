@@ -27,6 +27,9 @@ Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Con
 
 **Luleci F**, Catbas FN, Avci O (2022) [Generative Adversarial Networks for Data Generation in Structural Health Monitoring](https://doi.org/10.3389/fbuil.2022.816644). Front Built Environ 8 (816644), Frontiers. 
 
+**Luleci F**, Li L, Chi J, Reiners D, Cruz-Neira C, Catbas FN (2022) [Structural Health Monitoring of a Foot Bridge in Virtual Reality Environment](https://doi.org/10.1016/j.prostr.2022.01.060). Procedia Structural Integrity 37:65–72, Elsevier.
+
+
 ## Journal Papers in Review
 
 Debees M, **Luleci F**, Dong CZ, Catbas FN (2023). Investigating the Increase in Load Rating and Reliability of a Prestressed Concrete Bridge When Utilizing Field-Derived Distribution and Impact Factors. In Review by ASCE Journal of Bridge Engineering.
@@ -35,7 +38,7 @@ Catbas FN, Cano JA, **Luleci F**, Walters LC, Michlowitz R (2023). On the Genera
 
 **Luleci F**, Catbas FN (2022) [Structural State Translation: Condition Transfer between Civil Structures Using Domain-Generalization for Structural Health Monitoring](https://doi.org/10.48550/arXiv.2212.14048). In Review by Engineering Structures Journal. 
 
-## Peer-Reviewed Conference Papers and Presentations
+## Conference Papers, Chapters, and Presentations
 
 **Luleci F**, AlGadi A, Debees M, et al. (2022) [Investigation of Comparative Analysis of a Multi-Span Prestressed Concrete Highway Bridge](http://dx.doi.org/10.1201/9781003322641-174). In: Bridge Safety, Maintenance, Management, Life-Cycle, Resilience and Sustainability. CRC Press, London, pp 1433–1437. Presented at IABMAS in Barcelona, Spain, July 2022.
 

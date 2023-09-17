@@ -11,7 +11,7 @@ redirect_from:
 # Education
 **Ph.D in Civil Engineering, University of Central Florida (UCF), Aug 2020 - May 2024**
  - Structural engineering focused, emphasis on structural health monitoring.
- - Advisor professor: F. Necati Catbas.
+ - Advisor professor: **F. Necati Catbas**.
     
 **M.S. in Civil Engineering, University of Central Florida (UCF), Jan 2018 - Dec 2019**
  - Structural engineering focused.
@@ -22,15 +22,16 @@ redirect_from:
 
 # Academic and Teaching Experience
 **Graduate Research Assistant, UCF, Orlando, FL,	Aug 2021 – Present**
-- Exploring novel solutions to challenging problems in the operation, maintenance, and management of civil engineering structures by employing Generative Artificial Intelligence, Virtual Reality, and Robotics, coupled with Structural Health Monitoring techniques.
+-	Investigating novel and effective solutions to challenging problems in the operation, maintenance, and management of civil engineering structures using Artificial Intelligence (AI), Robotics, and Virtual Reality (VR) coupled with Structural Health Monitoring (SHM) techniques.
+-	Mostly experienced in the applications of Generative AI and Ground Robotics in civil SHM.
+-	Skilled in white paper and full proposal preparations to government agencies, e.g., NSF.
 - Proactively participating in research team meetings and discussions for different project research tasks.
 - Assisting research team members with experiments, field monitoring data collection, and report/article writing activities.
 - Managing research projects in planning, experimenting, and documenting.
 - Administering and organizing laboratory experimental activities for research tasks.
+- Teaching Assistant in an Engineering Statics course of 150 students, holding student office hours and performing assignment/exam gradings.
 
-**Graduate Teaching Assistant, UCF, Orlando, FL,	Aug 2022 – Dec 2022**
-- Graduate Teaching Assistant in an Engineering Statics course of 150 students.
-- Held student office hours and performed assignment/exam gradings.
+**Doctoral Fellow, UCF, Orlando, FL	Aug 2020 – Jul 2021**
 
 **Graduate Assistant, UCF, Orlando, FL,	Jan 2018 – Dec 2018**
 - Assisted students with application and admission procedures for UCF Global and other UCF programs. Facilitated campus tours of UCF to new and prospective students.
@@ -75,7 +76,7 @@ redirect_from:
 
 **Field Engineer Intern, K Yapi Gayrimenkul, Istanbul, Turkey,	Jun 2015 – Aug 2015**
 
-*Project: Trendist Atasehir: High rise RC residential construction.
+* Project: Trendist Atasehir: High-rise RC residential construction.
 -	Involved in constructing three reinforced concrete skyscrapers, mainly assigned to assist in installing tunnel formworks.
 -	Completed essential tasks, such as inspecting the reinforcement in columns, beams and slabs.
 -	Assisted and managed concrete casting of floors as well as columns and beams.
@@ -83,7 +84,7 @@ redirect_from:
 
 # ASCE Community Experience
 **Chair, ASCE SEI Graduate Student Chapter at UCF, Orlando, FL	May 2019 – Present**
-- Organizing American Society of Civil Engineers (ASCE) Structural Engineering Institute (SEI) at UCF Grad Chapter booths at in-person events on the UCF campus.
+- Organizing the American Society of Civil Engineers (ASCE) Structural Engineering Institute (SEI) at UCF Grad Chapter booths at in-person events on the UCF campus.
 -	Coordinating in-person/online chapter events, such as luncheons, seminars, and meetings/discussions, inviting professionals from the industry.
 -	Promoting ASCE SEI organization, membership, and its activities on campus.
 
@@ -126,10 +127,11 @@ redirect_from:
 
 
 # Projects & Contests Involved in Academia
-- **Sercel Project** – Experimentation and validation of ultrasensitive wireless accelerometers (S-lynks) on engineering structures (bridges, buildings, etc.)
+- **Sercel Project** – Experimentation and validation of ultrasensitive wireless accelerometers (S-Lynks) on engineering structures (pedestrian and prestressed highway bridges, buildings)
 - **MAPS Project** - Mobile Assessment for Civil Infrastructure Preservation using Structural Health Monitoring (SHM) and Building Information Modeling (BIM)
 - **NASA Project** - A Framework for Structural Assessment Using Structural Health Monitoring (SHM) And Non-Destructive Evaluation (NDE) Along with Advanced Modeling
 - **Big Beam Prestressed Contest 2018 by PCI** - Designed a 20 feet prestressed beam following the guidelines of PCI and ACI
+UCF Stadium Monitoring ¬– Monitoring the portion of the stadium with Structural Health Monitoring (SHM) systems as well as camera setups.
 
 
 # Personal Skills & Competences
@@ -140,7 +142,7 @@ redirect_from:
 - Python, C#, R, LabVIEW, MATLAB, PyTorch, Robot Operating System (ROS) 1&2, GitHub
 
 **Domain Knowledge**
-- Artificial Intelligence, Data Domain Learning, Deep Learning, Machine Learning, Modal Analysis (experimental & operational), System Diagnostics & Prognostics, Numeric Modeling & Analysis, Robotic Systems (hardware & software), Virtual Reality Systems (software), Data Mining, Signal Processing, Engineering Resilience.
+- Artificial Intelligence, Data Domain Learning, Deep Learning, Machine Learning, Modal Analysis (experimental & operational), System Diagnostics, Numeric Modeling & Analysis, Robotic Systems (hardware & software), Virtual Reality Systems (software), Data Mining, Signal Processing, Engineering Resilience and Agent-based Modeling.
 
 
 # Academia Service

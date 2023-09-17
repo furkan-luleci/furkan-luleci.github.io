@@ -23,7 +23,7 @@ redirect_from:
 # Academic and Teaching Experience
 **Graduate Research Assistant, UCF, Orlando, FL,	Aug 2021 – Present**
 -	Investigating novel and effective solutions to challenging problems in the operation, maintenance, and management of civil engineering structures using *Artificial Intelligence (AI)*, *Robotics*, and *Virtual Reality (VR)* coupled with *Structural Health Monitoring (SHM)* techniques.
--	Mostly experienced in the applications of Generative AI (Generative Adversarial Networks) and Wheeled ground robotics in civil SHM.
+-	Mostly experienced in the applications of Generative AI (Generative Adversarial Networks and Diffusion Models) and wheeled ground robotics in civil SHM.
 -	Skilled in white paper and full proposal preparations for government agencies, e.g., NSF.
 - Proactively participating in research team meetings and discussions for different project research tasks.
 - Assisting research team members with experiments, field monitoring data collection, and report/article writing activities.

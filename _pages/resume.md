@@ -11,7 +11,7 @@ redirect_from:
 # Education
 **Ph.D in Civil Engineering, University of Central Florida (UCF), Aug 2020 - May 2024**
  - Structural engineering focused, emphasis on structural health monitoring.
- - Advisor professor: **F. Necati Catbas**.
+ - Advisor professor: *F. Necati Catbas*.
     
 **M.S. in Civil Engineering, University of Central Florida (UCF), Jan 2018 - Dec 2019**
  - Structural engineering focused.
@@ -22,9 +22,9 @@ redirect_from:
 
 # Academic and Teaching Experience
 **Graduate Research Assistant, UCF, Orlando, FL,	Aug 2021 – Present**
--	Investigating novel and effective solutions to challenging problems in the operation, maintenance, and management of civil engineering structures using Artificial Intelligence (AI), Robotics, and Virtual Reality (VR) coupled with Structural Health Monitoring (SHM) techniques.
--	Mostly experienced in the applications of Generative AI and Ground Robotics in civil SHM.
--	Skilled in white paper and full proposal preparations to government agencies, e.g., NSF.
+-	Investigating novel and effective solutions to challenging problems in the operation, maintenance, and management of civil engineering structures using *Artificial Intelligence (AI)*, *Robotics*, and *Virtual Reality (VR)* coupled with *Structural Health Monitoring (SHM)* techniques.
+-	Mostly experienced in the applications of Generative AI (Generative Adversarial Networks) and Wheeled ground robotics in civil SHM.
+-	Skilled in white paper and full proposal preparations for government agencies, e.g., NSF.
 - Proactively participating in research team meetings and discussions for different project research tasks.
 - Assisting research team members with experiments, field monitoring data collection, and report/article writing activities.
 - Managing research projects in planning, experimenting, and documenting.
@@ -41,9 +41,9 @@ redirect_from:
 # Industry Experience
 **Field Engineer, Superior Construction, Orlando, FL,	Sep 2019 – Jan 2020**
 
-*Project: Direct Connect Ramps to/from I-4 (SR400) and Turnpike Mainline (SR 91): Implementation of express lanes on SR 91 from the SR 528 (Beachline) to SR 400, bid: $85,000,000.00
+*Project*: Direct Connect Ramps to/from I-4 (SR400) and Turnpike Mainline (SR 91): Implementation of express lanes on SR 91 from the SR 528 (Beachline) to SR 400, bid: $85,000,000.00
 
-*Project: Epcot Center Drive/World Drive Ramp: Resurfacing asphalt pavement, 1.25 miles
+*Project*: Epcot Center Drive/World Drive Ramp: Resurfacing asphalt pavement, 1.25 miles
 - Helped with the development and implementation of project execution strategies. Maintained and communicated various project performance metrics and analytics. Supported forecasting and reporting site-related job activities.
 - Fostered and maintained a safe work environment and collaborated with the superintendent to manage work progress and field problems. Coordinated site testing and inspection efforts.
 - Assisted with job controls to ensure compliance with the contract, budget, schedule forecasting and job costing.
@@ -52,7 +52,7 @@ redirect_from:
 
 **Structural Engineer Intern, AB Consulting Engineers, Orlando, FL,	May 2019 – Aug 2019**
 
-*Project: Marriott Orlando Downtown Elevated Pool Deck Construction and Renovation
+*Project*: Marriott Orlando Downtown Elevated Pool Deck Construction and Renovation
 - Conducted FEA of multiple structures using Nastran NX against various loading cases.
 - Designed Aluminum Guardrail Base Shoes following the ASCE 7-16.
 - Involved in threshold site inspections as a project engineer. Worked with the superintendent to resolve field problems. 
@@ -69,14 +69,14 @@ redirect_from:
 
 **Field Engineer Intern, TAV Construction, Tbilisi, Georgia,	Jun 2016 – Aug 2016**
 
-*Project: Tbilisi International Airport Extension and Renovation: Arrival terminal construction, apron and taxiway renovation & runway extension and renovation.
+*Project*: Tbilisi International Airport Extension and Renovation: Arrival terminal construction, apron and taxiway renovation & runway extension and renovation.
 -	Assisted in Shota Rustaveli Tbilisi Airport arrival terminal construction extension from earthworks to the construction of the first-floor slab, also the renewal of runways and taxiways.
 -	Involved in the calculation of quantity survey of construction sites and earthworks of runways, taxiways, and terminal construction.
 -	Assisted in typical construction site activities, e.g., work progress tracking.
 
 **Field Engineer Intern, K Yapi Gayrimenkul, Istanbul, Turkey,	Jun 2015 – Aug 2015**
 
-* Project: Trendist Atasehir: High-rise RC residential construction.
+*Project*: Trendist Atasehir: High-rise RC residential construction.
 -	Involved in constructing three reinforced concrete skyscrapers, mainly assigned to assist in installing tunnel formworks.
 -	Completed essential tasks, such as inspecting the reinforcement in columns, beams and slabs.
 -	Assisted and managed concrete casting of floors as well as columns and beams.
@@ -107,7 +107,7 @@ redirect_from:
 -	Established working relations with all graduate student chapters in coordination with the Vice Chair.
 -	Publicized the events and activities of the Council.
 -	Participated in the meetings and conference calls set up by the GSCLC/LAD EXCOM.
--	Managed external communications between student and ASCE organizations.
+-	Managed external communications between students and ASCE organizations.
 
 
 # Honors and Awards
@@ -127,7 +127,7 @@ redirect_from:
 
 
 # Projects & Contests Involved in Academia
-- **Sercel Project** – Experimentation and validation of ultrasensitive wireless accelerometers (S-Lynks) on engineering structures (pedestrian and prestressed highway bridges, buildings)
+- **Sercel Project** – Experimentation and validation of ultrasensitive wireless accelerometers (S-Lynks) on engineering structures (pedestrian and prestressed highway bridges, and buildings)
 - **MAPS Project** - Mobile Assessment for Civil Infrastructure Preservation using Structural Health Monitoring (SHM) and Building Information Modeling (BIM)
 - **NASA Project** - A Framework for Structural Assessment Using Structural Health Monitoring (SHM) And Non-Destructive Evaluation (NDE) Along with Advanced Modeling
 - **Big Beam Prestressed Contest 2018 by PCI** - Designed a 20 feet prestressed beam following the guidelines of PCI and ACI

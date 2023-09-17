@@ -167,7 +167,7 @@ Teach-In Activity, Carillon Elementary School
 - Institution of Structural Engineers, Student Member, 			      2018-2019
 
 # Selected Coursework
-## From MSCE and PhD
+*From MSCE and PhD*:
 - Computer Vision
 - 3D Computer Vision
 - Machine Learning

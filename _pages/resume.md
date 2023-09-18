@@ -146,7 +146,7 @@ UCF Stadium Monitoring ¬– Monitoring the portion of the stadium with Structur
 
 
 # Academia Service
-- Chair for Multiple Sessions, for the 8th World Conference on Structural Control and Monitoring (WCSCM) conference in Orlando in 2022
+- Chair for Multiple Sessions for the 8th World Conference on Structural Control and Monitoring (WCSCM) conference in Orlando in 2022
 - Reviewer, Structural Engineering Journal, 				                    2023-Present
 - Reviewer, Advances in Engineering Software,                           2023-Present
 
@@ -158,7 +158,7 @@ Teach-In Activity, Carillon Elementary School
 
 # Professional Licenses & Certifications
 - Engineer in Training (Civil), No: 1100026741, by Florida Board of Professional Engineers.
-- SAP2000 Training, Computers and Structures, Inc. Issued May 2017
+- SAP2000 Training, Computers and Structures, Inc. Isand017
 - AutoCAD Training, Bilişim Eğitim Merkezi, Issued Sep 2015, Credential ID 4706
 
 # Professional Affilitations
@@ -167,7 +167,7 @@ Teach-In Activity, Carillon Elementary School
 - Institution of Structural Engineers, Student Member, 			      2018-2019
 
 # Selected Coursework
-*From MSCE and PhD*:
+*In MSCE and PhD programs*:
 - Computer Vision
 - 3D Computer Vision
 - Machine Learning

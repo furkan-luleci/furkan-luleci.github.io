@@ -147,10 +147,10 @@ UCF Stadium Monitoring ¬– Monitoring the portion of the stadium with Structur
 
 # Academia Service
 - Chair for Multiple Sessions for the 8th World Conference on Structural Control and Monitoring (WCSCM) conference in Orlando in 2022
-- Reviewer, Structural Engineering Journal, 				                    2023-Present
-- Reviewer, Advances in Engineering Software Journal,                   2023-Present
-- Reviewer, Journal of Bridge Engineering,                              2023-Present
-- Reviewer, Structure and Infrastructure Engineering Journal,           2023-Present
+- Reviewer, Structural Engineering Journal, 				                    
+- Reviewer, Advances in Engineering Software Journal,                   
+- Reviewer, Journal of Bridge Engineering,                              
+- Reviewer, Structure and Infrastructure Engineering Journal,           
 
 # Community Service
 Teach-In Activity, Carillon Elementary School

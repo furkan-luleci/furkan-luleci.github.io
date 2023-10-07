@@ -15,7 +15,7 @@ redirect_from:
 
 🎯 **My research aims** to enhance the condition assessment procedures of civil engineering structures to improve their overall safety for the betterment of our life quality.
 
-👨‍🏫 **During my PhD**, I was a teaching assistant for a undergraduate level Engineering Statics course and also assisted in teaching graduate level courses, such as Finite Element Analysis and Dynamic Analysis of Structures at UCF.
+👨‍🏫 **During my PhD**, I was a teaching assistant for an undergraduate level Engineering Statics course and also assisted in teaching several graduate-level courses, such as Finite Element Analysis and Dynamic Analysis of Structures at UCF.
 
 👷 **During my master's and bachelor's** in Civil (Structural) Engineering, I had the opportunity to work in residential (skyscrapers) and infrastructure (bridge & airports) constructions as well as residential structural engineering design firms.
 
@@ -27,7 +27,7 @@ redirect_from:
 Structural Health Monitoring, Generative Artificial Intelligence (especially large generative models using adversarial-based models, diffusion models, and/or transformers), Virtual Reality systems, Robotics (unmanned ground vehicles), Structural Dynamics, Non-Destructive Testing and evaluation, Numeric Modelling and analysis, Modal Analysis, Bridge Load Rating, Smart Cities, Structural Reliability, Community Disaster Resilience, Sustainability, System Diagnostics & Prognostics.
 
 ### Near Future Goals
-- Develop a multi-robot-based structural condition assessment system to support community and infrastructure resiliency and enhance their efficiency in operation, maintenance, and management.
+- Develop a multi-robot-based structural condition assessment system to support community and built environment resilience and enhance efficiency in the operation, maintenance, and management of civil structure and infrastructure systems.
 - Characterize and develop a Generative Artificial Intelligence-based methodology to generate possible sensor data of various types of civil engineering structures for different structural conditions to optimize/minimize the data collection efforts from them.
 
 ### Lifetime Goals
@@ -37,11 +37,11 @@ Structural Health Monitoring, Generative Artificial Intelligence (especially lar
 - Be a professor and become a great mentor for new generations.  
 - Write a novel.
 - Maybe have a PhD in another field, like History or Archeology.
-- Open an art gallery, showcasing the pictures/videoclips I took/made over the years.
+- Open an art gallery showcasing the pictures/video clips I took/made over the years.
 
 ### Hobbies & Interests
-📷 I love to take nature pictures and videos with my camera setups, smartphone, and drones. I also create short drone videoclips and share on my [instagram account](https://www.instagram.com/furkanllci/) and [youtube channel](https://www.youtube.com/@furkan-luleci).
+📷 I love to take nature pictures and videos with my camera setups, smartphone, and drones. I also create short drone video clips and share them on my [instagram account](https://www.instagram.com/furkanllci/) and [youtube channel](https://www.youtube.com/@furkan-luleci).
 
-⛰️ I also love any outdoor activities, camping, hiking, kayaking, snowboarding and often visit different national parks as much as I can.
+⛰️ I also love any outdoor activities, camping, hiking, kayaking, and snowboarding, and often visit different national parks as much as I can.
 
 📘 I have a deep interest in history, archeology, and world politics, and in my free time, I read books/articles from various sources about them. 

@@ -12,11 +12,13 @@ author_profile: true
 
 ![Picture3](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/5d200f64-2525-498a-864b-563a3933ccba)
 
-- Sensing the dynamic behaviour of a bridge via ultrasensitive wireless accelerometers
+- Sensing the dynamic behavior of a bridge via ultrasensitive wireless accelerometers
 ![Picture4](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/f05f6206-1d3e-4a05-be9b-999dd845f63a)
 
-- Remote assessment of a bridge with other engineers in a Virtual Reality platfor for a collaborative work environment
+- Remote assessment of a bridge with other engineers in a Virtual Reality platform for a collaborative work environment
 ![Picture5](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/35f65d92-01d6-4637-9ab7-33f007a6beba)
+
+![Picture1 (1)](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/e62d39a4-c31b-4901-8fa8-a551274fdb51)
 
 - UCF ASCE SEI Grad Student Chapter was selected as Chapter of the Year in 2022 by ASCE!
 ![Picture6](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/f2b580e6-5146-4834-8214-71f081750a53)

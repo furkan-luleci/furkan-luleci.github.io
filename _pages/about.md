@@ -15,7 +15,7 @@ redirect_from:
 
 🎯 **My research aims** to enhance the condition assessment procedures of civil engineering structures to improve their overall safety for the betterment of our life quality.
 
-👨‍🏫 **During my PhD**, I was a teaching assistant for an undergraduate-level Engineering Statics course and also assisted in teaching several graduate-level courses, such as Finite Element Analysis and Dynamic Analysis of Structures at UCF.
+👨‍🏫 **During my PhD**, I was a teaching assistant for an undergraduate-level Engineering Statics course and also assisted in teaching several graduate-level courses, such as Finite Element Analysis, Matrix Techniques in Numerical Analysis, and Dynamic Analysis of Structures at UCF.
 
 👷 **During my master's and bachelor's** in Civil (Structural) Engineering, I had the opportunity to work in residential (skyscrapers) and infrastructure (bridge & airports) constructions as well as residential structural engineering design firms.
 

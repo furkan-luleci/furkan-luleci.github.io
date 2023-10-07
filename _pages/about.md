@@ -15,7 +15,7 @@ redirect_from:
 
 🎯 **My research aims** to enhance the condition assessment procedures of civil engineering structures to improve their overall safety for the betterment of our life quality.
 
-👨‍🏫 **During my PhD**, I was a teaching assistant for an undergraduate level Engineering Statics course and also assisted in teaching several graduate-level courses, such as Finite Element Analysis and Dynamic Analysis of Structures at UCF.
+👨‍🏫 **During my PhD**, I was a teaching assistant for an undergraduate-level Engineering Statics course and also assisted in teaching several graduate-level courses, such as Finite Element Analysis and Dynamic Analysis of Structures at UCF.
 
 👷 **During my master's and bachelor's** in Civil (Structural) Engineering, I had the opportunity to work in residential (skyscrapers) and infrastructure (bridge & airports) constructions as well as residential structural engineering design firms.
 
@@ -24,7 +24,8 @@ redirect_from:
 <img align="center" width="628" height="297" src="/images/bridge 2.jpg">
 
 ### Research Interests
-Structural Health Monitoring, Generative Artificial Intelligence (especially large generative models using adversarial-based models, diffusion models, and/or transformers), Virtual Reality systems, Robotics (unmanned ground vehicles), Structural Dynamics, Non-Destructive Testing and evaluation, Numeric Modelling and analysis, Modal Analysis, Bridge Load Rating, Smart Cities, Structural Reliability, Community Disaster Resilience, Sustainability, System Diagnostics, Digital Twin.
+Structural Health Monitoring, Generative Artificial Intelligence (especially large generative models using adversarial-based models, diffusion models, and/or transformers), Virtual Reality systems, Robotics (unmanned ground vehicles), Structural Dynamics, Non-Destructive Testing and evaluation, Numeric Modelling and analysis, Modal Analysis, Bridge Load Rating, Smart Cities, Structural Reliability, Community Disaster Resilience, Sustainability, System Diagnostics, Digital Twin, Sustainable Infrastructure Systems.
+.
 
 ### Near Future Goals
 - Develop a multi-robot-based structural condition assessment system to support community and built environment resilience and enhance efficiency in the operation, maintenance, and management of civil structure and infrastructure systems.

@@ -23,15 +23,17 @@ redirect_from:
 # Academic and Teaching Experience
 **Graduate Research Assistant, UCF, Orlando, FL,	Aug 2021 – Present**
 -	Investigating novel and effective solutions to challenging problems in the operation, maintenance, and management of civil engineering structures using *Artificial Intelligence (AI)*, *Robotics*, and *Virtual Reality (VR)* coupled with *Structural Health Monitoring (SHM)* techniques.
--	Mostly experienced in the applications of Generative AI (Generative Adversarial Networks and Diffusion Models) and wheeled ground robotics in civil SHM.
--	Skilled in white paper and full proposal preparations for government agencies, e.g., NSF.
+-	Skilled in the applications of Generative Adversarial Networks, Diffusion Models, VR, and Ground Wheeled Large Robots in civil SHM.
+-	Skilled in white paper and full proposal preparations for government agencies (NSF and USDT’s UTC) related to community disaster resilience-based risk quantification.
 - Proactively participating in research team meetings and discussions for different project research tasks.
 - Assisting research team members with experiments, field monitoring data collection, and report/article writing activities.
 - Managing research projects in planning, experimenting, and documenting.
 - Administering and organizing laboratory experimental activities for research tasks.
 - Teaching Assistant in an Engineering Statics course of 150 students, holding student office hours and performing assignment/exam gradings.
+- Assisting in teaching and grading several graduate-level courses, such as Finite Element Analysis and Dynamic Analysis of Structures.
 
 **Doctoral Fellow, UCF, Orlando, FL	Aug 2020 – Jul 2021**
+- Explored interdisciplinary research subjects in SHM of civil engineering structures while taking PhD program courses.
 
 **Graduate Assistant, UCF, Orlando, FL,	Jan 2018 – Dec 2018**
 - Assisted students with application and admission procedures for UCF Global and other UCF programs. Facilitated campus tours of UCF to new and prospective students.
@@ -142,8 +144,7 @@ UCF Stadium Monitoring ¬– Monitoring the portion of the stadium with Structur
 - Python, C#, R, LabVIEW, MATLAB, PyTorch, Robot Operating System (ROS) 1&2, GitHub
 
 **Domain Knowledge**
-- Artificial Intelligence, Data Domain Learning, Deep Learning, Machine Learning, Modal Analysis (experimental & operational), System Diagnostics, Numeric Modeling & Analysis, Robotic Systems (hardware & software), Virtual Reality Systems (software), Data Mining, Signal Processing, Engineering Resilience and Agent-based Modeling.
-
+- Structural Health Monitoring (frameworks and tools), Data Acquisition Systems, Data Domain Learning, Machine Learning, Generative Artificial Intelligence, Community Resilience, Agent-Based Modeling, Modal Analysis (experimental and operational), System Diagnostics, Numeric Modeling and Analysis, Robotic Systems (hardware and software), Virtual Reality (software), Data Mining, Signal Processing, Digital Twin.
 
 # Academia Service
 - Chair for Multiple Sessions for the 8th World Conference on Structural Control and Monitoring (WCSCM) conference in Orlando in 2022

@@ -30,7 +30,7 @@ redirect_from:
 - Managing research projects in planning, experimenting, and documenting.
 - Administering and organizing laboratory experimental activities for research tasks.
 - Teaching Assistant in an Engineering Statics course of 150 students, holding student office hours and performing assignment/exam gradings.
-- Assisting in teaching and grading several graduate-level courses, such as Finite Element Analysis and Dynamic Analysis of Structures.
+- Assisting in teaching and grading several graduate-level courses, such as Finite Element Analysis, Matrix Techniques in Numerical Analysis, and Dynamic Analysis of Structures.
 
 **Doctoral Fellow, UCF, Orlando, FL	Aug 2020 – Jul 2021**
 - Explored interdisciplinary research subjects in SHM of civil engineering structures while taking PhD program courses.

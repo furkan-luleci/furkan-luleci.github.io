@@ -144,7 +144,7 @@ UCF Stadium Monitoring ¬– Monitoring the portion of the stadium with Structur
 - Python, C#, R, LabVIEW, MATLAB, PyTorch, Robot Operating System (ROS) 1&2, GitHub
 
 **Domain Knowledge**
-- Structural Health Monitoring (frameworks and tools), Data Acquisition Systems, Data Domain Learning, Machine Learning, Generative Artificial Intelligence, Community Resilience, Agent-Based Modeling, Modal Analysis (experimental and operational), System Diagnostics, Numeric Modeling and Analysis, Robotic Systems (hardware and software), Virtual Reality (software), Data Mining, Signal Processing, Digital Twin.
+- Structural Health Monitoring (frameworks and tools), Data Acquisition Systems, Data Domain Learning, Machine Learning, Generative Artificial Intelligence, Community Resilience, Agent-Based Modeling, Modal Analysis (experimental and operational), System Diagnostics, Numeric Modeling and Analysis, Robotic Systems (hardware and software), Virtual Reality (software), Data Mining, Signal Processing, Digital Twin, Sustainable Infrastructure Systems
 
 # Academia Service
 - Chair for Multiple Sessions for the 8th World Conference on Structural Control and Monitoring (WCSCM) conference in Orlando in 2022
@@ -170,6 +170,7 @@ Teach-In Activity, Carillon Elementary School
 
 # Selected Coursework
 *In MSCE and PhD programs*:
+- Sustainable Infrastructure Systems
 - Computer Vision
 - 3D Computer Vision
 - Machine Learning
@@ -181,7 +182,6 @@ Teach-In Activity, Carillon Elementary School
 - Matrix Methods for Structural Analysis
 - Wind and Earthquake Engineering
 - Prestressed Concrete Structures
-- Sustainable Infrastructure Systems
 - Advanced Geotech Engineering
 - Project Engineering
 - Industrial Ecology

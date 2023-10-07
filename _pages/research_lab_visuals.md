@@ -20,8 +20,6 @@ author_profile: true
 
 ![Picture1 (1)](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/e62d39a4-c31b-4901-8fa8-a551274fdb51)
 
-![Picture1](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/d105aa54-515f-438b-9141-ea13a46d5eda)
-
 - UCF ASCE SEI Grad Student Chapter was selected as Chapter of the Year in 2022 by ASCE!
 ![Picture6](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/f2b580e6-5146-4834-8214-71f081750a53)
 

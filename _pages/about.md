@@ -11,7 +11,7 @@ redirect_from:
 ## Briefly about me
 👨🏻‍💻 **I'm a PhD candidate** in Civil - Structural - Engineering and a research assistant at [Civil Infrastructure Technologies for Resiliency and Safety (CITRS)](https://www.cece.ucf.edu/citrs/) labs at the [University of Central Florida (UCF)](https://www.ucf.edu/). My PhD advisor is Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/), who is Lockheed Martin St. Laurent Professor and the director of CITRS.
 
-📖 **My research explores** novel solutions to challenging problems in the operation, maintenance, and management of civil engineering structures by employing *Generative Artificial Intelligence*, *Virtual Reality*, and *Robotics*, coupled with *Structural Health Monitoring* techniques.
+📖 **My research explores** novel solutions to challenging problems in the operation, maintenance, and management of civil engineering structures by employing *Generative Artificial Intelligence*, *Virtual Reality*, *Robotics*, and *Agent-Based Modeling* tools, coupled with *Structural Health Monitoring* techniques.
 
 🎯 **My research aims** to enhance the condition assessment procedures of civil engineering structures to improve their overall safety for the betterment of our life quality.
 

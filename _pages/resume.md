@@ -23,8 +23,8 @@ redirect_from:
 # Academic and Teaching Experience
 **Graduate Research Assistant, UCF, Orlando, FL,	Aug 2021 – Present**
 -	Investigating novel and effective solutions to challenging problems in the operation, maintenance, and management of civil engineering structures using *Artificial Intelligence (AI)*, *Robotics*, and *Virtual Reality (VR)* coupled with *Structural Health Monitoring (SHM)* techniques.
--	Skilled in the applications of Generative Adversarial Networks, Diffusion Models, VR, and Ground Wheeled Large Robots in civil SHM.
--	Skilled in white paper and full proposal preparations for government agencies (NSF and USDT’s UTC) related to community disaster resilience-based risk quantification.
+-	Experienced in the applications of Generative Adversarial Networks, Diffusion Models, VR, and Ground Wheeled Large Robots in civil SHM.
+-	Experienced in white paper and full proposal preparations for government agencies (NSF and USDT’s UTC) related to community disaster resilience-based risk quantification.
 - Proactively participating in research team meetings and discussions for different project research tasks.
 - Assisting research team members with experiments, field monitoring data collection, and report/article writing activities.
 - Managing research projects in planning, experimenting, and documenting.
@@ -129,11 +129,11 @@ redirect_from:
 
 
 # Projects & Contests Involved in Academia
+- **UCF Stadium Monitoring** ¬– Monitoring the portion of the stadium with Structural Health Monitoring (SHM) systems as well as camera setups
 - **Sercel Project** – Experimentation and validation of ultrasensitive wireless accelerometers (S-Lynks) on engineering structures (pedestrian and prestressed highway bridges, and buildings)
 - **MAPS Project** - Mobile Assessment for Civil Infrastructure Preservation using Structural Health Monitoring (SHM) and Building Information Modeling (BIM)
 - **NASA Project** - A Framework for Structural Assessment Using Structural Health Monitoring (SHM) And Non-Destructive Evaluation (NDE) Along with Advanced Modeling
 - **Big Beam Prestressed Contest 2018 by PCI** - Designed a 20 feet prestressed beam following the guidelines of PCI and ACI
-UCF Stadium Monitoring ¬– Monitoring the portion of the stadium with Structural Health Monitoring (SHM) systems as well as camera setups.
 
 
 # Personal Skills & Competences
@@ -155,7 +155,7 @@ UCF Stadium Monitoring ¬– Monitoring the portion of the stadium with Structur
 
 # Community Service
 Teach-In Activity, Carillon Elementary School
-  - Teach-in sessions to 2nd grade elementary school kids about fundamentals of engineering.
+  - Teach-in sessions to 2nd-grade elementary school kids about the fundamentals of engineering.
 
 
 # Professional Licenses & Certifications
@@ -163,9 +163,9 @@ Teach-In Activity, Carillon Elementary School
 - SAP2000 Training, Computers and Structures, Inc. Isand017
 - AutoCAD Training, Bilişim Eğitim Merkezi, Issued Sep 2015, Credential ID 4706
 
-# Professional Affilitations
+# Professional Affiliations
 - American Society of Civil Engineers, Student Member, 			      2018 - Present
- - Have served and serving in multiple roles in ASCE Structural Engineering Institute (SEI)
+ - Have served and serving in multiple roles at ASCE Structural Engineering Institute (SEI)
 - Institution of Structural Engineers, Student Member, 			      2018-2019
 
 # Selected Coursework

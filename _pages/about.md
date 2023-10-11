@@ -13,7 +13,7 @@ redirect_from:
 
 📖 **My research explores** novel solutions to challenging problems in the operation, maintenance, and management of civil engineering structures by employing *Generative Artificial Intelligence*, *Virtual Reality*, *Robotics*, and *Agent-Based Modeling* tools, coupled with *Structural Health Monitoring* techniques.
 
-🎯 **My research aims** to enhance the condition assessment procedures of civil engineering structures to improve their overall safety for the betterment of our life quality.
+🎯 **My research seeks** innovative cross-disciplinary approaches to address built environment challenges and enhance resilience at element and system levels. My research drives my commitment to interdisciplinary and impactful research in our field that is transferable (adapting to different contexts) and scalable (adaptable to different dimensions), all while targeting solutions to sustain successful outcomes long-term (sustainable). 
 
 👨‍🏫 **During my PhD**, I was a teaching assistant for an undergraduate-level Engineering Statics course and also assisted in teaching several graduate-level courses, such as Finite Element Analysis, Matrix Techniques in Numerical Analysis, and Dynamic Analysis of Structures at UCF.
 
@@ -25,7 +25,7 @@ redirect_from:
 
 ### Research Interests
 Structural Health Monitoring, Generative Artificial Intelligence (especially large generative models using adversarial-based models, diffusion models, and/or transformers), Virtual Reality systems, Robotics (unmanned ground vehicles), Structural Dynamics, Non-Destructive Testing and evaluation, Numeric Modelling and analysis, Modal Analysis, Bridge Load Rating, Structural Reliability, Community Disaster Resilience, Sustainability, System Diagnostics, Digital Twin, Sustainable Infrastructure Systems.
-.
+
 
 ### Near Future Goals
 - Develop a multi-robot-based structural condition assessment system to support community and built environment resilience and enhance efficiency in the operation, maintenance, and management of civil structure and infrastructure systems.

@@ -41,7 +41,7 @@ Structural Health Monitoring, Generative Artificial Intelligence (especially lar
 - Open an art gallery showcasing the pictures/video clips I took/made over the years.
 
 ### Hobbies & Interests
-📷 I love to take nature pictures and videos with my camera setups, smartphone, and drones. I also create short drone video clips and share them on my [instagram account](https://www.instagram.com/furkanllci/) and [youtube channel](https://www.youtube.com/@furkan-luleci).
+📷 I love to take nature pictures and videos with my camera setups, smartphone, and drones. I also create short drone video clips and share them on my [instagram account](https://www.instagram.com/furkanllci/) and [youtube channel](https://www.youtube.com/@fllci).
 
 ⛰️ I also love any outdoor activities, camping, hiking, kayaking, and snowboarding, and often visit different national parks as much as I can.
 

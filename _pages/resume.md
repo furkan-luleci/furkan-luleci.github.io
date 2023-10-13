@@ -85,6 +85,9 @@ redirect_from:
 -	Experienced in the inspection of concrete samples and reading AutoCAD plans.
 
 # ASCE Community Experience
+**Mentorship, ASCE Mentor Match Program,	Nov 2021 – Present**
+- Serving as a volunteer mentor for engineering students
+
 **Chair, ASCE SEI Graduate Student Chapter at UCF, Orlando, FL	May 2019 – Present**
 - Organizing the American Society of Civil Engineers (ASCE) Structural Engineering Institute (SEI) at UCF Grad Chapter booths at in-person events on the UCF campus.
 -	Coordinating in-person/online chapter events, such as luncheons, seminars, and meetings/discussions, inviting professionals from the industry.

@@ -45,7 +45,7 @@ Generative AI (Generative Adversarial Networks - GANs, Diffusion Models, Transfo
 - Be a professor and become a great mentor for new generations.  
 - Write a novel.
 - Maybe have a PhD in another field, like History or Archeology.
-- Open an art gallery showcasing the pictures/video clips I took/made over the years.
+- Open an art gallery showcasing the pictures/video clips I took over the years.
 
 ### Hobbies & Interests
 📷 I love to take nature pictures and videos with my camera setups, smartphone, and drones. I also create short drone video clips and share them on my [instagram account](https://www.instagram.com/furkanllci/) and [youtube channel](https://www.youtube.com/@fllci).

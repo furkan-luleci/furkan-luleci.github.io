@@ -11,9 +11,9 @@ redirect_from:
 ## Briefly about me
 👨🏻‍💻 **I'm a PhD candidate** in Civil - Structural - Engineering and a research assistant at [Civil Infrastructure Technologies for Resiliency and Safety (CITRS)](https://www.cece.ucf.edu/citrs/) labs at the [University of Central Florida (UCF)](https://www.ucf.edu/). My PhD advisor is Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/), who is Lockheed Martin St. Laurent Professor and the director of CITRS.
 
-📖 **My research explores** novel solutions to challenging problems in the operation, maintenance, and management of civil engineering structures by employing *Generative Artificial Intelligence*, *Virtual Reality*, *Robotics*, and *Agent-Based Modeling* tools, coupled with *Structural Health Monitoring* techniques.
+📖 **My research explores** novel and effective solutions to challenging problems in the operation, maintenance, and management of civil engineering structure/infrastructure systems by employing *Generative Artificial Intelligence*, *Virtual Reality*, *Robotics*, and *Agent-Based Modeling* tools, coupled with *Structural Health Monitoring* techniques.
 
-🎯 **My research seeks** innovative cross-disciplinary approaches to address built environment challenges and enhance resilience at element and system levels. My research drives my commitment to interdisciplinary and impactful research in our field that is transferable (adapting to different contexts) and scalable (adaptable to different dimensions), all while targeting solutions to sustain successful outcomes long-term (sustainable). 
+🎯 **My research aims** innovative cross-disciplinary approaches to address built environment challenges and enhance the resilience of physical space at element and system levels. My research drives my commitment to interdisciplinary and impactful research in our field that is transferable (adapting to different contexts) and scalable (adaptable to different dimensions), all while targeting solutions to sustain successful outcomes long-term (sustainable). 
 
 👨‍🏫 **During my PhD**, I was a teaching assistant for an undergraduate-level Engineering Statics course and also assisted in teaching several graduate-level courses, such as Finite Element Analysis, Matrix Techniques in Numerical Analysis, and Dynamic Analysis of Structures at UCF.
 
@@ -24,7 +24,14 @@ redirect_from:
 <img align="center" width="628" height="297" src="/images/bridge 2.jpg">
 
 ### Research Interests
-Structural Health Monitoring, Generative Artificial Intelligence (especially large generative models using adversarial-based models, diffusion models, and/or transformers), Virtual Reality systems, Robotics (unmanned ground vehicles), Structural Dynamics, Non-Destructive Testing and evaluation, Numeric Modelling and analysis, Modal Analysis, Bridge Load Rating, Structural Reliability, Community Disaster Resilience, Sustainability, System Diagnostics, Digital Twin, Sustainable Infrastructure Systems.
+I am interested in using cross-disciplinary approaches to enhance the resilience of physical systems. <ins>In Civil - Structural Engineering related areas</ins>, my interests lie in the following subjects:
+
+Structural Health Monitoring, Advanced Sensing Technologies, Structural Reliability, Infrastructure and Community Disaster Resilience, Sustainable Infrastructure Systems, Operational Modal Analysis, Structural Dynamics, Numerical Modeling and Analysis, System Diagnostics and Prognostics, Signal Processing, Load Rating.
+
+<ins>In multidisciplinary areas</ins>, my interests lie in the following areas:
+
+Generative AI (Generative Adversarial Networks - GANs, Diffusion Models, Transformers), Domain Generalization, Transfer Learning, Multi-Modal Learning, Virtual Reality and other immersive visualization tools, Robotics (unmanned ground and aerial vehicles), Digital Twin, Agent-Based Modeling and Multi-Agent Systems.
+
 
 
 ### Near Future Goals

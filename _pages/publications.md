@@ -9,6 +9,8 @@ author_profile: true
 
 ## Journal Publications
 
+Debees M, **Luleci F**, Dong CZ, Catbas FN (2023). Investigating the Increase in Load Rating and Reliability of a Prestressed Concrete Bridge When Utilizing Field-Derived Distribution and Impact Factors. Journal of Bridge Engineering, ASCE [Pending for Publication].
+
 **Luleci F**, Catbas FN (2023) [A Brief Introductory Review to Deep Generative Models for Civil Structural Health Monitoring](https://doi.org/10.1007/s43503-023-00017-z). AI in Civil Engineering, 2 (9), Springer.
 
 **Luleci F**, Catbas FN (2023) [Condition transfer between prestressed bridges using structural state translation for structural health monitoring](https://doi.org/10.1007/s43503-023-00016-0). AI in Civil Engineering, 2 (7), Springer.

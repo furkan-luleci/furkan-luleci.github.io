@@ -10,12 +10,15 @@ redirect_from:
 
 # Education
 **Ph.D in Civil Engineering, University of Central Florida (UCF), Aug 2020 - May 2024**
- - Structural engineering focused, emphasis on structural health monitoring.
+ - Structural engineering focused with emphasis on structural health monitoring.
  - Advisor professor: *F. Necati Catbas*.
-    
+
+
 **M.S. in Civil Engineering, University of Central Florida (UCF), Jan 2018 - Dec 2019**
- - Structural engineering focused.
-    
+ - Structural engineering and sustainability-focused
+ - Advisor professor: Prof. F. Necati Catbas
+
+   
 **B.S. in Civil Engineering, Eskisehir Osmangazi University (ESOGU), Sep 2013 - Jun 2017**
  - Capstone project: Green Buildings and Their Design Criteria.
 

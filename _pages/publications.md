@@ -64,7 +64,7 @@ Moseley K, **Luleci F**, Catbas FN (2021) [Investigation of Tablet and Terrestri
 
 ## Patents
 
-**Luleci F**, Catbas FN, Avci O, (2023). Generative Adversarial Networks for Structural Damage Diagnostics, Application Serial No: 18/302,393. (Nonprovisional application submitted). USPTO.
+**Luleci F**, Catbas FN, Avci O, (2023). Generative Adversarial Networks for Structural Damage Diagnostics, Pub No.: US 2023/0332978 A1.
 
 **Luleci F**, Catbas FN, (2023). Immersive Visualization for Condition Assessment of Civil Structures, Application Serial No: 18/300,072. (Nonprovisional application submitted). USPTO.
 

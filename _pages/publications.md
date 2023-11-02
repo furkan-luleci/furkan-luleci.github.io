@@ -34,15 +34,15 @@ Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Con
 
 ## Journal Papers in Review
 
-Luleci F, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Structural Health Monitoring Data in Point Cloud: An Application on Pedestrian Bridge. In Review by Mechanical Systems and Signal Processing, Elsevier.
+**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Structural Health Monitoring Data in Point Cloud: An Application on Pedestrian Bridge. In Review by Mechanical Systems and Signal Processing, Elsevier.
 
-Catbas FN, Cano JA, Luleci F, Walters LC, Michlowitz R (2023). On the Generation of Digital Twin for Structure and Infrastructure Systems: Point Cloud to Numerical Modeling. In Review by Infrastructures Journal, MDPI.
+Catbas FN, Cano JA, **Luleci F**, Walters LC, Michlowitz R (2023). On the Generation of Digital Twin for Structure and Infrastructure Systems: Point Cloud to Numerical Modeling. In Review by Infrastructures Journal, MDPI.
 
 **Luleci F**, Catbas FN (2022) [Structural State Translation: Condition Transfer between Civil Structures Using Domain-Generalization for Structural Health Monitoring](https://doi.org/10.48550/arXiv.2212.14048). In Review by Engineering Structures Journal. 
 
 ## Conference Papers, Chapters, and Presentations
 
-Luleci F, AlGadi A, Perrault M, et al (2024) Operational Modal Analysis of a Pedestrian Bridge Using Ultra-Sensitive Wireless Accelerometers Under Different Structural Scenarios. [Submitted and to be presented at IMAC 2024].
+**Luleci F**, AlGadi A, Perrault M, et al (2024) Operational Modal Analysis of a Pedestrian Bridge Using Ultra-Sensitive Wireless Accelerometers Under Different Structural Scenarios. [Submitted and to be presented at IMAC 2024].
 
 **Luleci F**, AlGadi A, Debees M, et al. (2022) [Investigation of Comparative Analysis of a Multi-Span Prestressed Concrete Highway Bridge](http://dx.doi.org/10.1201/9781003322641-174). In: Bridge Safety, Maintenance, Management, Life-Cycle, Resilience and Sustainability. CRC Press, London, pp 1433–1437. Presented at IABMAS in Barcelona, Spain, July 2022.
 
@@ -50,13 +50,13 @@ AlGadi A, **Luleci F**, Perrault M, et al (2022) [Investigation of Span Dependen
 
 **Luleci F**, Catbas FN, Avci O (2022) [CycleGAN for Dynamic Response Domain Translation in SHM](https://www.researchgate.net/publication/371251316_CycleGAN_for_Dynamic_Response_Domain_Translation_in_SHM). Presented at 8WCSCM in Orlando, June 2022.
 
-**Luleci F**, Catbas FN, Avci O (2023) [Generative Adversarial Networks for Labelled Vibration Data Generation](https://doi.org/10.1007/978-3-031-05405-1_5). In: Special Topics in Structural Dynamics & Experimental Techniques. Conference Proceedings of the Society for Experimental Mechanics Series , pp 41–50. Presented at IMAC XL in Orlando, Feb 2022.  
+**Luleci F**, Catbas FN, Avci O (2023) [Generative Adversarial Networks for Labelled Vibration Data Generation](https://doi.org/10.1007/978-3-031-05405-1_5). In: Special Topics in Structural Dynamics & Experimental Techniques. Conference Proceedings of the Society for Experimental Mechanics Series, pp 41–50. Presented at IMAC XL in Orlando, Feb 2022.  
 
 **Luleci F**, Li L, Chi J, et al (2022) [Structural Health Monitoring of a Foot Bridge in Virtual Reality Environment](https://doi.org/10.1016/j.prostr.2022.01.060). Procedia Structural Integrity 37:65–72. Presented at ICSI 2021 in Madeira, Portugal.
 
 ## Poster Presentations
 
-Luleci F, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Structural Health Monitoring Data in Point Cloud for Better Decision-Making: An Application on Pedestrian Bridge. Poster Presentation in The Academy of Science, Engineering and Medicine of Florida (ASEMFL), Orlando, Florida.
+**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Structural Health Monitoring Data in Point Cloud for Better Decision-Making: An Application on Pedestrian Bridge. Poster Presentation in The Academy of Science, Engineering and Medicine of Florida (ASEMFL), Orlando, Florida.
 
 **Luleci F**, Li L, Chi J, et al. (2022) [Structural Health Monitoring of a Foot Bridge in Virtual Reality Environment](https://doi.org/10.13140/RG.2.2.27905.33124). Poster Presentation in Scholar Symposium at the University of Central Florida, Orlando, Florida.
 

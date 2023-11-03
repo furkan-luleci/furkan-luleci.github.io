@@ -170,7 +170,7 @@ Teach-In Activity, Carillon Elementary School
 - AutoCAD Training, Bilişim Eğitim Merkezi, Issued Sep 2015, Credential ID 4706
 
 # Professional Affiliations
-- American Society of Civil Engineers, Student Member, 			      2018 - Present
+- American Society of Civil Engineers, Affiliate Member, 			    2018 - Present
  - Have served and serving in multiple roles at ASCE Structural Engineering Institute (SEI)
 - Institution of Structural Engineers, Student Member, 			      2018-2019
 

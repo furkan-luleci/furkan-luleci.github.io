@@ -26,11 +26,11 @@ redirect_from:
 ### Research Interests
 I am interested in using cross-disciplinary approaches to enhance the resilience of physical systems. <ins>In Civil - Structural Engineering related areas</ins>, my interests lie in the following subjects:
 
-Structural Health Monitoring, Advanced Sensing Technologies, Structural Reliability, Infrastructure and Community Disaster Resilience, Operational Modal Analysis, Structural Dynamics, Sustainable Infrastructure Systems, Numerical Modeling and Analysis, System Diagnostics and Prognostics, Signal Processing, Load Rating.
+Structural Health Monitoring, Advanced Sensing Technologies, Structural Reliability, Infrastructure and Community Disaster Resilience, Operational and Experimental Modal Analysis, Structural Dynamics, Sustainable Infrastructure Systems, Numerical Modeling and Analysis, System Diagnostics and Prognostics, Signal Processing, Load Rating.
 
 <ins>In multidisciplinary areas</ins>, my interests lie in the following areas:
 
-Generative AI (Generative Adversarial Networks - GANs, Diffusion Models, Transformers), Domain Generalization, Transfer Learning, Multi-Modal Learning, Virtual Reality and other immersive visualization tools, Robotics (unmanned ground and aerial vehicles), Digital Twin, Agent-Based Modeling and Multi-Agent Systems.
+Generative AI (Generative Adversarial Networks - GANs, Diffusion Models, Transformers), Domain Generalization, Transfer Learning, Multi-Modal Learning, Virtual Reality and other Immersive Visualization tools, Robotics (unmanned ground and aerial vehicles), Digital Twin, Agent-Based Modeling and Multi-Agent Systems.
 
 
 

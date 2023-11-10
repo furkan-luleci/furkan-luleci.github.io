@@ -7,6 +7,8 @@ author_profile: true
 
 # Below are some of the pictures I took with my cameras, smartphone, and drones
 
+For 360 panoramic pictures, visit my SkyPixel profile: https://www.skypixel.com/users/djiuser-hn3hrbwcwu3t 
+
 ![Picture14](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/23e8eed6-4a28-499c-86cb-30e9027aef07)
 
 ![Picture12](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/067cf29f-0274-4786-bcc2-b6e70bd1c8a9)

@@ -10,6 +10,12 @@ author_profile: true
 - Using unmanned ground robotics for interior/exterior condition assessment
 ![Picture2](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/f1ac0287-2acb-4551-8e6b-02eafbd3f991)
 
+- Experiencing Structural Health Monitoring data and analysis results of a bridge structure via VRTable
+![20231106_115138](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/f9eb8a85-ad21-4482-a5fe-3ae1cec6bf29)
+
+- Recording dynamic movements of the structural elements of the Stadium structure
+![IMG-20231112-WA0000](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/cb1cbd2f-59ac-4f95-8d64-ce7d41d2631e)
+
 ![Picture3](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/5d200f64-2525-498a-864b-563a3933ccba)
 
 - Sensing the dynamic behavior of a bridge via ultrasensitive wireless accelerometers
@@ -26,15 +32,14 @@ author_profile: true
 - Benchmarking the accuracy of traditional cabled accelerometers with ultrasensitive wireless accelerometers on a bridge structure.
 ![Picture7](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/22f78ba6-2789-41eb-99da-da54b5bdaf82)
 
+- Monitoring Stadium structure via accelerometers and potentiometers.
+![20231111_143845](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/80e50456-ea70-498c-93f9-6d6a892cd4c9)
+
 - And some other pictures
 ![Picture8](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/d8109d3b-aa74-4441-b233-affed9d825a3)
 
-
-
 - Testing the vertical and horizontal lidars on the robot
 ![Screenshot 2023-07-27 135219](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/7cc1d16e-bef3-4914-a14d-fd7d455651ee)
-
-
 
 - Carrying our robot in the bed of a truck to take it to a building for a digital twin study
 ![Screenshot 2023-07-27 135128](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/0877c973-e1b0-4753-9391-cd24fbe9110d)

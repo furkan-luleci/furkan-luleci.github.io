@@ -56,3 +56,36 @@ Generative AI (Generative Adversarial Networks - GANs, Diffusion Models, Transfo
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=m&d=bBHuA1jde18YBbI-xmRNaOPUXMSCxqh1Bm8t6oOMCVg&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visitor Counter</title>
+  <script>
+    // Function to update and display the visitor count
+    function updateVisitorCount() {
+      // You should replace the following line with a server-side script to fetch the actual count
+      // Example: Fetch count from a PHP file (e.g., counter.php) using AJAX
+      // For simplicity, let's assume the server returns the count in a JSON format
+      const serverResponse = '{"count": 100}';
+
+      const countContainer = document.getElementById('visitor-count');
+
+      if (countContainer) {
+        const countData = JSON.parse(serverResponse);
+        countContainer.textContent = countData.count;
+      }
+    }
+
+    // Call the function when the page loads
+    window.onload = updateVisitorCount;
+  </script>
+</head>
+<body>
+  <h1>Welcome to My Site</h1>
+  <p>Number of visitors: <span id="visitor-count">Loading...</span></p>
+</body>
+</html>
+

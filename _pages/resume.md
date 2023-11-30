@@ -27,7 +27,7 @@ redirect_from:
 **Graduate Research Assistant, UCF, Orlando, FL,	Aug 2021 – Present**
 -	Investigating novel and effective solutions to challenging problems in the operation, maintenance, and management of civil engineering structures using *Artificial Intelligence (AI)*, *Robotics*, and *Virtual Reality (VR)* coupled with *Structural Health Monitoring (SHM)* techniques.
 -	Experienced in the applications of Large Wheeled Robots for rapid assessment of civil infrastructure systems, Generative Adversarial Networks for vibration response data generation, and VR for decision-making.
--	Experienced in white paper and full proposal preparations for government agencies (NSF and USDT’s UTC) related to community disaster resilience-based risk quantification.
+-	Experienced in white paper and full proposal preparations for government agencies (NSF, DoD, USDT’s UTC), and other internal university fundings related to smart cities, infrastructure resilience-based risk assessment, and infrastructure sustainability.
 - Proactively participating in research team meetings and discussions for different project research tasks.
 - Assisting research team members with experiments, field monitoring data collection, and report/article writing activities.
 - Managing research projects in planning, experimenting, and documenting.

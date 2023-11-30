@@ -55,4 +55,4 @@ Generative AI (Generative Adversarial Networks - GANs, Diffusion Models, Transfo
 📘 I have a deep interest in history, archeology, and world politics, and in my free time, I read books/articles from various sources about them. 
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=bBHuA1jde18YBbI-xmRNaOPUXMSCxqh1Bm8t6oOMCVg" width="100" height="75"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=bBHuA1jde18YBbI-xmRNaOPUXMSCxqh1Bm8t6oOMCVg" width="70" height="40"></script>

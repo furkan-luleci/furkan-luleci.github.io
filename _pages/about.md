@@ -57,3 +57,51 @@ Generative AI (Generative Adversarial Networks - GANs, Diffusion Models, Transfo
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=647&t=m&d=bBHuA1jde18YBbI-xmRNaOPUXMSCxqh1Bm8t6oOMCVg&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visitor Map</title>
+  <style>
+    #map {
+      height: 400px;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <script>
+    // Replace 'YOUR_GOOGLE_MAPS_API_KEY' with your actual API key
+    const apiKey = 'YOUR_GOOGLE_MAPS_API_KEY';
+    
+    function initMap() {
+      const map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 2,
+        center: { lat: 0, lng: 0 }
+      });
+
+      // Dummy data for demonstration purposes
+      const dummyLocations = [
+        { lat: 37.7749, lng: -122.4194, city: 'San Francisco' },
+        { lat: 40.7128, lng: -74.0060, city: 'New York' },
+        { lat: 51.509865, lng: -0.118092, city: 'London' }
+      ];
+
+      dummyLocations.forEach(location => {
+        new google.maps.Marker({
+          position: location,
+          map,
+          title: location.city
+        });
+      });
+    }
+  </script>
+  <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_MAPS_API_KEY&callback=initMap">
+  </script>
+</body>
+</html>
+

@@ -158,7 +158,8 @@ redirect_from:
 - Reviewer, Advances in Engineering Software Journal,                   
 - Reviewer, Journal of Bridge Engineering,                              
 - Reviewer, Structure and Infrastructure Engineering Journal,
-- Reviewer, Engineering Structures Journal       
+- Reviewer, Engineering Structures Journal
+- Reviewer, Mechanical Systems and Signal Processing Journal  
 
 # Community Service
 Teach-In Activity, Carillon Elementary School

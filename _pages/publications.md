@@ -58,7 +58,7 @@ AlGadi A, **Luleci F**, Perrault M, et al (2022) [Investigation of Span Dependen
 
 ## Poster Presentations
 
-**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Structural Health Monitoring Data in Point Cloud for Better Decision-Making: An Application on Pedestrian Bridge. Poster Presentation in The Academy of Science, Engineering and Medicine of Florida (ASEMFL), Orlando, Florida.
+**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). [Fusing Structural Health Monitoring Data in Point Cloud for Better Decision-Making: An Application on Pedestrian Bridge](https://www.researchgate.net/publication/375282085_Fusing_Structural_Health_Monitoring_Data_in_Point_Cloud_An_Application_on_Pedestrian_Bridge). Poster Presentation in The Academy of Science, Engineering and Medicine of Florida (ASEMFL), Orlando, Florida.
 
 **Luleci F**, Li L, Chi J, et al. (2022) [Structural Health Monitoring of a Foot Bridge in Virtual Reality Environment](https://doi.org/10.13140/RG.2.2.27905.33124). Poster Presentation in Scholar Symposium at the University of Central Florida, Orlando, Florida.
 

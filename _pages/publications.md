@@ -9,6 +9,8 @@ author_profile: true
 
 ## Journal Publications
 
+Catbas FN, Cano JA, **Luleci F**, Walters LC, Michlowitz R (2023). On the Generation of Digital Twin for Structure and Infrastructure Systems: Point Cloud to Numerical Modeling. Infrastructures, 9 (1), MDPI.
+
 Debees M, **Luleci F**, Dong CZ, Catbas FN (2023). [Investigating the Increase in Load Rating and Reliability of a Prestressed Concrete Bridge When Utilizing Field-Derived Distribution and Impact Factors](https://doi.org/10.1061/JBENF2.BEENG-6485). Journal of Bridge Engineering, 29 (3), ASCE.
 
 **Luleci F**, Catbas FN (2023) [A Brief Introductory Review to Deep Generative Models for Civil Structural Health Monitoring](https://doi.org/10.1007/s43503-023-00017-z). AI in Civil Engineering, 2 (9), Springer.
@@ -23,7 +25,7 @@ Debees M, **Luleci F**, Catbas FN (2023) [Effect of Structural Repairs on the Lo
 
 **Luleci F**, Catbas FN, Avci O (2023) [Generative Adversarial Networks for Labeled Acceleration Data Augmentation for Structural Damage Detection](https://doi.org/10.1007/s13349-022-00627-8). J Civ Struct Health Monit 13:181–198, Springer. 
 
-Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Condition Assessment of Civil Engineering Structures: A Literature Review](https://doi.org/10.3390/s22239560). Sensors 22:9560, MDPI.  
+Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Condition Assessment of Civil Engineering Structures: A Literature Review](https://doi.org/10.3390/s22239560). Sensors 22 (23), MDPI.  
 
 **Luleci F**, Catbas FN, Avci O (2022) [A literature Review: Generative Adversarial Networks for Civil Structural Health Monitoring](https://doi.org/10.3389/fbuil.2022.1027379). Front Built Environ 8 (1027379), Frontiers.
 
@@ -34,9 +36,7 @@ Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Con
 
 ## Journal Papers in Review
 
-**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Structural Health Monitoring Data in Point Cloud: An Application on Pedestrian Bridge. In Review by Mechanical Systems and Signal Processing, Elsevier.
-
-Catbas FN, Cano JA, **Luleci F**, Walters LC, Michlowitz R (2023). On the Generation of Digital Twin for Structure and Infrastructure Systems: Point Cloud to Numerical Modeling. In Review by Infrastructures Journal, MDPI.
+**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Structural Health Monitoring Data in Point Cloud: An Application on Pedestrian Bridge. In Review by Automation in Construction, Elsevier.
 
 **Luleci F**, Catbas FN (2022) [Structural State Translation: Condition Transfer between Civil Structures Using Domain-Generalization for Structural Health Monitoring](https://doi.org/10.48550/arXiv.2212.14048). In Review by Engineering Structures Journal. 
 

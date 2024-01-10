@@ -9,7 +9,7 @@ author_profile: true
 
 ## Journal Publications
 
-Catbas FN, Cano JA, **Luleci F**, Walters LC, Michlowitz R (2023). [On the Generation of Digital Twin for Structure and Infrastructure Systems: Point Cloud to Numerical Modeling]. Infrastructures (https://www.mdpi.com/2412-3811/9/1/6), 9 (1), MDPI.
+Catbas FN, Cano JA, **Luleci F**, Walters LC, Michlowitz R (2023). [On the Generation of Digital Twin for Structure and Infrastructure Systems: Point Cloud to Numerical Modeling](https://www.mdpi.com/2412-3811/9/1/6). Infrastructures, 9 (1), MDPI.
 
 Debees M, **Luleci F**, Dong CZ, Catbas FN (2023). [Investigating the Increase in Load Rating and Reliability of a Prestressed Concrete Bridge When Utilizing Field-Derived Distribution and Impact Factors](https://doi.org/10.1061/JBENF2.BEENG-6485). Journal of Bridge Engineering, 29 (3), ASCE.
 

@@ -25,6 +25,8 @@ Debees M, **Luleci F**, Catbas FN (2023) [Effect of Structural Repairs on the Lo
 
 **Luleci F**, Catbas FN, Avci O (2023) [Generative Adversarial Networks for Labeled Acceleration Data Augmentation for Structural Damage Detection](https://doi.org/10.1007/s13349-022-00627-8). J Civ Struct Health Monit 13:181–198, Springer. 
 
+**Luleci F**, Catbas FN (2022) [Structural State Translation: Condition Transfer between Civil Structures Using Domain-Generalization for Structural Health Monitoring](https://doi.org/10.48550/arXiv.2212.14048). In Review by Computers & Structures Journal.
+
 Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Condition Assessment of Civil Engineering Structures: A Literature Review](https://doi.org/10.3390/s22239560). Sensors 22 (23), MDPI.  
 
 **Luleci F**, Catbas FN, Avci O (2022) [A literature Review: Generative Adversarial Networks for Civil Structural Health Monitoring](https://doi.org/10.3389/fbuil.2022.1027379). Front Built Environ 8 (1027379), Frontiers.
@@ -33,12 +35,11 @@ Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Con
 
 **Luleci F**, Li L, Chi J, Reiners D, Cruz-Neira C, Catbas FN (2022) [Structural Health Monitoring of a Foot Bridge in Virtual Reality Environment](https://doi.org/10.1016/j.prostr.2022.01.060). Procedia Structural Integrity 37:65–72, Elsevier.
 
-
 ## Journal Papers in Review
 
-**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Structural Health Monitoring Data in Point Cloud: An Application on Pedestrian Bridge. In Review by Automation in Construction, Elsevier.
+**Luleci F**, Catbas FN (2024). Bringing Site to the Office: Decision-Making in Infrastructure Management Through Virtual Reality. In Review by Engineering Communications, Nature.
 
-**Luleci F**, Catbas FN (2022) [Structural State Translation: Condition Transfer between Civil Structures Using Domain-Generalization for Structural Health Monitoring](https://doi.org/10.48550/arXiv.2212.14048). In Review by Computers & Structures Journal. 
+**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Structural Health Monitoring Data in Point Cloud: An Application on Pedestrian Bridge. In Review by Automation in Construction, Elsevier.
 
 ## Conference Papers, Chapters, and Presentations
 
@@ -46,7 +47,7 @@ Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Con
 
 **Luleci F**, AlGadi A, Catbas FN (2024) Multimodal Data Collection Using Mobile Robotics for Rapid Structural Assessment. [Submitted and to be presented at IABMAS 2024].
 
-**Luleci F**, AlGadi A, Perrault M, et al (2024) Operational Modal Analysis of a Pedestrian Bridge Using Ultra-Sensitive Wireless Accelerometers Under Different Structural Scenarios. [Submitted and to be presented at IMAC 2024].
+**Luleci F**, AlGadi A, Perrault M, et al (2024) Operational Modal Analysis of a Pedestrian Bridge Using Ultra-Sensitive Wireless Accelerometers Under Different Structural Scenarios. Presented at IMAC 2024.
 
 **Luleci F**, AlGadi A, Debees M, et al. (2022) [Investigation of Comparative Analysis of a Multi-Span Prestressed Concrete Highway Bridge](http://dx.doi.org/10.1201/9781003322641-174). In: Bridge Safety, Maintenance, Management, Life-Cycle, Resilience and Sustainability. CRC Press, London, pp 1433–1437. Presented at IABMAS in Barcelona, Spain, July 2022.
 

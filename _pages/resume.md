@@ -119,10 +119,16 @@ redirect_from:
 
 
 # Honors and Awards
+**Graduate Travel/Presentation Fellowship (UCF) 2023**
+
 **Geotechnical and Environmental Scholarship Award	Jun 2022**: One of three recipients of $2,000 from the UCF College of Engineering
 
+**Graduate Travel/Presentation Fellowship (UCF) 2022**
+
 **Graduate Student Chapter of the Year Award	Feb 2022**: ASCE SEI Graduate Student Chapter at UCF was selected to receive this award under my presidency
- 
+
+**Graduate Travel/Presentation Fellowship (UCF) 2021**
+
 **ASCE SEI East Central Branch Scholarship Award	Oct 2021**: Recipient of $1,000 in East Central Florida
 
 **UCF International Scholarship Award	Aug 2020**: Recipient of $2,500 in UCF

@@ -34,8 +34,8 @@ redirect_from:
 
 *TEACHING*
 -	Served as a Teaching Assistant in an Engineering Statics course of 150 students, holding student office hours, performing assignment/exam gradings, and assisting in teaching in some classes.
--	Assisting in teaching and grading several graduate-level courses, such as Finite Element Structural Analysis, Matrix Methods for Structural Analysis, and Dynamics of Structures.
--	Taking the Preparing Tomorrow’s Faculty Program, which is designed to equip me with valuable training in (i) teaching pedagogies, (ii) student learning and motivation, as well as (iii) integrated course design.
+-	Assisting in teaching and grading several graduate-level courses, such as *Finite Element Structural Analysis*, *Matrix Methods for Structural Analysis*, and *Dynamics of Structures*.
+-	Taking the Preparing Tomorrow’s Faculty Program, which is designed to equip me with valuable training in *(i) teaching pedagogies*, *(ii) student learning and motivation*, as well as *(iii) integrated course design*.
 -	Serving as a mentor in ASCE’s mentor match program, where I volunteered to mentor undergraduate student engineers, in addition to my regular interactions with students on campus about their academic and personal growth and assisting them in guiding their educational journey and future careers.
 
 **Graduate Assistant, UCF, Orlando, FL,	Jan 2018 – Dec 2018**

@@ -22,6 +22,7 @@ redirect_from:
 
 # Research and Teaching Experience
 **Graduate Research/Teaching Assistant, UCF, Orlando, FL,	Aug 2020 – Present**
+
 *RESEARCH*
 -	Investigating novel and effective solutions to challenging problems in the operation, maintenance, and management of civil structure/infrastructure systems using Generative Artificial Intelligence (AI), Robotics, and Virtual Reality (VR) coupled with Structural Health Monitoring (SHM) techniques.
 -	Experienced in the applications of Large Wheeled Robots for rapid assessment of civil structure/infrastructure systems, Generative Adversarial Networks for vibration response data generation, and VR for decision-making.
@@ -30,6 +31,7 @@ redirect_from:
 -	Assisting research team members with experiments, field monitoring data collection, and composing report/article activities.
 -	Managing research projects in planning, experimenting, and documenting.
 -	Administering and organizing laboratory experimental activities for research tasks.
+
 *TEACHING*
 -	Served as a Teaching Assistant in an Engineering Statics course of 150 students, holding student office hours, performing assignment/exam gradings, and assisting in teaching in some classes.
 -	Assisting in teaching and grading several graduate-level courses, such as Finite Element Structural Analysis, Matrix Methods for Structural Analysis, and Dynamics of Structures.

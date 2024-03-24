@@ -10,44 +10,40 @@ redirect_from:
 
 # Education
 **Ph.D in Civil Engineering, University of Central Florida (UCF), Aug 2020 - May 2024**
- - Structural engineering focused with emphasis on structural health monitoring.
+ - Structural engineering focused with emphasis on Structural Health Monitoring.
  - Advisor professor: *F. Necati Catbas*.
 
-
 **M.S. in Civil Engineering, University of Central Florida (UCF), Jan 2018 - Dec 2019**
- - Structural engineering and sustainability-focused
+ - Structural engineering and Sustainability-focused.
  - Advisor professor: Prof. F. Necati Catbas
 
-   
 **B.S. in Civil Engineering, Eskisehir Osmangazi University (ESOGU), Sep 2013 - Jun 2017**
- - Capstone project: Green Buildings and Their Design Criteria.
+ - Capstone project: Green Buildings and their Design Criteria.
 
-
-# Academic and Teaching Experience
-**Graduate Research Assistant, UCF, Orlando, FL,	Aug 2021 – Present**
--	Investigating novel and effective solutions to challenging problems in the operation, maintenance, and management of civil engineering structures using *Artificial Intelligence (AI)*, *Robotics*, and *Virtual Reality (VR)* coupled with *Structural Health Monitoring (SHM)* techniques.
--	Experienced in the applications of Large Wheeled Robots for rapid assessment of civil infrastructure systems, Generative Adversarial Networks for vibration response data generation, and VR for decision-making.
--	Experienced in white paper and full proposal preparations for government agencies (NSF, DoD, USDT’s UTC), and other internal university fundings related to smart cities, infrastructure resilience-based risk assessment, and infrastructure sustainability.
-- Proactively participating in research team meetings and discussions for different project research tasks.
-- Assisting research team members with experiments, field monitoring data collection, and report/article writing activities.
-- Managing research projects in planning, experimenting, and documenting.
-- Administering and organizing laboratory experimental activities for research tasks.
-- Teaching Assistant in an Engineering Statics course of 150 students, holding student office hours and performing assignment/exam gradings.
-- Assisting in teaching and grading several graduate-level courses, such as Finite Element Analysis, Matrix Techniques in Numerical Analysis, and Dynamic Analysis of Structures.
-
-**Doctoral Fellow, UCF, Orlando, FL	Aug 2020 – Jul 2021**
-- Explored interdisciplinary research subjects in SHM of civil engineering structures while taking PhD program courses.
+# Research and Teaching Experience
+**Graduate Research/Teaching Assistant, UCF, Orlando, FL,	Aug 2020 – Present**
+*RESEARCH*
+-	Investigating novel and effective solutions to challenging problems in the operation, maintenance, and management of civil structure/infrastructure systems using Generative Artificial Intelligence (AI), Robotics, and Virtual Reality (VR) coupled with Structural Health Monitoring (SHM) techniques.
+-	Experienced in the applications of Large Wheeled Robots for rapid assessment of civil structure/infrastructure systems, Generative Adversarial Networks for vibration response data generation, and VR for decision-making.
+-	Experienced in white paper and full proposal preparations for government agencies (National Science Foundation, Department of Defense, U.S. Department of Transportation’s University of Transportation Center) and other internal university fundings related to smart cities, community and infrastructure resilience-based risk assessment, and infrastructure sustainability.
+-	Proactively participating in research team meetings and discussions for different project research tasks.
+-	Assisting research team members with experiments, field monitoring data collection, and composing report/article activities.
+-	Managing research projects in planning, experimenting, and documenting.
+-	Administering and organizing laboratory experimental activities for research tasks.
+*TEACHING*
+-	Served as a Teaching Assistant in an Engineering Statics course of 150 students, holding student office hours, performing assignment/exam gradings, and assisting in teaching in some classes.
+-	Assisting in teaching and grading several graduate-level courses, such as Finite Element Structural Analysis, Matrix Methods for Structural Analysis, and Dynamics of Structures.
+-	Taking the Preparing Tomorrow’s Faculty Program, which is designed to equip me with valuable training in (i) teaching pedagogies, (ii) student learning and motivation, as well as (iii) integrated course design.
+-	Serving as a mentor in ASCE’s mentor match program, where I volunteered to mentor undergraduate student engineers, in addition to my regular interactions with students on campus about their academic and personal growth and assisting them in guiding their educational journey and future careers.
 
 **Graduate Assistant, UCF, Orlando, FL,	Jan 2018 – Dec 2018**
-- Assisted students with application and admission procedures for UCF Global and other UCF programs. Facilitated campus tours of UCF to new and prospective students.
-- Fielded approximately 30 calls and 100 e-mails daily regarding UCF's English Language Institute and UCF programs.
-
+-	Assisted students with application and admission procedures for UCF Global and other UCF programs.
+-	Facilitated campus tours of UCF to new and prospective students.
+-	Fielded approximately 30 calls and 100 e-mails daily regarding UCF's English Language Institute and UCF programs.
 
 # Industry Experience
 **Field Engineer, Superior Construction, Orlando, FL,	Sep 2019 – Jan 2020**
-
 *Project*: Direct Connect Ramps to/from I-4 (SR400) and Turnpike Mainline (SR 91): Implementation of express lanes on SR 91 from the SR 528 (Beachline) to SR 400, bid: $85,000,000.00
-
 *Project*: Epcot Center Drive/World Drive Ramp: Resurfacing asphalt pavement, 1.25 miles
 - Helped with the development and implementation of project execution strategies. Maintained and communicated various project performance metrics and analytics. Supported forecasting and reporting site-related job activities.
 - Fostered and maintained a safe work environment and collaborated with the superintendent to manage work progress and field problems. Coordinated site testing and inspection efforts.
@@ -56,7 +52,6 @@ redirect_from:
 - Prepared and submitted Daily and Nightly Site Reports, including work-in-place quantities. 
 
 **Structural Engineer Intern, AB Consulting Engineers, Orlando, FL,	May 2019 – Aug 2019**
-
 *Project*: Marriott Orlando Downtown Elevated Pool Deck Construction and Renovation
 - Conducted FEA of multiple structures using Nastran NX against various loading cases.
 - Designed Aluminum Guardrail Base Shoes following the ASCE 7-16.
@@ -73,14 +68,12 @@ redirect_from:
 -	Experienced in following the ASCE-7, ACI 318-14, and AISC and designing structural systems.
 
 **Field Engineer Intern, TAV Construction, Tbilisi, Georgia,	Jun 2016 – Aug 2016**
-
 *Project*: Tbilisi International Airport Extension and Renovation: Arrival terminal construction, apron and taxiway renovation & runway extension and renovation.
 -	Assisted in Shota Rustaveli Tbilisi Airport arrival terminal construction extension from earthworks to the construction of the first-floor slab, also the renewal of runways and taxiways.
 -	Involved in the calculation of quantity survey of construction sites and earthworks of runways, taxiways, and terminal construction.
 -	Assisted in typical construction site activities, e.g., work progress tracking.
 
 **Field Engineer Intern, K Yapi Gayrimenkul, Istanbul, Turkey,	Jun 2015 – Aug 2015**
-
 *Project*: Trendist Atasehir: High-rise RC residential construction.
 -	Involved in constructing three reinforced concrete skyscrapers, mainly assigned to assist in installing tunnel formworks.
 -	Completed essential tasks, such as inspecting the reinforcement in columns, beams and slabs.
@@ -117,7 +110,6 @@ redirect_from:
 -	Participated in the meetings and conference calls set up by the GSCLC/LAD EXCOM.
 -	Managed external communications between students and ASCE organizations.
 
-
 # Honors and Awards
 **Graduate Travel/Presentation Fellowship (UCF) 2023**
 
@@ -141,7 +133,7 @@ redirect_from:
 
 
 # Projects & Contests Involved in Academia
-- **UCF Stadium Monitoring** ¬– Monitoring the portion of the stadium with Structural Health Monitoring (SHM) systems as well as camera setups
+- **UCF Stadium Monitoring** – Monitoring the portion of the stadium with Structural Health Monitoring (SHM) systems as well as camera setups
 - **Sercel Project** – Experimentation and validation of ultrasensitive wireless accelerometers (S-Lynks) on engineering structures (pedestrian and prestressed highway bridges, and buildings)
 - **MAPS Project** - Mobile Assessment for Civil Infrastructure Preservation using Structural Health Monitoring (SHM) and Building Information Modeling (BIM)
 - **NASA Project** - A Framework for Structural Assessment Using Structural Health Monitoring (SHM) And Non-Destructive Evaluation (NDE) Along with Advanced Modeling
@@ -169,8 +161,7 @@ redirect_from:
 
 # Community Service
 Teach-In Activity, Carillon Elementary School
-  - Teach-in sessions to 2nd-grade elementary school kids about the fundamentals of engineering.
-
+  - Yearly Teach-in sessions to 2nd-grade elementary school kids about the fundamentals of engineering.
 
 # Professional Licenses & Certifications
 - Engineer in Training (Civil), No: 1100026741, by Florida Board of Professional Engineers.

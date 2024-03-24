@@ -35,8 +35,8 @@ Generative AI (Generative Adversarial Networks - GANs, Diffusion Models, Transfo
 
 
 ### Near Future Goals
-- Develop a multi-robot-based structural condition assessment system to support community and built environment resilience and enhance efficiency in the operation, maintenance, and management of civil structure and infrastructure systems.
-- Characterize and develop a Generative Artificial Intelligence-based methodology to generate possible sensor data of various types of civil engineering structures for different structural conditions to optimize/minimize the data collection efforts from them.
+- Develop a multi-robot-based structural condition assessment system to support community and built environment resilience and enhance efficiency in the operation and maintenance of civil infrastructure systems.
+- Characterize and develop a Generative Artificial Intelligence-based methodology to generate possible sensor data of various types of infrastructure systems for different structural conditions to optimize the data collection efforts.
 
 ### Lifetime Goals
 <img align="right" width="309" height="267" src="/images/bridge.jpg">

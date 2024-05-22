@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Briefly about me
-👨🏻‍💻 **I'm a PhD candidate** in Civil - Structural - Engineering and a research assistant at [Civil Infrastructure Technologies for Resiliency and Safety (CITRS)](https://www.cece.ucf.edu/citrs/) labs at the [University of Central Florida (UCF)](https://www.ucf.edu/). My PhD advisor is Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/), who is Lockheed Martin St. Laurent Professor and the director of CITRS.
+👨🏻‍💻 **I'm a recent PhD** in Civil (Structural) Engineering and was a research assistant at [Civil Infrastructure Technologies for Resiliency and Safety (CITRS)](https://www.cece.ucf.edu/citrs/) labs and a teaching assistant at the [University of Central Florida (UCF)](https://www.ucf.edu/). My PhD advisor is Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/), who is Lockheed Martin St. Laurent Professor and the director of CITRS.
 
 📖 **My research explores** novel and effective solutions to challenging problems in the operation and maintenance of civil engineering infrastructure systems by employing *Generative Artificial Intelligence*, *Virtual Reality*, *Robotics*, and *Agent-Based Modeling* tools, coupled with *Structural Health Monitoring* techniques.
 
@@ -19,23 +19,23 @@ redirect_from:
 
 👷 **During my master's and bachelor's** in Civil (Structural) Engineering, I had the opportunity to work in residential (skyscrapers) and infrastructure (bridge & airports) constructions as well as residential structural engineering design firms.
 
-🌐 **I'm also a member of** ASCE-SEI, the Chair of the [ASCE-SEI Grad Student Chapter at the University of Central Florida](https://www.linkedin.com/company/sei-ucf/?viewAsMember=true), and have served in [ASCE-SEI Graduate Student Chapter Leadership Council](https://www.asce.org/communities/institutes-and-technical-groups/structural-engineering-institute/local-chapters) as chair, vice chair, and public secretary roles.
+🌐 **I'm also an affiliated member of** ASCE & ASCE-SEI, the Chair of the [ASCE-SEI Grad Student Chapter at the University of Central Florida](https://www.linkedin.com/company/sei-ucf/?viewAsMember=true), and have served in [ASCE-SEI Graduate Student Chapter Leadership Council](https://www.asce.org/communities/institutes-and-technical-groups/structural-engineering-institute/local-chapters) as chair, vice chair, and public secretary roles.
 
 <img align="center" width="628" height="297" src="/images/bridge 2.jpg">
 
 ### Research Interests
 I am interested in using cross-disciplinary approaches to enhance the resilience of physical systems. <ins>In Civil - Structural Engineering related areas</ins>, my interests lie in the following subjects:
 
-Structural Health Monitoring, Advanced Sensing Technologies, Structural Reliability, Infrastructure and Community Disaster Resilience, Operational and Experimental Modal Analysis, Structural Dynamics, Sustainable Infrastructure Systems, Numerical Modeling and Analysis, System Diagnostics and Prognostics, Signal Processing, Non-Destructive Testing and Evaluation, Load Rating.
+Structural Health Monitoring, Advanced Sensing Technologies, Structural Reliability, Infrastructure Resilience, Operational and Experimental Modal Analysis, Structural Dynamics, Sustainable Infrastructure Systems, Numerical Modeling and Analysis, System Diagnostics and Prognostics, Signal Processing, Non-Destructive Testing and Evaluation, Load Rating.
 
 <ins>In multidisciplinary areas</ins>, my interests lie in the following areas:
 
-Generative AI (Generative Adversarial Networks - GANs, Diffusion Models, Transformers), Domain Generalization, Transfer Learning, Multi-Modal Learning, Virtual Reality and other Immersive Visualization tools, Robotics (unmanned ground and aerial vehicles), Digital Twin, Agent-Based Modeling and Multi-Agent Systems.
-
+Generative AI (GANs, Diffusion Models, Transformers), Domain Generalization, Transfer Learning, Multi-Modal Learning, Virtual Reality and other Immersive Visualization tools, Robotics (unmanned ground and aerial vehicles), Digital Twin, Agent-Based Modeling and Multi-Agent Systems.
 
 
 ### Near Future Goals
-- Develop a multi-robot-based structural condition assessment system to support community and built environment resilience and enhance efficiency in the operation and maintenance of civil infrastructure systems.
+- Increase the Technology Readiness Level (TRL) of our proof-of-concept service-based product, [Virtual Reality (VR)-based Operations and Maintenance (O&M) platform](https://www.youtube.com/watch?v=-pPy4M9qqi8).
+- Develop a multi-robot-based structural condition assessment system to support built environment resilience and improve efficiency in the operation and maintenance of civil infrastructure systems.
 - Characterize and develop a Generative Artificial Intelligence-based methodology to generate possible sensor data of various types of infrastructure systems for different structural conditions to optimize the data collection efforts.
 
 ### Lifetime Goals
@@ -44,7 +44,7 @@ Generative AI (Generative Adversarial Networks - GANs, Diffusion Models, Transfo
 - Convert near-future goals into a practical business model to contribute to society for the betterment of our life quality.
 - Be a professor and become a great mentor for new generations.  
 - Write a novel.
-- Maybe have a PhD in another field, like History or Archeology.
+- Maybe have a PhD in History or Archeology.
 - Open an art gallery showcasing the pictures/video clips I took over the years.
 
 ### Hobbies & Interests

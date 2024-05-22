@@ -41,7 +41,7 @@ Generative AI (GANs, Diffusion Models, Transformers), Domain Generalization, Tra
 ### Lifetime Goals
 <img align="right" width="309" height="267" src="/images/bridge.jpg">
 
-- Convert near-future goals into a practical business model to contribute to society for the betterment of our life quality.
+- Convert near-future goals into a practical business model to contribute to the betterment of our society.
 - Be a professor and become a great mentor for new generations.  
 - Write a novel.
 - Maybe have a PhD in History or Archeology.

@@ -24,19 +24,19 @@ redirect_from:
 **Graduate Research/Teaching Assistant, UCF, Orlando, FL,	Aug 2020 – Present**
 
 *RESEARCH*
--	Investigating novel and effective solutions to challenging problems in the operation, maintenance, and management of civil structure/infrastructure systems using Generative Artificial Intelligence (AI), Robotics, and Virtual Reality (VR) coupled with Structural Health Monitoring (SHM) techniques.
--	Experienced in the applications of Large Wheeled Robots for rapid assessment of civil structure/infrastructure systems, Generative Adversarial Networks for vibration response data generation, and VR for decision-making.
--	Experienced in white paper and full proposal preparations for government agencies (National Science Foundation, Department of Defense, U.S. Department of Transportation’s University of Transportation Center) and other internal university fundings related to smart cities, community and infrastructure resilience-based risk assessment, and infrastructure sustainability.
--	Proactively participating in research team meetings and discussions for different project research tasks.
--	Assisting research team members with experiments, field monitoring data collection, and composing report/article activities.
--	Managing research projects in planning, experimenting, and documenting.
--	Administering and organizing laboratory experimental activities for research tasks.
+-	Investigated novel and effective solutions to challenging problems in the operation, maintenance, and management of civil infrastructure systems using Generative Artificial Intelligence (AI), Robotics, and Virtual Reality (VR) coupled with Structural Health Monitoring (SHM) frameworks/tools.
+-	Experienced in the applications of Large Wheeled Robots for rapid assessment of civil infrastructure systems, Generative Adversarial Networks for response data generation, and VR for decision-making.
+-	Experienced in white paper and full proposal preparations for government agencies (National Science Foundation, Department of Defense, U.S. Department of Transportation’s University of Transportation Center) and other internal university fundings subjects related to smart cities, community and infrastructure resilience-based risk assessment, and infrastructure sustainability.
+-	Proactively participated in research team meetings and discussions for different project research tasks.
+-	Assisted research team members with experiments, field monitoring data collection, and composing report/article activities.
+-	Managed research projects in planning, experimenting, and documenting.
+-	Administered and organized laboratory experimental activities for research tasks.
 
 *TEACHING*
 -	Served as a Teaching Assistant in an Engineering Statics course of 150 students, holding student office hours, performing assignment/exam gradings, and assisting in teaching in some classes.
--	Assisting in teaching and grading several graduate-level courses, such as *Finite Element Structural Analysis*, *Matrix Methods for Structural Analysis*, and *Dynamics of Structures*.
--	Taking the Preparing Tomorrow’s Faculty Program, which is designed to equip me with valuable training in *(i) teaching pedagogies*, *(ii) student learning and motivation*, as well as *(iii) integrated course design*.
--	Serving as a mentor in ASCE’s mentor match program, where I volunteered to mentor undergraduate student engineers, in addition to my regular interactions with students on campus about their academic and personal growth and assisting them in guiding their educational journey and future careers.
+-	Assisted in teaching and grading several graduate-level courses, such as *Finite Element Structural Analysis*, *Matrix Methods for Structural Analysis*, and *Dynamics of Structures*.
+-	Took the Preparing Tomorrow’s Faculty Program, which is designed to equip me with valuable training in *(i) teaching pedagogies*, *(ii) student learning and motivation*, as well as *(iii) integrated course design*.
+-	Served as a mentor in ASCE’s mentor match program, where I volunteered to mentor undergraduate student engineers, in addition to my regular interactions with students on campus about their academic and personal growth and assisting them in guiding their educational journey and future careers.
 
 **Graduate Assistant, UCF, Orlando, FL,	Jan 2018 – Dec 2018**
 -	Assisted students with application and admission procedures for UCF Global and other UCF programs.
@@ -144,7 +144,7 @@ redirect_from:
 
 
 # Projects & Contests Involved in Academia
-- **UCF Stadium Monitoring** – Monitoring the portion of the stadium with Structural Health Monitoring (SHM) systems as well as camera setups
+- **UCF Stadium Monitoring** – Monitoring the portion of the UCF stadium with Structural Health Monitoring (SHM) systems as well as camera setups
 - **Sercel Project** – Experimentation and validation of ultrasensitive wireless accelerometers (S-Lynks) on engineering structures (pedestrian and prestressed highway bridges, and buildings)
 - **MAPS Project** - Mobile Assessment for Civil Infrastructure Preservation using Structural Health Monitoring (SHM) and Building Information Modeling (BIM)
 - **NASA Project** - A Framework for Structural Assessment Using Structural Health Monitoring (SHM) And Non-Destructive Evaluation (NDE) Along with Advanced Modeling
@@ -159,7 +159,7 @@ redirect_from:
 - Python, C#, R, LabVIEW, MATLAB, PyTorch, Robot Operating System (ROS) 1&2, GitHub
 
 **Domain Knowledge**
-- Structural Health Monitoring (frameworks and tools), Data Acquisition Systems, Structural Dynamics, Steel and Concrete Structures, Data Domain Learning, Machine Learning, Generative Artificial Intelligence, Structure/Infrastructure Resilience, Agent-Based Modeling, Modal Analysis (experimental and operational), System Diagnostics, Numeric Modeling and Analysis, Robotic Systems (hardware and software), Virtual Reality Systems, Data Mining, Signal Processing, Digital Twin, Sustainable Infrastructure Systems
+- Structural Health Monitoring (frameworks and tools), Data Acquisition Systems, Structural Dynamics, Steel and Concrete Structures, Data Domain Learning, Machine Learning, Generative Artificial Intelligence, Infrastructure Resilience, Agent-Based Modeling, Modal Analysis (experimental and operational), System Diagnostics, Numeric Modeling and Analysis, Robotic Systems (hardware and software), Virtual Reality Systems, Data Mining, Signal Processing, Digital Twin, Sustainable Infrastructure Systems
 
 # Academia Service
 - Chair for Multiple Sessions for the 8th World Conference on Structural Control and Monitoring (WCSCM) conference in Orlando in 2022

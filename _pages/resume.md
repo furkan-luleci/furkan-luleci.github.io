@@ -24,7 +24,7 @@ redirect_from:
 **Graduate Research/Teaching Assistant, UCF, Orlando, FL,	Aug 2020 – Present**
 
 *RESEARCH*
--	Investigated novel and effective solutions to challenging problems in the operation, maintenance, and management of civil infrastructure systems using Generative Artificial Intelligence (AI), Robotics, and Virtual Reality (VR) coupled with Structural Health Monitoring (SHM) frameworks/tools.
+-	Investigated novel and effective solutions to challenging problems in the operation and maintenance of civil infrastructure systems using Generative Artificial Intelligence (AI), Robotics, and Virtual Reality (VR) coupled with Structural Health Monitoring (SHM) frameworks/tools.
 -	Experienced in the applications of Large Wheeled Robots for rapid assessment of civil infrastructure systems, Generative Adversarial Networks for response data generation, and VR for decision-making.
 -	Experienced in white paper and full proposal preparations for government agencies (National Science Foundation, Department of Defense, U.S. Department of Transportation’s University of Transportation Center) and other internal university fundings subjects related to smart cities, community and infrastructure resilience-based risk assessment, and infrastructure sustainability.
 -	Proactively participated in research team meetings and discussions for different project research tasks.

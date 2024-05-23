@@ -44,6 +44,10 @@ redirect_from:
 -	Fielded approximately 30 calls and 100 e-mails daily regarding UCF's English Language Institute and UCF programs.
 
 # Industry Experience
+
+**R&D Engineer, Transtek International LLC, Orlando, FL	May 2024 – August 2024**
+- Conducting research to develop innovative concepts, support feasibility studies, and provide detailed technical insights and documentation for proposal preparations related to built-environment and civil infrastructure systems.
+
 **Field Engineer, Superior Construction, Orlando, FL,	Sep 2019 – Jan 2020**
 
 *Project*: Direct Connect Ramps to/from I-4 (SR400) and Turnpike Mainline (SR 91): Implementation of express lanes on SR 91 from the SR 528 (Beachline) to SR 400, bid: $85,000,000.00

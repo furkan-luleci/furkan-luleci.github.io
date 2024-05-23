@@ -35,9 +35,6 @@ author_profile: true
 - UCF ASCE SEI Grad Student Chapter was selected as Chapter of the Year in 2022 by ASCE!
 ![Picture6](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/f2b580e6-5146-4834-8214-71f081750a53)
 
-- Completed the Preparing Tomorrow's Faculty program! Design to teach teaching pedagogies, student learning and motivation, and integrated course design.
-![20240405_153052](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/780a2379-cf56-43d6-aef6-386e25c23957)
-
 - Benchmarking the accuracy of traditional cabled accelerometers with ultrasensitive wireless accelerometers on a bridge structure.
 ![Picture7](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/22f78ba6-2789-41eb-99da-da54b5bdaf82)
 
@@ -53,7 +50,8 @@ author_profile: true
 - Carrying our robot in the bed of a truck to take it to a building for a digital twin study
 ![Screenshot 2023-07-27 135128](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/0877c973-e1b0-4753-9391-cd24fbe9110d)
 
-
+- Completed the Preparing Tomorrow's Faculty program! It is designed to teach teaching pedagogies, student learning and motivation, and integrated course design.
+![20240405_153052](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/780a2379-cf56-43d6-aef6-386e25c23957)
 
 
 

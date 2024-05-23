@@ -10,11 +10,17 @@ author_profile: true
 - Using unmanned ground robotics for interior/exterior condition assessment
 ![Picture2](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/f1ac0287-2acb-4551-8e6b-02eafbd3f991)
 
+- Elementary School Teach-In activity: Building Lego Bridge Structures 
+![IMG-20231118-WA0026](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/7454c4dd-3bbb-40bf-9940-8b44aae98e3e)
+
 - Experiencing Structural Health Monitoring data and analysis results of a bridge structure via VRTable
 ![20231106_115138](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/f9eb8a85-ad21-4482-a5fe-3ae1cec6bf29)
 
 - Recording dynamic movements of the structural elements of the Stadium structure
 ![IMG-20231112-WA0000](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/cb1cbd2f-59ac-4f95-8d64-ce7d41d2631e)
+
+- Presenting one my research topics in Industry-Government Workshop at UCF
+![Screenshot 2024-01-17 221403_auto_x2_colored_toned_light_ai](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/0ec80aac-0ee6-4b50-8af4-eef07de24ced)
 
 ![Picture3](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/5d200f64-2525-498a-864b-563a3933ccba)
 

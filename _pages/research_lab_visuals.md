@@ -5,7 +5,7 @@ permalink: /research_lab_visuals/
 author_profile: true
 ---
 
-# Some visuals from our CITRS lab and research activities
+# Some visuals from our research, CITRS lab, and other activities
 
 - Using unmanned ground robotics for interior/exterior condition assessment
 ![Picture2](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/f1ac0287-2acb-4551-8e6b-02eafbd3f991)
@@ -34,6 +34,9 @@ author_profile: true
 
 - UCF ASCE SEI Grad Student Chapter was selected as Chapter of the Year in 2022 by ASCE!
 ![Picture6](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/f2b580e6-5146-4834-8214-71f081750a53)
+
+- Completed the Preparing Tomorrow's Faculty program! Design to teach teaching pedagogies, student learning and motivation, and integrated course design.
+![20240405_153052](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/780a2379-cf56-43d6-aef6-386e25c23957)
 
 - Benchmarking the accuracy of traditional cabled accelerometers with ultrasensitive wireless accelerometers on a bridge structure.
 ![Picture7](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/22f78ba6-2789-41eb-99da-da54b5bdaf82)

@@ -37,9 +37,9 @@ Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Con
 
 ## Journal Papers in Review
 
-**Luleci F**, Catbas FN (2024). Bringing Site to the Office: Decision-Making in Infrastructure Management Through Virtual Reality. In Review by Engineering Communications, Nature.
+**Luleci F**, Catbas FN (2024). Bringing Site to the Office: Decision-Making in Infrastructure Management Through Virtual Reality. In Review by Automation in Construction, Elsevier.
 
-**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Structural Health Monitoring Data in Point Cloud: An Application on Pedestrian Bridge. In Review by Automation in Construction, Elsevier.
+**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Infrastructure Health Monitoring Data in Point Cloud. In Review by Automation in Construction, Elsevier.
 
 ## Conference Papers, Chapters, and Presentations
 

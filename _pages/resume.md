@@ -45,7 +45,7 @@ redirect_from:
 
 # Industry Experience
 
-**R&D Engineer, Transtek International LLC, Orlando, FL	May 2024 – Present**
+**R&D Engineer, Transtek International LLC, Orlando, FL,	May 2024 – Present**
 - Conducting research to develop innovative concepts, support feasibility studies, and provide detailed technical insights and documentation for proposal preparations related to built-environment and civil infrastructure systems.
 
 **Field Engineer, Superior Construction, Orlando, FL,	Sep 2019 – Jan 2020**

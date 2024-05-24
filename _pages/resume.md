@@ -21,7 +21,7 @@ redirect_from:
  - Capstone project: Green Buildings and their Design Criteria.
 
 # Research and Teaching Experience
-**Graduate Research/Teaching Assistant, UCF, Orlando, FL,	Aug 2020 – Present**
+**Graduate Research/Teaching Assistant, UCF, Orlando, FL,	Aug 2020 – May 2024**
 
 *RESEARCH*
 -	Investigated novel and effective solutions to challenging problems in the operation and maintenance of civil infrastructure systems using Generative Artificial Intelligence (AI), Robotics, and Virtual Reality (VR) coupled with Structural Health Monitoring (SHM) frameworks/tools.

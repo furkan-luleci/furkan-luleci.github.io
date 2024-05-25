@@ -1,4 +1,5 @@
-permalink: /
+---
+layout: archive
 title: "Hello, I'm Furkan👋🏼"
 excerpt: ""
 author_profile: true

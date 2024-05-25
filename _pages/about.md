@@ -1,4 +1,3 @@
-[Investigating Emerging Technologies In Civil Structural Health Mo.pdf](https://github.com/furkan-luleci/furkan-luleci.github.io/files/15445023/Investigating.Emerging.Technologies.In.Civil.Structural.Health.Mo.pdf)[Investigating Emerging Technologies In Civil Structural Health Mo.pdf](https://github.com/furkan-luleci/furkan-luleci.github.io/files/15445019/Investigating.Emerging.Technologies.In.Civil.Structural.Health.Mo.pdf)---
 permalink: /
 title: "Hello, I'm Furkan👋🏼"
 excerpt: ""

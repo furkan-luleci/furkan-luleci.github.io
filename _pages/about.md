@@ -16,7 +16,7 @@ redirect_from:
 
 👨‍🏫 **During my PhD**, I was a teaching assistant for an undergraduate-level Engineering Statics course and also assisted in teaching and grading several graduate-level courses, such as Finite Element Analysis, Matrix Techniques in Numerical Analysis, and Dynamics of Structures at UCF.
 
-🧑‍🎓️ You can access **my Dissertation** on this [Uploading Investigating Emerging Technologies In Civil Structural Health Mo.pdf…](Link)
+🧑‍🎓️ You can access **my Dissertation** on this [Link](https://drive.google.com/file/d/1u-6nHgD-NSj0pqfMjYcG_qtS3H4SSVA5/view?usp=sharing)
 
 👷 **During my master's and bachelor's** in Civil (Structural) Engineering, I had the opportunity to work in residential (skyscrapers) and infrastructure (bridge & airports) constructions as well as residential structural engineering design firms.
 

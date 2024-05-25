@@ -9,15 +9,15 @@ redirect_from:
 
 
 ## Briefly about me
-👨🏻‍💻 **I'm a recent PhD** in Civil (Structural) Engineering and was a research assistant at [Civil Infrastructure Technologies for Resiliency and Safety (CITRS)](https://www.cece.ucf.edu/citrs/) labs and a teaching assistant at the [University of Central Florida (UCF)](https://www.ucf.edu/). My PhD advisor is Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/), who is Lockheed Martin St. Laurent Professor and the director of CITRS.
+👨🏻‍💻 **I'm a recent PhD** in Civil (Structural) Engineering and was a research assistant at [Civil Infrastructure Technologies for Resiliency and Safety (CITRS)](https://www.cece.ucf.edu/citrs/) labs and a teaching assistant at the [University of Central Florida (UCF)](https://www.ucf.edu/). My PhD advisor was Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/), who is Lockheed Martin St. Laurent Professor and the director of CITRS.
+
+🧑‍🎓️ You can access **my Dissertation** on this [Link: Investigating Emerging Technologies In Civil Structural Health Monitoring: Generative Artificial Intelligence Virtual Reality](https://drive.google.com/file/d/1u-6nHgD-NSj0pqfMjYcG_qtS3H4SSVA5/view?usp=sharing).
 
 📖 **My research explores** novel and effective solutions to challenging problems in the operation and maintenance of civil engineering infrastructure systems by employing *Generative Artificial Intelligence*, *Virtual Reality*, *Robotics*, and *Agent-Based Modeling* tools, coupled with *Structural Health Monitoring* techniques.
 
-🎯 **My research aims** innovative cross-disciplinary approaches to address built environment challenges and enhance the resilience of physical space at element and system levels. My research drives my commitment to interdisciplinary and impactful research in our field that is transferable (adapting to different contexts) and scalable (adaptable to different dimensions), all while targeting solutions to sustain successful outcomes long-term (sustainable). 
+🎯 **My research aims** innovative cross-disciplinary approaches to address built environment challenges and enhance the resilience of physical space at element and system levels. My research drives my commitment to interdisciplinary and impactful research in our field that is transferable (adapting to different contexts) and scalable (adaptable to different dimensions), all while targeting solutions to sustain successful outcomes long-term (sustainable).
 
 👨‍🏫 **During my PhD**, I was a teaching assistant for an undergraduate-level Engineering Statics course and also assisted in teaching and grading several graduate-level courses, such as Finite Element Analysis, Matrix Techniques in Numerical Analysis, and Dynamics of Structures at UCF.
-
-🧑‍🎓️ You can access **my Dissertation** on this [Link](https://drive.google.com/file/d/1u-6nHgD-NSj0pqfMjYcG_qtS3H4SSVA5/view?usp=sharing)
 
 👷 **During my master's and bachelor's** in Civil (Structural) Engineering, I had the opportunity to work in residential (skyscrapers) and infrastructure (bridge & airports) constructions as well as residential structural engineering design firms.
 

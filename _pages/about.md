@@ -1,4 +1,4 @@
----
+[Investigating Emerging Technologies In Civil Structural Health Mo.pdf](https://github.com/furkan-luleci/furkan-luleci.github.io/files/15445023/Investigating.Emerging.Technologies.In.Civil.Structural.Health.Mo.pdf)[Investigating Emerging Technologies In Civil Structural Health Mo.pdf](https://github.com/furkan-luleci/furkan-luleci.github.io/files/15445019/Investigating.Emerging.Technologies.In.Civil.Structural.Health.Mo.pdf)---
 permalink: /
 title: "Hello, I'm Furkan👋🏼"
 excerpt: ""
@@ -16,6 +16,8 @@ redirect_from:
 🎯 **My research aims** innovative cross-disciplinary approaches to address built environment challenges and enhance the resilience of physical space at element and system levels. My research drives my commitment to interdisciplinary and impactful research in our field that is transferable (adapting to different contexts) and scalable (adaptable to different dimensions), all while targeting solutions to sustain successful outcomes long-term (sustainable). 
 
 👨‍🏫 **During my PhD**, I was a teaching assistant for an undergraduate-level Engineering Statics course and also assisted in teaching and grading several graduate-level courses, such as Finite Element Analysis, Matrix Techniques in Numerical Analysis, and Dynamics of Structures at UCF.
+
+🧑‍🎓️ You can access **my Dissertation** on this [Uploading Investigating Emerging Technologies In Civil Structural Health Mo.pdf…](Link)
 
 👷 **During my master's and bachelor's** in Civil (Structural) Engineering, I had the opportunity to work in residential (skyscrapers) and infrastructure (bridge & airports) constructions as well as residential structural engineering design firms.
 

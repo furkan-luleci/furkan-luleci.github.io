@@ -1,13 +1,12 @@
 ---
-layout: archive
+permalink: /
 title: "Hello, I'm Furkan👋🏼"
-permalink: /about/
-excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 ## Briefly about me
 👨🏻‍💻 **I'm a recent PhD** in Civil (Structural) Engineering and was a research assistant at [Civil Infrastructure Technologies for Resiliency and Safety (CITRS)](https://www.cece.ucf.edu/citrs/) labs and a teaching assistant at the [University of Central Florida (UCF)](https://www.ucf.edu/). My PhD advisor is Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/), who is Lockheed Martin St. Laurent Professor and the director of CITRS.

@@ -2,6 +2,7 @@
 layout: archive
 title: "Hello, I'm Furkan👋🏼"
 excerpt: ""
+permalink: /about/
 author_profile: true
 redirect_from: 
   - /about/

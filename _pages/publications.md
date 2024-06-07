@@ -9,7 +9,7 @@ author_profile: true
 
 ## Journal Publications
 
-**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Infrastructure Health Monitoring Data in Point Cloud. Automation in Construction, Elsevier, [Pending in Publication].
+**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Infrastructure Health Monitoring Data in Point Cloud. Automation in Construction, Elsevier, [Pending Publication].
 
 Catbas FN, Cano JA, **Luleci F**, Walters LC, Michlowitz R (2023). [On the Generation of Digital Twin for Structure and Infrastructure Systems: Point Cloud to Numerical Modeling](https://www.mdpi.com/2412-3811/9/1/6). Infrastructures, 9 (1), MDPI.
 

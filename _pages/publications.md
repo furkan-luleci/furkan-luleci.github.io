@@ -9,6 +9,8 @@ author_profile: true
 
 ## Journal Publications
 
+**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Infrastructure Health Monitoring Data in Point Cloud. Automation in Construction, Elsevier, [Pending in Publication].
+
 Catbas FN, Cano JA, **Luleci F**, Walters LC, Michlowitz R (2023). [On the Generation of Digital Twin for Structure and Infrastructure Systems: Point Cloud to Numerical Modeling](https://www.mdpi.com/2412-3811/9/1/6). Infrastructures, 9 (1), MDPI.
 
 Debees M, **Luleci F**, Dong CZ, Catbas FN (2023). [Investigating the Increase in Load Rating and Reliability of a Prestressed Concrete Bridge When Utilizing Field-Derived Distribution and Impact Factors](https://doi.org/10.1061/JBENF2.BEENG-6485). Journal of Bridge Engineering, 29 (3), ASCE.
@@ -38,8 +40,6 @@ Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Con
 ## Journal Papers in Review
 
 **Luleci F**, Catbas FN (2024). Bringing Site to the Office: Decision-Making in Infrastructure Management Through Virtual Reality. In Review by Automation in Construction, Elsevier.
-
-**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Infrastructure Health Monitoring Data in Point Cloud. In Review by Automation in Construction, Elsevier.
 
 ## Conference Papers, Chapters, and Presentations
 

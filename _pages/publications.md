@@ -9,33 +9,33 @@ author_profile: true
 
 ## Journal Publications
 
-**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2023). Fusing Infrastructure Health Monitoring Data in Point Cloud. Automation in Construction, Elsevier, [Pending Publication].
+**Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2024). [Fusing Infrastructure Health Monitoring Data in Point Cloud](https://doi.org/10.1016/j.autcon.2024.105546). Automation in Construction, 165, (105546), Elsevier.
 
-Catbas FN, Cano JA, **Luleci F**, Walters LC, Michlowitz R (2023). [On the Generation of Digital Twin for Structure and Infrastructure Systems: Point Cloud to Numerical Modeling](https://www.mdpi.com/2412-3811/9/1/6). Infrastructures, 9 (1), MDPI.
+Catbas FN, Cano JA, **Luleci F**, Walters LC, Michlowitz R (2023). [On the Generation of Digital Twin for Structure and Infrastructure Systems: Point Cloud to Numerical Modeling](https://www.mdpi.com/2412-3811/9/1/6). Infrastructures, 9, (1), MDPI.
 
-Debees M, **Luleci F**, Dong CZ, Catbas FN (2023). [Investigating the Increase in Load Rating and Reliability of a Prestressed Concrete Bridge When Utilizing Field-Derived Distribution and Impact Factors](https://doi.org/10.1061/JBENF2.BEENG-6485). Journal of Bridge Engineering, 29 (3), ASCE.
+Debees M, **Luleci F**, Dong CZ, Catbas FN (2023). [Investigating the Increase in Load Rating and Reliability of a Prestressed Concrete Bridge When Utilizing Field-Derived Distribution and Impact Factors](https://doi.org/10.1061/JBENF2.BEENG-6485). Journal of Bridge Engineering, 29, (3), ASCE.
 
-**Luleci F**, Catbas FN (2023) [A Brief Introductory Review to Deep Generative Models for Civil Structural Health Monitoring](https://doi.org/10.1007/s43503-023-00017-z). AI in Civil Engineering, 2 (9), Springer.
+**Luleci F**, Catbas FN (2023) [A Brief Introductory Review to Deep Generative Models for Civil Structural Health Monitoring](https://doi.org/10.1007/s43503-023-00017-z). AI in Civil Engineering, 2, (9), Springer.
 
-**Luleci F**, Catbas FN (2023) [Condition transfer between prestressed bridges using structural state translation for structural health monitoring](https://doi.org/10.1007/s43503-023-00016-0). AI in Civil Engineering, 2 (7), Springer.
+**Luleci F**, Catbas FN (2023) [Condition transfer between prestressed bridges using structural state translation for structural health monitoring](https://doi.org/10.1007/s43503-023-00016-0). AI in Civil Engineering, 2, (7), Springer.
 
-Debees M, **Luleci F**, Catbas FN (2023) [Effect of Structural Repairs on the Load Rating and Reliability of a Prestressed Concrete Bridge](https://doi.org/10.1186/s43251-023-00087-0). Advances in Bridge Engineering 4 (8), Springer.
+Debees M, **Luleci F**, Catbas FN (2023) [Effect of Structural Repairs on the Load Rating and Reliability of a Prestressed Concrete Bridge](https://doi.org/10.1186/s43251-023-00087-0). Advances in Bridge Engineering, 4, (8), Springer.
 
-**Luleci F**, Catbas FN, Avci O (2023) [CycleGAN for Undamaged-to-Damaged Domain Translation for Structural Health Monitoring and Damage Detection]( https://doi.org/10.1016/j.ymssp.2023.110370). Mech Syst Signal Process 197 (110370), Elsevier. 
+**Luleci F**, Catbas FN, Avci O (2023) [CycleGAN for Undamaged-to-Damaged Domain Translation for Structural Health Monitoring and Damage Detection]( https://doi.org/10.1016/j.ymssp.2023.110370). Mechanical Systems and Signal Processing 197, (110370), Elsevier. 
 
-**Luleci F**, Avci O, Catbas FN (2023) [Improved Undamaged-to-Damaged Acceleration Response Translation for Structural Health Monitoring](https://doi.org/10.1016/j.engappai.2023.106146). Eng Appl Artif Intell 122 (106146), Elsevier. 
+**Luleci F**, Avci O, Catbas FN (2023) [Improved Undamaged-to-Damaged Acceleration Response Translation for Structural Health Monitoring](https://doi.org/10.1016/j.engappai.2023.106146). Engineering Applications of Artificial Intelligence, 122, (106146), Elsevier. 
 
-**Luleci F**, Catbas FN, Avci O (2023) [Generative Adversarial Networks for Labeled Acceleration Data Augmentation for Structural Damage Detection](https://doi.org/10.1007/s13349-022-00627-8). J Civ Struct Health Monit 13:181–198, Springer. 
+**Luleci F**, Catbas FN, Avci O (2023) [Generative Adversarial Networks for Labeled Acceleration Data Augmentation for Structural Damage Detection](https://doi.org/10.1007/s13349-022-00627-8). Journal of Civil Structural Health Monitoring, 13:181–198, Springer. 
 
-**Luleci F**, Catbas FN (2022) [Structural State Translation: Condition Transfer between Civil Structures Using Domain-Generalization for Structural Health Monitoring](https://doi.org/10.48550/arXiv.2212.14048). In Review by Computers & Structures Journal.
+**Luleci F**, Catbas FN (2022) [Structural State Translation: Condition Transfer between Civil Structures Using Domain-Generalization for Structural Health Monitoring](https://doi.org/10.48550/arXiv.2212.14048). arXiv.
 
-Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Condition Assessment of Civil Engineering Structures: A Literature Review](https://doi.org/10.3390/s22239560). Sensors 22 (23), MDPI.  
+Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Condition Assessment of Civil Engineering Structures: A Literature Review](https://doi.org/10.3390/s22239560). Sensors, 22, (23), MDPI.  
 
-**Luleci F**, Catbas FN, Avci O (2022) [A literature Review: Generative Adversarial Networks for Civil Structural Health Monitoring](https://doi.org/10.3389/fbuil.2022.1027379). Front Built Environ 8 (1027379), Frontiers.
+**Luleci F**, Catbas FN, Avci O (2022) [A literature Review: Generative Adversarial Networks for Civil Structural Health Monitoring](https://doi.org/10.3389/fbuil.2022.1027379). Frontiers In Built Environment, 8, (1027379), Frontiers.
 
-**Luleci F**, Catbas FN, Avci O (2022) [Generative Adversarial Networks for Data Generation in Structural Health Monitoring](https://doi.org/10.3389/fbuil.2022.816644). Front Built Environ 8 (816644), Frontiers. 
+**Luleci F**, Catbas FN, Avci O (2022) [Generative Adversarial Networks for Data Generation in Structural Health Monitoring](https://doi.org/10.3389/fbuil.2022.816644). Frontiers In Built Environment, 8, (816644), Frontiers. 
 
-**Luleci F**, Li L, Chi J, Reiners D, Cruz-Neira C, Catbas FN (2022) [Structural Health Monitoring of a Foot Bridge in Virtual Reality Environment](https://doi.org/10.1016/j.prostr.2022.01.060). Procedia Structural Integrity 37:65–72, Elsevier.
+**Luleci F**, Li L, Chi J, Reiners D, Cruz-Neira C, Catbas FN (2022) [Structural Health Monitoring of a Foot Bridge in Virtual Reality Environment](https://doi.org/10.1016/j.prostr.2022.01.060). Procedia Structural Integrity, 37:65–72, Elsevier.
 
 ## Journal Papers in Review
 

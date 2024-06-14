@@ -11,7 +11,7 @@ author_profile: true
 ![Picture2](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/f1ac0287-2acb-4551-8e6b-02eafbd3f991)
 
 - A novel immersive visualization technique, ModeShapeFuser. It maps mode shapes to a 3D model of infrastructures.
-[ModeShapeFuser](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/8ef5ffe1-1dc7-4469-98d1-20b5989fc770)
+[Link:ModeShapeFuser](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/8ef5ffe1-1dc7-4469-98d1-20b5989fc770)
 ![Screenshot 2024-06-13 231646](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/44a9cb48-ba37-4a70-a812-f3011fb90d12)
 
 

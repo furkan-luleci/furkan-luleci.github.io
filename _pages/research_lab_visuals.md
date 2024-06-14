@@ -10,6 +10,10 @@ author_profile: true
 - Using unmanned ground robotics for interior/exterior condition assessment
 ![Picture2](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/f1ac0287-2acb-4551-8e6b-02eafbd3f991)
 
+
+https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/8ef5ffe1-1dc7-4469-98d1-20b5989fc770
+
+
 - Elementary School Teach-In activity: Building Lego Bridge Structures 
 ![IMG-20231118-WA0026](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/7454c4dd-3bbb-40bf-9940-8b44aae98e3e)
 

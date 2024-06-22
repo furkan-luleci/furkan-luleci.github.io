@@ -56,7 +56,7 @@ redirect_from:
 
 **UCF-ASU Collaborative Internal Funding (2023)** - Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures
 
-**UCF Internal Funding (2021)** - Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal (Granted $49,228.00)
+**UCF Internal Funding (2021)** - Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal *(Granted $49,228.00)*
 
 **National Offshore Wind Research and Development Consortium** - Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure
 

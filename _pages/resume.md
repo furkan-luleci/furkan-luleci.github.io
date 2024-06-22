@@ -174,8 +174,8 @@ Teach-In Activity, Carillon Elementary School
 
 # Industry Experience
 
-**R&D Engineer, Transtek International LLC, Orlando, FL,	May 2024 – Present**
-- Conducting research to develop innovative concepts, support feasibility studies, and provide detailed technical insights and documentation for proposal preparations related to built-environment and civil infrastructure systems.
+**R&D Engineer, Transtek International LLC, Orlando, FL,	May 2024 – Aug 2024**
+- Researching and developing innovative concepts, conducting feasibility studies, and providing detailed technical insights and documentation for scientific proposals regarding the built environments and civil infrastructure systems.
 
 **Field Engineer, Superior Construction, Orlando, FL,	Sep 2019 – Jan 2020**
 

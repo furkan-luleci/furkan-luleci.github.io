@@ -45,7 +45,7 @@ Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Con
 
 **Luleci F**, Catbas FN (2024) Generative Artificial Intelligence for Population-Based Assessment and Monitoring. Presented at CITRS UCF workshop, Orlando, Florida.
 
-**Luleci F**, AlGadi A, Catbas FN (2024) Multimodal Data Collection Using Mobile Robotics for Rapid Structural Assessment. [Submitted and to be presented at IABMAS 2024].
+**Luleci F**, AlGadi A, Catbas FN (2024) [Multimodal Data Collection Using Mobile Robotics for Rapid Structural Assessment](https://dx.doi.org/10.1201/9781003483755-86). In: Bridge Maintenance, Safety, Management, Digitalization and Sustainability. CRC Press, London, pp 742-749. Presented at IABMAS in Copenhagen, Denmark, July 2024.
 
 **Luleci F**, AlGadi A, Perrault M, et al (2024) Operational Modal Analysis of a Pedestrian Bridge Using Ultra-Sensitive Wireless Accelerometers Under Different Structural Scenarios. Presented at IMAC 2024.
 

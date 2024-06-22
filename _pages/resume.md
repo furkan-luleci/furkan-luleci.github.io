@@ -25,8 +25,8 @@ redirect_from:
 
 *RESEARCH*
 -	Investigated novel and effective solutions to challenging problems in the operation and maintenance of civil infrastructure systems using Generative Artificial Intelligence (AI), Robotics, and Virtual Reality (VR) coupled with Structural Health Monitoring (SHM) frameworks/tools.
--	Experienced in the applications of Large Wheeled Robots for rapid assessment of civil infrastructure systems, Generative Adversarial Networks for response data generation, and VR for decision-making.
--	Experienced in white paper and full proposal preparations for government agencies (National Science Foundation, Department of Defense, U.S. Department of Transportation’s University of Transportation Center) and other internal university fundings subjects related to smart cities, community and infrastructure resilience-based risk assessment, and infrastructure sustainability.
+-	Experienced in the applications of Large Wheeled Robots for rapid assessment of civil infrastructure systems, Generative Adversarial Networks for vibration response data generation, and VR for decision-making.
+-	Experienced in white paper and full proposal preparations for government agencies (National Science Foundation, Department of Defense, U.S. Department of Transportation’s University of Transportation Center) and other internal university fundings related to smart cities, infrastructure resilience-based risk assessment, and infrastructure sustainability.
 -	Proactively participated in research team meetings and discussions for different project research tasks.
 -	Assisted research team members with experiments, field monitoring data collection, and composing report/article activities.
 -	Managed research projects in planning, experimenting, and documenting.
@@ -34,14 +34,109 @@ redirect_from:
 
 *TEACHING*
 -	Served as a Teaching Assistant in an Engineering Statics course of 150 students, holding student office hours, performing assignment/exam gradings, and assisting in teaching in some classes.
--	Assisted in teaching and grading several graduate-level courses, such as *Finite Element Structural Analysis*, *Matrix Methods for Structural Analysis*, and *Dynamics of Structures*.
--	Took the Preparing Tomorrow’s Faculty Program, which is designed to equip me with valuable training in *(i) teaching pedagogies*, *(ii) student learning and motivation*, as well as *(iii) integrated course design*.
+-	Assisted in teaching and grading several graduate-level courses, such as Finite Element Structural Analysis, Matrix Methods for Structural Analysis, and Dynamics of Structures.
+-	Attended the Preparing Tomorrow’s Faculty Program, designed to equip me with valuable training in (i) teaching pedagogies, (ii) student learning and motivation, as well as (iii) integrated course design.
 -	Served as a mentor in ASCE’s mentor match program, where I volunteered to mentor undergraduate student engineers, in addition to my regular interactions with students on campus about their academic and personal growth and assisting them in guiding their educational journey and future careers.
+
 
 **Graduate Assistant, UCF, Orlando, FL,	Jan 2018 – Dec 2018**
 -	Assisted students with application and admission procedures for UCF Global and other UCF programs.
 -	Facilitated campus tours of UCF to new and prospective students.
 -	Fielded approximately 30 calls and 100 e-mails daily regarding UCF's English Language Institute and UCF programs.
+
+# Honors and Awards
+**UCF Graduate Travel/Presentation Fellowship 2023**
+
+**Geotechnical and Environmental Scholarship Award	Jun 2022**: One of three recipients of $2,000 from the UCF College of Engineering
+
+**Graduate Student Chapter of the Year Award	Feb 2022**: ASCE SEI Graduate Student Chapter at UCF was selected to receive this award under my presidency
+
+**Graduate Travel/Presentation Fellowship (UCF) 2021**
+
+**ASCE SEI East Central Branch Scholarship Award	Oct 2021**: Recipient of $1,000 in East Central Florida
+
+**UCF International Scholarship Award	Aug 2020**: Recipient of $2,500 in UCF
+
+**UCF ORCGS Doctoral Fellowship Award	Feb 2020**: Tuition, fees, insurance coverage for the doctoral program, and a $25,000 stipend for a year
+  
+**UCF Graduate Assistant Fellowship Award	Jan 2018**: Tuition, fees, and insurance coverage for the master’s program
+
+**ESOGU Honors Designation	Jun 2017**: Graduated in the top 2% of the civil engineering department (ranked 8th)
+
+# Invited Presentations
+- Investigating Emerging Technologies in Civil Structural Health Monitoring: Generative Artificial Intelligence and Virtual Reality. Presented at Florida Polytechnic University, Lakeland, FL, June 2024
+
+- Generative Artificial Intelligence for Population-Based Assessment and Monitoring. Presented at the Industry-Government-University Workshop on Civil Infrastructure Technologies and Applications, CITRS, UCF, Orlando, FL, January 2024. 
+
+
+# Scientific Grants
+**DARPA (2023)** - Structural Evaluation through Non-contact Sensor Embedding (SENSE)
+
+**UCF-ASU Collaborative Internal Funding (2023)** - Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures
+
+**UCF Internal Funding (2021)** - Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal (Granted $49,228.00)
+
+**National Offshore Wind Research and Development Consortium** - Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure
+
+
+# Projects & Contests Involved in Academia
+- **UCF Stadium Monitoring** – Monitoring the portion of the UCF stadium with Structural Health Monitoring (SHM) systems as well as camera setups
+- **Sercel Project** – Experimentation and validation of ultrasensitive wireless accelerometers (S-Lynks) on engineering structures (pedestrian and prestressed highway bridges, and buildings)
+- **MAPS Project** - Mobile Assessment for Civil Infrastructure Preservation using Structural Health Monitoring (SHM) and Building Information Modeling (BIM)
+- **NASA Project** - A Framework for Structural Assessment Using Structural Health Monitoring (SHM) And Non-Destructive Evaluation (NDE) Along with Advanced Modeling
+- **Big Beam Prestressed Contest 2018 by PCI** - Designed a 20 feet prestressed beam following the guidelines of PCI and ACI
+
+
+# Personal Skills & Competences
+**Software**
+- SAP 2000, ANSYS, NASTRAN, RISA, Bentley RAM, AutoCAD, CSiBridge, SketchUp, Unity, Blender, CloudCompare, MeshLab, RealityCapture
+
+**Programming & Tools**
+- Python, C#, R, LabVIEW, MATLAB, PyTorch, Robot Operating System (ROS) 1&2, GitHub
+
+**Domain Knowledge**
+- Structural Health Monitoring (frameworks and tools), Data Acquisition Systems, Structural Dynamics, Steel and Concrete Structures, Data Domain Learning, Machine Learning, Generative Artificial Intelligence, Infrastructure Resilience, Agent-Based Modeling, Modal Analysis (experimental and operational), System Diagnostics, Numeric Modeling and Analysis, Robotic Systems (hardware and software), Virtual Reality Systems, Data Mining, Signal Processing, Digital Twin, Sustainable Infrastructure Systems
+
+# Academia Service
+- Chair for Multiple Sessions for the 8th World Conference on Structural Control and Monitoring (WCSCM) conference in Orlando in 2022
+- Reviewer, Structural Engineering Journal, 				                    
+- Reviewer, Advances in Engineering Software Journal,                   
+- Reviewer, Journal of Bridge Engineering,                              
+- Reviewer, Structure and Infrastructure Engineering Journal,
+- Reviewer, Engineering Structures Journal
+- Reviewer, Mechanical Systems and Signal Processing Journal  
+
+# Community Service
+Teach-In Activity, Carillon Elementary School
+  - Yearly Teach-in sessions to 2nd-grade elementary school kids about the fundamentals of engineering.
+
+# Professional Licenses & Certifications
+- Engineer in Training (Civil), No: 1100026741, by Florida Board of Professional Engineers.
+- SAP2000 Training, Computers and Structures, Inc. Isand017
+- AutoCAD Training, Bilişim Eğitim Merkezi, Issued Sep 2015, Credential ID 4706
+
+# Professional Affiliations
+- American Society of Civil Engineers, Affiliate Member, 			    2018 - Present
+ - Have served and serving in multiple roles at ASCE Structural Engineering Institute (SEI)
+- Institution of Structural Engineers, Student Member, 			      2018-2019
+
+# Selected Coursework
+*In MSCE and PhD programs*:
+- Sustainable Infrastructure Systems
+- Computer Vision
+- 3D Computer Vision
+- Machine Learning
+- Advanced Virtual Reality
+- Immersive Visualization
+- Dynamics of Structures
+- Finite Element Structural Analysis
+- Advanced Steel Structures
+- Matrix Methods for Structural Analysis
+- Wind and Earthquake Engineering
+- Prestressed Concrete Structures
+- Advanced Geotech Engineering
+- Project Engineering
+- Industrial Ecology
 
 # Industry Experience
 
@@ -125,83 +220,4 @@ redirect_from:
 -	Participated in the meetings and conference calls set up by the GSCLC/LAD EXCOM.
 -	Managed external communications between students and ASCE organizations.
 
-# Honors and Awards
-**Graduate Travel/Presentation Fellowship (UCF) 2023**
 
-**Geotechnical and Environmental Scholarship Award	Jun 2022**: One of three recipients of $2,000 from the UCF College of Engineering
-
-**Graduate Travel/Presentation Fellowship (UCF) 2022**
-
-**Graduate Student Chapter of the Year Award	Feb 2022**: ASCE SEI Graduate Student Chapter at UCF was selected to receive this award under my presidency
-
-**Graduate Travel/Presentation Fellowship (UCF) 2021**
-
-**ASCE SEI East Central Branch Scholarship Award	Oct 2021**: Recipient of $1,000 in East Central Florida
-
-**UCF International Scholarship Award	Aug 2020**: Recipient of $2,500 in UCF
-
-**UCF ORCGS Doctoral Fellowship Award	Feb 2020**: Tuition, fees, insurance coverage for the doctoral program, and a $25,000 stipend for a year
-  
-**UCF Graduate Assistant Fellowship Award	Jan 2018**: Tuition, fees, and insurance coverage for the master’s program
-
-**ESOGU Honors Designation	Jun 2017**: Graduated in the top 2% of the civil engineering department (ranked 8th)
-
-
-# Projects & Contests Involved in Academia
-- **UCF Stadium Monitoring** – Monitoring the portion of the UCF stadium with Structural Health Monitoring (SHM) systems as well as camera setups
-- **Sercel Project** – Experimentation and validation of ultrasensitive wireless accelerometers (S-Lynks) on engineering structures (pedestrian and prestressed highway bridges, and buildings)
-- **MAPS Project** - Mobile Assessment for Civil Infrastructure Preservation using Structural Health Monitoring (SHM) and Building Information Modeling (BIM)
-- **NASA Project** - A Framework for Structural Assessment Using Structural Health Monitoring (SHM) And Non-Destructive Evaluation (NDE) Along with Advanced Modeling
-- **Big Beam Prestressed Contest 2018 by PCI** - Designed a 20 feet prestressed beam following the guidelines of PCI and ACI
-
-
-# Personal Skills & Competences
-**Software**
-- SAP 2000, ANSYS, NASTRAN, RISA, Bentley RAM, AutoCAD, CSiBridge, SketchUp, Unity, Blender, CloudCompare, MeshLab, RealityCapture
-
-**Programming & Tools**
-- Python, C#, R, LabVIEW, MATLAB, PyTorch, Robot Operating System (ROS) 1&2, GitHub
-
-**Domain Knowledge**
-- Structural Health Monitoring (frameworks and tools), Data Acquisition Systems, Structural Dynamics, Steel and Concrete Structures, Data Domain Learning, Machine Learning, Generative Artificial Intelligence, Infrastructure Resilience, Agent-Based Modeling, Modal Analysis (experimental and operational), System Diagnostics, Numeric Modeling and Analysis, Robotic Systems (hardware and software), Virtual Reality Systems, Data Mining, Signal Processing, Digital Twin, Sustainable Infrastructure Systems
-
-# Academia Service
-- Chair for Multiple Sessions for the 8th World Conference on Structural Control and Monitoring (WCSCM) conference in Orlando in 2022
-- Reviewer, Structural Engineering Journal, 				                    
-- Reviewer, Advances in Engineering Software Journal,                   
-- Reviewer, Journal of Bridge Engineering,                              
-- Reviewer, Structure and Infrastructure Engineering Journal,
-- Reviewer, Engineering Structures Journal
-- Reviewer, Mechanical Systems and Signal Processing Journal  
-
-# Community Service
-Teach-In Activity, Carillon Elementary School
-  - Yearly Teach-in sessions to 2nd-grade elementary school kids about the fundamentals of engineering.
-
-# Professional Licenses & Certifications
-- Engineer in Training (Civil), No: 1100026741, by Florida Board of Professional Engineers.
-- SAP2000 Training, Computers and Structures, Inc. Isand017
-- AutoCAD Training, Bilişim Eğitim Merkezi, Issued Sep 2015, Credential ID 4706
-
-# Professional Affiliations
-- American Society of Civil Engineers, Affiliate Member, 			    2018 - Present
- - Have served and serving in multiple roles at ASCE Structural Engineering Institute (SEI)
-- Institution of Structural Engineers, Student Member, 			      2018-2019
-
-# Selected Coursework
-*In MSCE and PhD programs*:
-- Sustainable Infrastructure Systems
-- Computer Vision
-- 3D Computer Vision
-- Machine Learning
-- Advanced Virtual Reality
-- Immersive Visualization
-- Dynamics of Structures
-- Finite Element Structural Analysis
-- Advanced Steel Structures
-- Matrix Methods for Structural Analysis
-- Wind and Earthquake Engineering
-- Prestressed Concrete Structures
-- Advanced Geotech Engineering
-- Project Engineering
-- Industrial Ecology

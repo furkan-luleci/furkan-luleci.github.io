@@ -44,6 +44,23 @@ redirect_from:
 -	Facilitated campus tours of UCF to new and prospective students.
 -	Fielded approximately 30 calls and 100 e-mails daily regarding UCF's English Language Institute and UCF programs.
 
+
+# Invited Presentations
+- Investigating Emerging Technologies in Civil Structural Health Monitoring: Generative Artificial Intelligence and Virtual Reality. Presented at Florida Polytechnic University, Lakeland, FL, June 2024
+
+- Generative Artificial Intelligence for Population-Based Assessment and Monitoring. Presented at the Industry-Government-University Workshop on Civil Infrastructure Technologies and Applications, CITRS, UCF, Orlando, FL, January 2024. 
+
+
+# Scientific Grants
+**DARPA (2023)** - Structural Evaluation through Non-contact Sensor Embedding (SENSE)
+
+**UCF-ASU Collaborative Internal Funding (2023)** - Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures
+
+**UCF Internal Funding (2021)** - Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal (Granted $49,228.00)
+
+**National Offshore Wind Research and Development Consortium** - Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure
+
+
 # Honors and Awards
 **UCF Graduate Travel/Presentation Fellowship 2023**
 
@@ -62,21 +79,6 @@ redirect_from:
 **UCF Graduate Assistant Fellowship Award	Jan 2018**: Tuition, fees, and insurance coverage for the master’s program
 
 **ESOGU Honors Designation	Jun 2017**: Graduated in the top 2% of the civil engineering department (ranked 8th)
-
-# Invited Presentations
-- Investigating Emerging Technologies in Civil Structural Health Monitoring: Generative Artificial Intelligence and Virtual Reality. Presented at Florida Polytechnic University, Lakeland, FL, June 2024
-
-- Generative Artificial Intelligence for Population-Based Assessment and Monitoring. Presented at the Industry-Government-University Workshop on Civil Infrastructure Technologies and Applications, CITRS, UCF, Orlando, FL, January 2024. 
-
-
-# Scientific Grants
-**DARPA (2023)** - Structural Evaluation through Non-contact Sensor Embedding (SENSE)
-
-**UCF-ASU Collaborative Internal Funding (2023)** - Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures
-
-**UCF Internal Funding (2021)** - Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal (Granted $49,228.00)
-
-**National Offshore Wind Research and Development Consortium** - Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure
 
 
 # Projects & Contests Involved in Academia

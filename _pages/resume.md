@@ -140,6 +140,38 @@ Teach-In Activity, Carillon Elementary School
 - Project Engineering
 - Industrial Ecology
 
+
+# ASCE Community Experience
+**Mentorship, ASCE Mentor Match Program,	Nov 2021 – Present**
+- Serving as a volunteer mentor for engineering students
+
+**Chair, ASCE SEI Graduate Student Chapter at UCF, Orlando, FL	May 2019 – Present**
+- Organizing the American Society of Civil Engineers (ASCE) Structural Engineering Institute (SEI) at UCF Grad Chapter booths at in-person events on the UCF campus.
+-	Coordinating in-person/online chapter events, such as luncheons, seminars, and meetings/discussions, inviting professionals from the industry.
+-	Promoting ASCE SEI organization, membership, and its activities on campus.
+
+**Chair, ASCE SEI Graduate Student Chapters Leadership Council 	Oct 2021 – Sep 2022**
+-	Acted as a voting member of the Graduate Student Chapters Leadership Council (GSCLC).
+-	Organized and directed the recursive and other meetings of the GSCLC. Actively communicated with the SEI Local Activities Division. Provided necessary support and guidance for new Graduate Student Chapters.
+-	Devoted substantial time and effort to Graduate Student Chapter Activities. Promoted SEI and its membership. Collaborated with all graduate student chapters in carrying out Council activities.
+-	Collaborated with other ASCE SEI Local Chapters to foster organizational activities.
+-	Participated in the meetings and conference calls set up by the GSCLC/LAD EXCOM.
+
+**Vice Chair, ASCE SEI GSCLC 	Oct 2020 – Sep 2021**
+-	Acted as a voting member of the GSCLC.
+-	Represented the Council at meetings/activities during the absence of the Chair.
+-	Assisted the Chair as and when required during Council activities.
+-	Collaborated with all graduate student chapters in carrying out Council activities.
+-	Participated in the meetings and conference calls set up by the GSCLC/LAD EXCOM.
+
+**Public Relations Officer, ASCE SEI GSCLC 	Oct 2019 – Sep 2020**
+-	Acted as a voting member of the GSCLC.
+-	Established working relations with all graduate student chapters in coordination with the Vice Chair.
+-	Publicized the events and activities of the Council.
+-	Participated in the meetings and conference calls set up by the GSCLC/LAD EXCOM.
+-	Managed external communications between students and ASCE organizations.
+
+
 # Industry Experience
 
 **R&D Engineer, Transtek International LLC, Orlando, FL,	May 2024 – Present**
@@ -192,34 +224,6 @@ Teach-In Activity, Carillon Elementary School
 -	Assisted and managed concrete casting of floors as well as columns and beams.
 -	Experienced in the inspection of concrete samples and reading AutoCAD plans.
 
-# ASCE Community Experience
-**Mentorship, ASCE Mentor Match Program,	Nov 2021 – Present**
-- Serving as a volunteer mentor for engineering students
 
-**Chair, ASCE SEI Graduate Student Chapter at UCF, Orlando, FL	May 2019 – Present**
-- Organizing the American Society of Civil Engineers (ASCE) Structural Engineering Institute (SEI) at UCF Grad Chapter booths at in-person events on the UCF campus.
--	Coordinating in-person/online chapter events, such as luncheons, seminars, and meetings/discussions, inviting professionals from the industry.
--	Promoting ASCE SEI organization, membership, and its activities on campus.
-
-**Chair, ASCE SEI Graduate Student Chapters Leadership Council 	Oct 2021 – Sep 2022**
--	Acted as a voting member of the Graduate Student Chapters Leadership Council (GSCLC).
--	Organized and directed the recursive and other meetings of the GSCLC. Actively communicated with the SEI Local Activities Division. Provided necessary support and guidance for new Graduate Student Chapters.
--	Devoted substantial time and effort to Graduate Student Chapter Activities. Promoted SEI and its membership. Collaborated with all graduate student chapters in carrying out Council activities.
--	Collaborated with other ASCE SEI Local Chapters to foster organizational activities.
--	Participated in the meetings and conference calls set up by the GSCLC/LAD EXCOM.
-
-**Vice Chair, ASCE SEI GSCLC 	Oct 2020 – Sep 2021**
--	Acted as a voting member of the GSCLC.
--	Represented the Council at meetings/activities during the absence of the Chair.
--	Assisted the Chair as and when required during Council activities.
--	Collaborated with all graduate student chapters in carrying out Council activities.
--	Participated in the meetings and conference calls set up by the GSCLC/LAD EXCOM.
-
-**Public Relations Officer, ASCE SEI GSCLC 	Oct 2019 – Sep 2020**
--	Acted as a voting member of the GSCLC.
--	Established working relations with all graduate student chapters in coordination with the Vice Chair.
--	Publicized the events and activities of the Council.
--	Participated in the meetings and conference calls set up by the GSCLC/LAD EXCOM.
--	Managed external communications between students and ASCE organizations.
 
 

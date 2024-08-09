@@ -9,6 +9,8 @@ author_profile: true
 
 ## Journal Publications
 
+**Luleci F**, Catbas FN (2024) [Bringing Site to the Office: Decision-Making in Infrastructure Management through Virtual Reality](https://doi.org/10.1016/j.autcon.2024.105675). Automation in Construction, 166, (105675), Elsevier.
+
 **Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2024) [Fusing Infrastructure Health Monitoring Data in Point Cloud](https://doi.org/10.1016/j.autcon.2024.105546). Automation in Construction, 165, (105546), Elsevier.
 
 Catbas FN, Cano JA, **Luleci F**, Walters LC, Michlowitz R (2023) [On the Generation of Digital Data and Models from Point Clouds: Application to a Pedestrian Bridge Structure](https://www.mdpi.com/2412-3811/9/1/6). Infrastructures, 9, (1), MDPI.

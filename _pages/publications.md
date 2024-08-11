@@ -39,10 +39,6 @@ Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Con
 
 **Luleci F**, Li L, Chi J, Reiners D, Cruz-Neira C, Catbas FN (2022) [Structural Health Monitoring of a Foot Bridge in Virtual Reality Environment](https://doi.org/10.1016/j.prostr.2022.01.060). Procedia Structural Integrity, 37:65–72, Elsevier.
 
-## Journal Papers in Review
-
-**Luleci F**, Catbas FN (2024). Bringing Site to the Office: Decision-Making in Infrastructure Management Through Virtual Reality. In Review by Automation in Construction, Elsevier.
-
 ## Conference Papers, Chapters, and Presentations
 
 **Luleci F**, AlGadi A, Catbas FN (2024) [Multimodal Data Collection Using Mobile Robotics for Rapid Structural Assessment](https://dx.doi.org/10.1201/9781003483755-86). In: Bridge Maintenance, Safety, Management, Digitalization and Sustainability. CRC Press, London, pp 742-749. Presented at IABMAS in Copenhagen, Denmark, July 2024.
@@ -57,7 +53,7 @@ AlGadi A, **Luleci F**, Perrault M, et al (2022) [Investigation of Span Dependen
 
 **Luleci F**, Catbas FN, Avci O (2023) [Generative Adversarial Networks for Labelled Vibration Data Generation](https://doi.org/10.1007/978-3-031-05405-1_5). In: Special Topics in Structural Dynamics & Experimental Techniques. Conference Proceedings of the Society for Experimental Mechanics Series, pp 41–50. Presented at IMAC XL in Orlando, Feb 2022.
 
-**Luleci F**, Li L, Chi J, et al (2022) [Structural Health Monitoring of a Foot Bridge in Virtual Reality Environment](https://doi.org/10.1016/j.prostr.2022.01.060). Procedia Structural Integrity 37:65–72. Presented at ICSI 2021 in Madeira, Portugal.
+**Luleci F**, Li L, Chi J, et al (2022) [Structural Health Monitoring of a Foot Bridge in Virtual Reality Environment](https://doi.org/10.1016/j.prostr.2022.01.060). Presented at ICSI 2021 in Madeira, Portugal.
 
 ## Poster Presentations
 

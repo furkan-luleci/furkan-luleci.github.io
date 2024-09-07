@@ -9,11 +9,14 @@ redirect_from:
 
 
 ## Briefly about me
-👨🏻‍💻 **I'm a recent PhD** in Civil (Structural) Engineering and was a research assistant at [Civil Infrastructure Technologies for Resiliency and Safety (CITRS)](https://www.cece.ucf.edu/citrs/) labs and a teaching assistant at the [University of Central Florida (UCF)](https://www.ucf.edu/). My PhD advisor was Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/), who is Lockheed Martin St. Laurent Professor and the director of CITRS.
+
+👨🏻‍💻**I'm a Postdoctoral Researcher and Adjunct Faculty at the [University of Central Florida (UCF) Department of Civil, Environmental, and Construction Engineering (CECE)](https://www.cece.ucf.edu/).
+
+ **During my PhD** in Civil (Structural) Engineering and was a research assistant at [Civil Infrastructure Technologies for Resiliency and Safety (CITRS)](https://www.cece.ucf.edu/citrs/) labs and a teaching assistant at the UCF CECE. My PhD advisor was Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/), who is Lockheed Martin St. Laurent Professor and the director of CITRS.
 
 🧑‍🎓️ You can access **My Dissertation** in the following link: [Investigating Emerging Technologies In Civil Structural Health Monitoring: Generative Artificial Intelligence Virtual Reality](https://stars.library.ucf.edu/etd2023/145/). 
 
-**My dissertation explores** novel and effective solutions to challenging problems in the operation and maintenance of civil infrastructure systems through the applications of *Generative Artificial Intelligence*, *Virtual Reality*, *Robotics*, *Digital Twin* tools, coupled with *Structural Health Monitoring* techniques.
+**My dissertation explored** novel and effective solutions to challenging problems in the operation and maintenance of civil infrastructure systems through the applications of *Generative Artificial Intelligence* and *Virtual Reality*, coupled with *Structural Health Monitoring* techniques.
 
 🎯 **My research aims** innovative cross-disciplinary approaches to address built environment challenges and enhance the resilience of physical space at element and system levels. My research drives my commitment to interdisciplinary and impactful research in our field that is transferable (adapting to different contexts) and scalable (adaptable to different dimensions), all while targeting solutions to sustain successful outcomes long-term (sustainable).
 

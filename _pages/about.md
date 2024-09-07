@@ -12,11 +12,9 @@ redirect_from:
 
 👨🏻‍💻**I'm a Postdoctoral Researcher and Adjunct Faculty at the [University of Central Florida (UCF) Department of Civil, Environmental, and Construction Engineering (CECE)](https://www.cece.ucf.edu/).
 
- **During my PhD** in Civil (Structural) Engineering and was a research assistant at [Civil Infrastructure Technologies for Resiliency and Safety (CITRS)](https://www.cece.ucf.edu/citrs/) labs and a teaching assistant at the UCF CECE. My PhD advisor was Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/), who is Lockheed Martin St. Laurent Professor and the director of CITRS.
+**During my PhD** in Civil (Structural) Engineering and was a research assistant at [Civil Infrastructure Technologies for Resiliency and Safety (CITRS)](https://www.cece.ucf.edu/citrs/) labs and a teaching assistant at the UCF CECE. My PhD advisor was Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/), who is Lockheed Martin St. Laurent Professor and the director of CITRS.
 
-🧑‍🎓️ You can access **My Dissertation** in the following link: [Investigating Emerging Technologies In Civil Structural Health Monitoring: Generative Artificial Intelligence Virtual Reality](https://stars.library.ucf.edu/etd2023/145/). 
-
-**My dissertation explored** novel and effective solutions to challenging problems in the operation and maintenance of civil infrastructure systems through the applications of *Generative Artificial Intelligence* and *Virtual Reality*, coupled with *Structural Health Monitoring* techniques.
+🧑‍🎓️ You can access **My PhD Dissertation** in the following link: [Investigating Emerging Technologies In Civil Structural Health Monitoring: Generative Artificial Intelligence Virtual Reality](https://stars.library.ucf.edu/etd2023/145/). It explored novel and effective solutions to challenging problems in the operation and maintenance of civil infrastructure systems through the applications of *Generative Artificial Intelligence* and *Virtual Reality*, coupled with *Structural Health Monitoring* techniques.
 
 🎯 **My research aims** innovative cross-disciplinary approaches to address built environment challenges and enhance the resilience of physical space at element and system levels. My research drives my commitment to interdisciplinary and impactful research in our field that is transferable (adapting to different contexts) and scalable (adaptable to different dimensions), all while targeting solutions to sustain successful outcomes long-term (sustainable).
 
@@ -31,26 +29,12 @@ redirect_from:
 ### Research Interests
 I am interested in using cross-disciplinary approaches to enhance the resilience of physical systems. <ins>In Civil - Structural Engineering related areas</ins>, my interests lie in the following subjects:
 
-Structural Health Monitoring, Advanced Sensing Technologies, Structural Reliability, Infrastructure Resilience, Operational and Experimental Modal Analysis, Structural Dynamics, Sustainable Infrastructure Systems, Numerical Modeling and Analysis, System Diagnostics and Prognostics, Signal Processing, Non-Destructive Testing and Evaluation, Load Rating.
+Structural Health Monitoring (SHM), Structural Dynamics, Modal Analysis (Experimental and Operational), Infrastructure Reliability and Resilience, Numerical Modeling and Analysis, Steel and Concrete Structures, Bridge Load Rating, System Diagnostics and Prognostics.
 
 <ins>In multidisciplinary areas</ins>, my interests lie in the following areas:
 
-Generative AI (GANs, Diffusion Models, Transformers), Domain Generalization, Transfer Learning, Multi-Modal Learning, Virtual Reality and other Immersive Visualization tools, Robotics (unmanned ground and aerial vehicles), Digital Twin, Agent-Based Modeling and Multi-Agent Systems.
+Generative AI (GANs, Diffusion Models, Transformers), Robotics (Unmanned Ground and Aerial Vehicles), Virtual Reality (VR) and other Immersive Visualization tools, Digital Twin, Machine Learning, Agent-Based Modeling (ABM), Multi-Agent Reinforcement Learning, Signal Processing, Advanced Sensing Technologies for Civil Infrastructure Systems, Non-Destructive Testing and Evaluation (NDT/E).
 
-
-### Near Future Goals
-- Increase the Technology Readiness Level (TRL) of our proof-of-concept service-based product, [Virtual Reality (VR)-based Operations and Maintenance (O&M) platform](https://www.youtube.com/watch?v=-pPy4M9qqi8).
-- Develop a multi-robot-based structural condition assessment system to support built environment resilience and improve efficiency in the operation and maintenance of civil infrastructure systems.
-- Characterize and develop a Generative Artificial Intelligence-based methodology to generate possible sensor data of various types of infrastructure systems for different structural conditions to optimize the data collection efforts.
-
-### Lifetime Goals
-<img align="right" width="309" height="267" src="/images/bridge.jpg">
-
-- Convert near-future goals into a practical business model to contribute to the betterment of our society.
-- Be a professor and become a great mentor for new generations.  
-- Write a novel.
-- Maybe have a PhD in History or Archeology.
-- Open an art gallery showcasing the pictures/video clips I took over the years.
 
 ### Hobbies & Interests
 📷 I love to take nature pictures and videos with my camera setups, smartphone, and drones. I also create short drone video clips and share them on my [instagram account](https://www.instagram.com/furkanllci/) and [youtube channel](https://www.youtube.com/@fllci).

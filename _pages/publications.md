@@ -39,9 +39,17 @@ Catbas FN, **Luleci F**, Zakaria M, et al. (2022) [Extended Reality (XR) for Con
 
 **Luleci F**, Li L, Chi J, Reiners D, Cruz-Neira C, Catbas FN (2022) [Structural Health Monitoring of a Foot Bridge in Virtual Reality Environment](https://doi.org/10.1016/j.prostr.2022.01.060). Procedia Structural Integrity, 37:65–72, Elsevier.
 
+## PhD Dissertation
+
+Luleci F, (2024) [Investigating Emerging Technologies in Civil Structural Health Monitoring: Generative Artificial Intelligence and Virtual Reality](https://stars.library.ucf.edu/etd2023/145). Graduate Thesis and Dissertation 2023-2024. 145.
+
+## Reports
+
+Catbas FN, Luleci F, Debees M, et al. (2024) Reliability-Based Bridge Inspection Framework Using Non-Destructive Evaluation (NDE) and Structural Health Monitoring (SHM) for Effective and Efficient Asset Maintenance. NASA Kennedy Space Center, Orlando, FL.
+
 ## Conference Papers, Chapters, and Presentations
 
-**Luleci F**, AlGadi A, Catbas FN (2024) [Multimodal Data Collection Using Mobile Robotics for Rapid Structural Assessment](https://dx.doi.org/10.1201/9781003483755-86). In: Bridge Maintenance, Safety, Management, Digitalization and Sustainability. CRC Press, London, pp 742-749. Presented at IABMAS in Copenhagen, Denmark, July 2024.
+**Luleci F**, AlGadi A, Catbas FN (2024) [Multimodal Data Collection Using Mobile Robotics for Rapid Structural Assessment]([https://dx.doi.org/10.1201/9781003483755-86](https://www.researchgate.net/publication/381619921_Multimodal_Data_Collection_Using_Mobile_Robotics_For_Rapid_Structural_Assessment). In: Bridge Maintenance, Safety, Management, Digitalization and Sustainability. CRC Press, London, pp 742-749. Presented at IABMAS in Copenhagen, Denmark, July 2024.
 
 **Luleci F**, AlGadi A, Perrault M, et al (2024) Operational Modal Analysis of a Pedestrian Bridge Using Ultra-Sensitive Wireless Accelerometers Under Different Structural Scenarios. Presented at IMAC 2024, Orlando, FL.
 

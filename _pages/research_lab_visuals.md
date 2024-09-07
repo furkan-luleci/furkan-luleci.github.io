@@ -32,7 +32,7 @@ author_profile: true
 - Sensing the dynamic behavior of a bridge via ultrasensitive wireless accelerometers
 ![Picture4](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/f05f6206-1d3e-4a05-be9b-999dd845f63a)
 
-- Remote assessment of a bridge with other engineers in a Virtual Reality platform for a collaborative work environment
+- Remote assessment of a bridge with other engineers in a Virtual Reality platform for a collaborative work environment. See the full [visual demo here](https://www.youtube.com/watch?v=-pPy4M9qqi8).
 ![Picture5](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/35f65d92-01d6-4637-9ab7-33f007a6beba)
 
 ![Picture1 (1)](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/e62d39a4-c31b-4901-8fa8-a551274fdb51)

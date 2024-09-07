@@ -21,29 +21,35 @@ redirect_from:
  - Capstone project: Green Buildings and their Design Criteria.
 
 # Research and Teaching Experience
+
+**Postdoctoral Researcher, UCF, Orlando, FL,	Aug 2024 – Present**
+- Collaborating on diverse research projects with U.S. and international institutions, focusing on the development of Digital Twins for the built environment, advancing Bridge Information Modeling techniques, and leveraging Generative Artificial Intelligence (AI) for optimizing the use of infrastructure response data.
+- Developing multidisciplinary scientific projects in collaboration with multiple institutions for NSF, DoD, and DoTs funding, as well as internal university grants, focusing on smart cities, infrastructure resilience, and technology-driven infrastructure management.
+- Mentoring and supervising undergraduate and graduate students in research projects.
+
+**Adjunct Faculty, UCF, Orlando, FL,	Aug 2024 – Present**
+- Teaching the Engineering Economics course with 56 undergraduate students for Fall 2024. Responsible for course development, syllabus design, lecture preparation, creating assessments and exams, delivering lectures, and providing academic support.
+- Scheduled to teach graduate-level Wind and Earthquake Engineering course for Spring 2025.
+
 **Graduate Research/Teaching Assistant, UCF, Orlando, FL,	Aug 2020 – May 2024**
 
 *RESEARCH*
--	Investigated novel and effective solutions to challenging problems in the operation and maintenance of civil infrastructure systems using Generative Artificial Intelligence (AI), Robotics, and Virtual Reality (VR) coupled with Structural Health Monitoring (SHM) frameworks/tools.
--	Experienced in the applications of Large Wheeled Robots for rapid assessment of civil infrastructure systems, Generative Adversarial Networks for vibration response data generation, and VR for decision-making.
--	Experienced in white paper and full proposal preparations for government agencies (National Science Foundation, Department of Defense, U.S. Department of Transportation’s University of Transportation Center) and other internal university fundings related to smart cities, infrastructure resilience-based risk assessment, and infrastructure sustainability.
--	Proactively participated in research team meetings and discussions for different project research tasks.
--	Assisted research team members with experiments, field monitoring data collection, and composing report/article activities.
--	Managed research projects in planning, experimenting, and documenting.
--	Administered and organized laboratory experimental activities for research tasks.
+- Investigated novel and effective solutions to challenging problems in the operation and maintenance of civil infrastructure systems utilizing Generative AI, wheeled Robotics, and Virtual Reality (VR) coupled with Structural Health Monitoring (SHM) frameworks/tools.
+- Experienced in white paper and proposal preparations for the NSF, DoD, DoT, and other internal university fundings.
+- Proactively participated in research team meetings and discussions for different project research tasks. Managed projects in planning, experimenting, and documenting.
+- Assisted research team members with experiments, field monitoring data collection, and composing report/article activities.
+- Administered and organized laboratory experimental activities for research tasks.
 
 *TEACHING*
--	Served as a Teaching Assistant in an Engineering Statics course of 150 students, holding student office hours, performing assignment/exam gradings, and assisting in teaching in some classes.
--	Assisted in teaching and grading several graduate-level courses, such as Finite Element Structural Analysis, Matrix Methods for Structural Analysis, and Dynamics of Structures.
--	Attended the Preparing Tomorrow’s Faculty Program, designed to equip me with valuable training in (i) teaching pedagogies, (ii) student learning and motivation, as well as (iii) integrated course design.
--	Served as a mentor in ASCE’s mentor match program, where I volunteered to mentor undergraduate student engineers, in addition to my regular interactions with students on campus about their academic and personal growth and assisting them in guiding their educational journey and future careers.
-
+- Served as a Teaching Assistant in an Engineering Statics course for 150 students, holding student office hours, performing assignment/exam gradings, and assisting in teaching in some classes.
+- Assisted in teaching and grading several graduate-level courses, such as Finite Element Structural Analysis, Matrix Methods for Structural Analysis, and Dynamics of Structures.
+- Attended the Preparing Tomorrow’s Faculty Program, designed to equip me with valuable training in (i) teaching pedagogies, (ii) student learning and motivation, and (iii) integrated course design.
+- Served as a mentor in ASCE’s mentor match program, where I volunteered to mentor undergraduate student engineers, in addition to my regular interactions with students on campus about their academic and future careers.
 
 **Graduate Assistant, UCF, Orlando, FL,	Jan 2018 – Dec 2018**
 -	Assisted students with application and admission procedures for UCF Global and other UCF programs.
 -	Facilitated campus tours of UCF to new and prospective students.
 -	Fielded approximately 30 calls and 100 e-mails daily regarding UCF's English Language Institute and UCF programs.
-
 
 # Invited Presentations
 - Investigating Emerging Technologies in Civil Structural Health Monitoring: Generative Artificial Intelligence and Virtual Reality. Presented at Florida Polytechnic University, Lakeland, FL, June 2024
@@ -142,10 +148,10 @@ Teach-In Activity, Carillon Elementary School
 
 
 # ASCE Community Experience
-**Mentorship, ASCE Mentor Match Program,	Nov 2021 – Present**
-- Serving as a volunteer mentor for engineering students
+**Mentorship, ASCE Mentor Match Program,	Nov 2021 – May 2024**
+- Served as a volunteer mentor for civil engineering students.
 
-**Chair, ASCE SEI Graduate Student Chapter at UCF, Orlando, FL	May 2019 – Present**
+**Chair, ASCE SEI Graduate Student Chapter at UCF, Orlando, FL	May 2019 – May 2024**
 - Organizing the American Society of Civil Engineers (ASCE) Structural Engineering Institute (SEI) at UCF Grad Chapter booths at in-person events on the UCF campus.
 -	Coordinating in-person/online chapter events, such as luncheons, seminars, and meetings/discussions, inviting professionals from the industry.
 -	Promoting ASCE SEI organization, membership, and its activities on campus.

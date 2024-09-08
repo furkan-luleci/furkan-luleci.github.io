@@ -10,7 +10,7 @@ redirect_from:
 
 ## Briefly about me
 
-👨🏻‍💻**I'm a Postdoctoral Researcher and Adjunct Faculty at the [University of Central Florida (UCF) Department of Civil, Environmental, and Construction Engineering (CECE)](https://www.cece.ucf.edu/).
+👨🏻‍💻I'm a Postdoctoral Researcher and Adjunct Faculty at the [University of Central Florida (UCF) Department of Civil, Environmental, and Construction Engineering (CECE)](https://www.cece.ucf.edu/).
 
 **During my PhD** in Civil (Structural) Engineering and was a research assistant at [Civil Infrastructure Technologies for Resiliency and Safety (CITRS)](https://www.cece.ucf.edu/citrs/) labs and a teaching assistant at the UCF CECE. My PhD advisor was Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/), who is Lockheed Martin St. Laurent Professor and the director of CITRS.
 

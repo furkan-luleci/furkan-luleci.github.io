@@ -91,7 +91,7 @@ redirect_from:
 - **UCF Stadium Monitoring** – Monitoring the portion of the UCF stadium with Structural Health Monitoring (SHM) systems as well as camera setups
 - **Sercel Project** – Experimentation and validation of ultrasensitive wireless accelerometers (S-Lynks) on engineering structures (pedestrian and prestressed highway bridges, and buildings)
 - **MAPS Project** - Mobile Assessment for Civil Infrastructure Preservation using Structural Health Monitoring (SHM) and Building Information Modeling (BIM)
-- **NASA Project** - A Framework for Structural Assessment Using Structural Health Monitoring (SHM) And Non-Destructive Evaluation (NDE) Along with Advanced Modeling
+- **NASA Project** - A Reliability-based Framework for Structural Assessment Using Structural Health Monitoring (SHM) And Non-Destructive Evaluation (NDE) Along with Advanced Modeling
 - **Big Beam Prestressed Contest 2018 by PCI** - Designed a 20 feet prestressed beam following the guidelines of PCI and ACI
 
 

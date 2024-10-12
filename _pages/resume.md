@@ -23,7 +23,7 @@ redirect_from:
 # Research and Teaching Experience
 
 **Postdoctoral Researcher, UCF, Orlando, FL,	Aug 2024 – Present**
-- Collaborating on diverse research projects with U.S. and international institutions, focusing on the development of Digital Twins for the built environment, advancing Bridge Information Modeling techniques, and leveraging Generative Artificial Intelligence (AI) for optimizing the use of infrastructure response data.
+- Collaborating on various research projects with U.S. and international institutions: focusing on the development of Digital Twins for the built environment; advancing Bridge Information Modeling techniques; and leveraging Generative Artificial Intelligence (AI) for optimum use of infrastructure dynamic response data.
 - Developing multidisciplinary scientific projects in collaboration with multiple institutions for NSF, DoD, and DoTs funding, as well as internal university grants, focusing on smart cities, infrastructure resilience, and technology-driven infrastructure management.
 - Mentoring and supervising undergraduate and graduate students in research projects.
 
@@ -51,20 +51,38 @@ redirect_from:
 -	Facilitated campus tours of UCF to new and prospective students.
 -	Fielded approximately 30 calls and 100 e-mails daily regarding UCF's English Language Institute and UCF programs.
 
-# Invited Presentations
-- Investigating Emerging Technologies in Civil Structural Health Monitoring: Generative Artificial Intelligence and Virtual Reality. Presented at Florida Polytechnic University, Lakeland, FL, June 2024
 
-- Generative Artificial Intelligence for Population-Based Assessment and Monitoring. Presented at the Industry-Government-University Workshop on Civil Infrastructure Technologies and Applications, CITRS, UCF, Orlando, FL, January 2024. 
+# List of Courses Taught
+**Engineering Economics** - Instructor of Record in Summer 2025.
+
+**Wind and Earthquake Engineering** - Instructor of Record in Spring 2025.
+
+**Engineering Economics** - Instructor of Record in Fall 2024.
+
+**Engineering Statics** - Teaching Assistant in Fall 2022.
+
+**Matrix Methods for Structural Analysis** - Teaching Contributor in Fall 2022.
+
+**Dynamic Analysis of Structures** - Teaching Contributor in Fall 2022.
+
+**Finite Element Analysis** - Teaching Contributor in Spring 2021.
 
 
 # Scientific Grants
+**NSF ART / Seed Translational Research Project (2024)** - VirtOps: Virtual Operations and Maintenance for Resilient Civil Infrastructure Systems.
+
 **DARPA (2023)** - Structural Evaluation through Non-contact Sensor Embedding (SENSE)
 
 **UCF-ASU Collaborative Internal Funding (2023)** - Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures
 
-**UCF Internal Funding (2021)** - Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal *(Granted $49,228.00)*
+**UCF Internal Funding (2021)** - Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal *(Granted)*
 
 **National Offshore Wind Research and Development Consortium** - Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure
+
+# Invited Presentations
+- Investigating Emerging Technologies in Civil Structural Health Monitoring: Generative Artificial Intelligence and Virtual Reality. Presented at Florida Polytechnic University, Lakeland, FL, June 2024
+
+- Generative Artificial Intelligence for Population-Based Assessment and Monitoring. Presented at the Industry-Government-University Workshop on Civil Infrastructure Technologies and Applications, CITRS, UCF, Orlando, FL, January 2024.
 
 
 # Honors and Awards
@@ -147,7 +165,7 @@ Teach-In Activity, Carillon Elementary School
 - Industrial Ecology
 
 
-# ASCE Community Experience
+# ASCE Community Service
 **Mentorship, ASCE Mentor Match Program,	Nov 2021 – May 2024**
 - Served as a volunteer mentor for civil engineering students.
 

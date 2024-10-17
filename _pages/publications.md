@@ -51,7 +51,7 @@ Catbas FN, **Luleci F**, Debees M, et al. (2024) Reliability-Based Bridge Inspec
 
 **Luleci F**, AlGadi A, Catbas FN (2024) [Multimodal Data Collection Using Mobile Robotics for Rapid Structural Assessment](https://doi.org/10.1201/9781003483755-86). In: Bridge Maintenance, Safety, Management, Digitalization and Sustainability. CRC Press, London, pp 742-749. Presented at IABMAS in Copenhagen, Denmark, July 2024.
 
-**Luleci F**, AlGadi A, Perrault M, et al (2024) Operational Modal Analysis of a Pedestrian Bridge Using Ultra-Sensitive Wireless Accelerometers Under Different Structural Scenarios. Presented at IMAC 2024, Orlando, FL.
+**Luleci F**, AlGadi A, Perrault M, et al (2024) [Operational Modal Analysis of a Pedestrian Bridge Using Ultra-Sensitive Wireless Accelerometers Under Different Structural Scenarios](https://www.researchgate.net/publication/385005645_Operational_Modal_Analysis_of_a_Pedestrian_Bridge_Using_Ultra-Sensitive_Wireless_Accelerometers_Under_Different_Structural_Scenarios). Presented at IMAC 2024, Orlando, FL.
 
 **Luleci F**, AlGadi A, Debees M, et al. (2022) [Investigation of Comparative Analysis of a Multi-Span Prestressed Concrete Highway Bridge](http://dx.doi.org/10.1201/9781003322641-174). In: Bridge Safety, Maintenance, Management, Life-Cycle, Resilience and Sustainability. CRC Press, London, pp 1433–1437. Presented at IABMAS in Barcelona, Spain, July 2022.
 

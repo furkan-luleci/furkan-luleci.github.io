@@ -24,7 +24,7 @@ redirect_from:
 
 **Postdoctoral Researcher, UCF, Orlando, FL,	Aug 2024 – Present**
 - Collaborating on various research projects with U.S. and international institutions: focusing on the development of Digital Twins for the built environment; advancing Bridge Information Modeling techniques; and leveraging Generative Artificial Intelligence (AI) for optimum use of infrastructure dynamic response data.
-- Developing multidisciplinary scientific projects in collaboration with multiple institutions for NSF, DoD, and DoTs funding, as well as internal university grants, focusing on smart cities, infrastructure resilience, and technology-driven infrastructure management.
+- Developing multidisciplinary scientific projects in collaboration with multiple institutions for NSF, DoD, DoTs, and other government agencies funding like OESI, as well as internal university grants, focusing on smart cities, infrastructure reliability & resilience, and technology-enabled infrastructure management.
 - Mentoring and supervising undergraduate and graduate students in research projects.
 
 **Adjunct Faculty, UCF, Orlando, FL,	Aug 2024 – Present**
@@ -70,6 +70,8 @@ redirect_from:
 
 # Scientific Grants
 **NSF ART / Seed Translational Research Project (2024)** - VirtOps: Virtual Operations and Maintenance for Resilient Civil Infrastructure Systems.
+
+**Ocean Energy Safety Institute (OESI) (2024)** - A Novel Digital Twin Methodology for Real-Time Structural Performance Assessment of Offshore Wind Structures. Primary Contributor.
 
 **DARPA (2023)** - Structural Evaluation through Non-contact Sensor Embedding (SENSE)
 

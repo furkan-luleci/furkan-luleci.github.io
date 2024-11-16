@@ -7,6 +7,7 @@ author_profile: true
 
 # Some visuals from our research, CITRS lab, and other activities
 
+![image](https://github.com/user-attachments/assets/6b6528d7-9b26-4a0d-9cae-655d8ca515be)
 
 - Using unmanned ground robotics for interior/exterior condition assessment
 ![Picture2](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/f1ac0287-2acb-4551-8e6b-02eafbd3f991)

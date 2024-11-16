@@ -1,3 +1,4 @@
+---
 layout: archive
 title: ""
 permalink: /research_lab_visuals/

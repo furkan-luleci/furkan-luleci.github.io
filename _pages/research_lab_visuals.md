@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/d15d2ef8-57f4-4daa-845f-5d57b25ea856)---
 layout: archive
 title: ""
 permalink: /research_lab_visuals/

@@ -9,6 +9,8 @@ author_profile: true
 
 ## Journal Publications
 
+Luleci F, Sevim A, Ozguven EE, Catbas FN (2024) Community Twin for Disaster Resilient Communities. Smart Cities, MDPI.
+
 **Luleci F**, Catbas FN (2024) [Bringing Site to the Office: Decision-Making in Infrastructure Management through Virtual Reality](https://doi.org/10.1016/j.autcon.2024.105675). Automation in Construction, 166, (105675), Elsevier.
 
 **Luleci F**, Chi J, Cruz-Neira C, Reiners D, Catbas FN (2024) [Fusing Infrastructure Health Monitoring Data in Point Cloud](https://doi.org/10.1016/j.autcon.2024.105546). Automation in Construction, 165, (105546), Elsevier.

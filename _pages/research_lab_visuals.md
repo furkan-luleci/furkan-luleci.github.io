@@ -7,6 +7,7 @@ author_profile: true
 
 # Some visuals from our research, CITRS lab, and other activities
 
+**- Digital Twin study in Florida's underserved areas**
 ![Picture1](https://github.com/user-attachments/assets/21772930-64bd-43ab-87bb-2f914ad771e9)
 
 ![image](https://github.com/user-attachments/assets/6b6528d7-9b26-4a0d-9cae-655d8ca515be)

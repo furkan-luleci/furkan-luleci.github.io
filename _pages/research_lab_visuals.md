@@ -12,6 +12,9 @@ author_profile: true
 
 ![image](https://github.com/user-attachments/assets/6b6528d7-9b26-4a0d-9cae-655d8ca515be)
 
+**Teach-in session to 5th graders: Fundamentals of engineering**
+![IMG-20241112-WA0022](https://github.com/user-attachments/assets/e85530ff-9d45-41f4-9c7f-71452d200d37)
+
 **- Using unmanned ground robotics for interior/exterior condition assessment**
 ![Picture2](https://github.com/furkan-luleci/furkan-luleci.github.io/assets/63553991/f1ac0287-2acb-4551-8e6b-02eafbd3f991)
 

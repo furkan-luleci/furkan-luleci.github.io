@@ -47,7 +47,10 @@ Luleci F, (2024) [Investigating Emerging Technologies in Civil Structural Health
 
 ## Reports
 
-Catbas FN, **Luleci F**, Debees M, et al. (2024) Reliability-Based Bridge Inspection Framework Using Non-Destructive Evaluation (NDE) and Structural Health Monitoring (SHM) for Effective and Efficient Asset Maintenance. NASA Kennedy Space Center, Orlando, FL.
+AlGadi Abdulrrahman, *Luleci F*, Catbas FN. (2024) Final Project Report for S-Lynks by Sercel. Prepared for Sercel by CITRS, University of Central Florida.
+
+Catbas FN, *Luleci F*, Debees M, et al. (2024) Reliability-Based Bridge Inspection Framework Using Non-Destructive Evaluation (NDE) and Structural Health Monitoring (SHM) for Effective and Efficient Asset Maintenance. Prepared for NASA Kennedy Space Center, Orlando, FL by CITRS, University of Central Florida.
+
 
 ## Conference Papers, Chapters, and Presentations
 

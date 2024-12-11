@@ -69,19 +69,23 @@ redirect_from:
 
 
 # Scientific Grants
-**NSF ART / Seed Translational Research Project (2024)** - VirtOps: Virtual Operations and Maintenance for Resilient Civil Infrastructure Systems.
+**UCF Seed Funding Program: (2024-2025)** - TIRE-Lite: Pilot Study for Transportation Infrastructure Reliability Ecosystem (TIRE) - *Pending*. Co-PI.
 
-**Ocean Energy Safety Institute (OESI) (2024)** - A Novel Digital Twin Methodology for Real-Time Structural Performance Assessment of Offshore Wind Structures. Primary Contributor.
+**NSF ART / Seed Translational Research Project (2024)** - VirtOps: Virtual Operations and Maintenance for Resilient Civil Infrastructure Systems - *Pending*. Co-PI.
 
-**DARPA (2023)** - Structural Evaluation through Non-contact Sensor Embedding (SENSE)
+**Ocean Energy Safety Institute (OESI) (2024)** - A Novel Digital Twin Methodology for Real-Time Structural Performance Assessment of Offshore Wind Structures. Contributor.
 
-**UCF-ASU Collaborative Internal Funding (2023)** - Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures
+**DARPA (2023)** - Structural Evaluation through Non-contact Sensor Embedding (SENSE). Contributor.
 
-**UCF Internal Funding (2021)** - Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal *(Granted)*
+**UCF-ASU Collaborative Internal Funding (2023)** - Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures. Contributor.
 
-**National Offshore Wind Research and Development Consortium** - Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure
+**UCF Internal Funding (2021)** - Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal *(Granted)*. Contributor.
+
+**National Offshore Wind Research and Development Consortium** - Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure. Contributor.
 
 # Invited Presentations
+- Digital Twins and Virtual Reality in Infrastructure Management for Decision-Making and Resilience. Presented at the International Workshop on Civil Infrastructure System Technologies and Applications, CITRS, UCF, Orlando, FL, December 2024.
+
 - Investigating Emerging Technologies in Civil Structural Health Monitoring: Generative Artificial Intelligence and Virtual Reality. Presented at Florida Polytechnic University, Lakeland, FL, June 2024
 
 - Generative Artificial Intelligence for Population-Based Assessment and Monitoring. Presented at the Industry-Government-University Workshop on Civil Infrastructure Technologies and Applications, CITRS, UCF, Orlando, FL, January 2024.

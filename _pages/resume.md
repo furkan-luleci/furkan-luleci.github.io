@@ -92,6 +92,8 @@ redirect_from:
 
 
 # Honors and Awards
+**Best Research Award by ASCE Bridge Engineering Journal 2024**: "Investigating the Increase in Load Rating and Reliability of a Prestressed Concrete Bridge When Utilizing Field-Derived Distribution and Impact Factors" selected as the best paper in 2024 by ASCE Bridge Engineering Journal
+
 **UCF Graduate Travel/Presentation Fellowship 2023**
 
 **Geotechnical and Environmental Scholarship Award	Jun 2022**: One of three recipients of $2,000 from the UCF College of Engineering

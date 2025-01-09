@@ -55,19 +55,16 @@ redirect_from:
 
 
 # List of Courses Taught
-**Engineering Economics** - Instructor of Record in Summer 2025.
+**Engineering Economics** - *Instructor of Record* in Fall & Spring 2024-2025
 
-**Wind and Earthquake Engineering** - Instructor of Record in Spring 2025.
+**Engineering Statics** – *Teaching Assistant* in Fall 2022
 
-**Engineering Economics** - Instructor of Record in Fall 2024.
+**Matrix Methods for Structural Analysis** – *Teaching Contributor* in Fall 2022
 
-**Engineering Statics** - Teaching Assistant in Fall 2022.
+**Dynamic Analysis of Structures** – *Teaching Contributor* in Fall 2022
 
-**Matrix Methods for Structural Analysis** - Teaching Contributor in Fall 2022.
+**Finite Element Analysis** – *Teaching Contributor* in Spring 2021
 
-**Dynamic Analysis of Structures** - Teaching Contributor in Fall 2022.
-
-**Finite Element Analysis** - Teaching Contributor in Spring 2021.
 
 
 # Scientific Grants

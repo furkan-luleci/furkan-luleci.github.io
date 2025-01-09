@@ -23,13 +23,15 @@ redirect_from:
 # Research and Teaching Experience
 
 **Postdoctoral Researcher, UCF, Orlando, FL,	Aug 2024 – Present**
-- Collaborating on various research projects with U.S. and international institutions: focusing on the development of Digital Twins for the built environment; advancing Bridge Information Modeling techniques; and leveraging Generative Artificial Intelligence (AI) for optimum use of infrastructure dynamic response data.
-- Developing multidisciplinary scientific projects in collaboration with multiple institutions for NSF, DoD, DoTs, and other government agencies funding like OESI, as well as internal university grants, focusing on smart cities, infrastructure reliability & resilience, and technology-enabled infrastructure management.
-- Mentoring and supervising undergraduate and graduate students in research projects.
+- Collaborating on various research projects with U.S. and international institutions: leveraging Generative Artificial Intelligence (AI) for optimum use of infrastructure dynamic response data; focusing on the development of Digital Twins for the built environment; advancing Bridge Information Modeling techniques; and conducting Robot-based drive-by/indirect SHM field experiments.
+- Developing multidisciplinary scientific proposals in collaboration with multiple institutions for NSF, DoD, DoTs, and other government agencies funding like OESI, as well as internal university grants, focusing on smart cities, infrastructure reliability & resilience, and technology-enabled infrastructure management.
+- Mentoring and supervising graduate students in research projects.
+
 
 **Adjunct Faculty, UCF, Orlando, FL,	Aug 2024 – Present**
-- Teaching the Engineering Economics course with 56 undergraduate students for Fall 2024. Responsible for course development, syllabus design, lecture preparation, creating assessments and exams, delivering lectures, and providing academic support.
-- Scheduled to teach graduate-level Wind and Earthquake Engineering course for Spring 2025.
+- Teaching the Engineering Economics course with more than 60 undergraduate students. Responsible for course development, syllabus design, lecture preparation, creating assessments and exams, delivering lectures, and providing academic support.
+- Mentoring undergraduate students in their professional careers and academic life.
+
 
 **Graduate Research/Teaching Assistant, UCF, Orlando, FL,	Aug 2020 – May 2024**
 
@@ -43,7 +45,7 @@ redirect_from:
 *TEACHING*
 - Served as a Teaching Assistant in an Engineering Statics course for 150 students, holding student office hours, performing assignment/exam gradings, and assisting in teaching in some classes.
 - Assisted in teaching and grading several graduate-level courses, such as Finite Element Structural Analysis, Matrix Methods for Structural Analysis, and Dynamics of Structures.
-- Attended the Preparing Tomorrow’s Faculty Program, designed to equip me with valuable training in (i) teaching pedagogies, (ii) student learning and motivation, and (iii) integrated course design.
+- Received formal training in (i) teaching pedagogies, (ii) student learning and motivation, and (iii) integrated course design through Preparing Tomorrow’s Faculty Program.
 - Served as a mentor in ASCE’s mentor match program, where I volunteered to mentor undergraduate student engineers, in addition to my regular interactions with students on campus about their academic and future careers.
 
 **Graduate Assistant, UCF, Orlando, FL,	Jan 2018 – Dec 2018**
@@ -69,19 +71,21 @@ redirect_from:
 
 
 # Scientific Grants
-**UCF Seed Funding Program: (2024-2025)** - TIRE-Lite: Pilot Study for Transportation Infrastructure Reliability Ecosystem (TIRE) - *Pending*. Co-PI.
 
-**NSF ART / Seed Translational Research Project (2024)** - VirtOps: Virtual Operations and Maintenance for Resilient Civil Infrastructure Systems - *Pending*. Co-PI.
+**UCF Seed Funding Program (2024)** | TIRE-Lite: Pilot Study for Transportation Infrastructure Reliability Ecosystem (TIRE). Co-PI.
 
-**Ocean Energy Safety Institute (OESI) (2024)** - A Novel Digital Twin Methodology for Real-Time Structural Performance Assessment of Offshore Wind Structures. Contributor.
+**NSF ART / Seed Translational Research Project (2024)** | VirtOps: Virtual Operations and Maintenance for Resilient Civil Infrastructure Systems. Co-PI.
 
-**DARPA (2023)** - Structural Evaluation through Non-contact Sensor Embedding (SENSE). Contributor.
+**Ocean Energy Safety Institute (OESI) (2024)** | A Novel Digital Twin Methodology for Real-Time Structural Performance Assessment of Offshore Wind Structures. Primary Contributor.
 
-**UCF-ASU Collaborative Internal Funding (2023)** - Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures. Contributor.
+**DARPA (2023)** | Structural Evaluation through Non-contact Sensor Embedding (SENSE). Primary Contributor.
 
-**UCF Internal Funding (2021)** - Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal *(Granted)*. Contributor.
+**UCF-ASU Collaborative Internal Funding (2023)** | Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures ($50,000). Primary Contributor.
 
-**National Offshore Wind Research and Development Consortium** - Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure. Contributor.
+**UCF Internal Funding (2021)** | Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal (Granted $49,228.00). Primary Contributor.
+
+**National Offshore Wind Research and Development Consortium (2021)** | Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure. Primary Contributor.
+
 
 # Invited Presentations
 - Digital Twins and Virtual Reality in Infrastructure Management for Decision-Making and Resilience. Presented at the International Workshop on Civil Infrastructure System Technologies and Applications, CITRS, UCF, Orlando, FL, December 2024.
@@ -92,25 +96,25 @@ redirect_from:
 
 
 # Honors and Awards
-**Best Research Award by ASCE Bridge Engineering Journal 2024**: "Investigating the Increase in Load Rating and Reliability of a Prestressed Concrete Bridge When Utilizing Field-Derived Distribution and Impact Factors"
+**Best Research Award by ASCE Bridge Engineering Journal 2024**: *Investigating the Increase in Load Rating and Reliability of a Prestressed Concrete Bridge When Utilizing Field-Derived Distribution and Impact Factors*
 
 **UCF Graduate Travel/Presentation Fellowship 2023**
 
-**Geotechnical and Environmental Scholarship Award	Jun 2022**: One of three recipients of $2,000 from the UCF College of Engineering
+**Geotechnical and Environmental Scholarship Award	Jun 2022**: *One of three recipients of $2,000 from the UCF College of Engineering*
 
-**Graduate Student Chapter of the Year Award	Feb 2022**: ASCE SEI Graduate Student Chapter at UCF was selected to receive this award under my presidency
+**Graduate Student Chapter of the Year Award	Feb 2022**: *ASCE SEI Graduate Student Chapter at UCF was selected to receive this award under my presidency*
 
 **Graduate Travel/Presentation Fellowship (UCF) 2021**
 
-**ASCE SEI East Central Branch Scholarship Award	Oct 2021**: Recipient of $1,000 in East Central Florida
+**ASCE SEI East Central Branch Scholarship Award	Oct 2021**: *Recipient of $1,000 in East Central Florida*
 
-**UCF International Scholarship Award	Aug 2020**: Recipient of $2,500 in UCF
+**UCF International Scholarship Award	Aug 2020**: *Recipient of $2,500 in UCF*
 
-**UCF ORCGS Doctoral Fellowship Award	Feb 2020**: Tuition, fees, insurance coverage for the doctoral program, and a $25,000 stipend for a year
+**UCF ORCGS Doctoral Fellowship Award	Feb 2020**: *Tuition, fees, insurance coverage for the doctoral program, and a $25,000 stipend for a year*
   
-**UCF Graduate Assistant Fellowship Award	Jan 2018**: Tuition, fees, and insurance coverage for the master’s program
+**UCF Graduate Assistant Fellowship Award	Jan 2018**: *Tuition, fees, and insurance coverage for the master’s program*
 
-**ESOGU Honors Designation	Jun 2017**: Graduated in the top 2% of the civil engineering department (ranked 8th)
+**ESOGU Honors Designation	Jun 2017**: *Graduated in the top 2% of the civil engineering department (ranked 8th)*
 
 
 # Projects & Contests Involved in Academia
@@ -255,7 +259,3 @@ Teach-In Activity, Carillon Elementary School
 -	Completed essential tasks, such as inspecting the reinforcement in columns, beams and slabs.
 -	Assisted and managed concrete casting of floors as well as columns and beams.
 -	Experienced in the inspection of concrete samples and reading AutoCAD plans.
-
-
-
-

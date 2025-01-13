@@ -69,19 +69,19 @@ redirect_from:
 
 # Scientific Grants
 
-**UCF Seed Funding Program (2024)** | TIRE-Lite: Pilot Study for Transportation Infrastructure Reliability Ecosystem (TIRE). Co-PI.
+**UCF Seed Funding Program (2024)**, TIRE-Lite: Pilot Study for Transportation Infrastructure Reliability Ecosystem (TIRE). Co-PI.
 
-**NSF ART / Seed Translational Research Project (2024)** | VirtOps: Virtual Operations and Maintenance for Resilient Civil Infrastructure Systems. Co-PI.
+**NSF ART / Seed Translational Research Project (2024)**, VirtOps: Virtual Operations and Maintenance for Resilient Civil Infrastructure Systems. Co-PI.
 
-**Ocean Energy Safety Institute (OESI) (2024)** | A Novel Digital Twin Methodology for Real-Time Structural Performance Assessment of Offshore Wind Structures. Primary Contributor.
+**Ocean Energy Safety Institute (OESI) (2024)**, A Novel Digital Twin Methodology for Real-Time Structural Performance Assessment of Offshore Wind Structures. Primary Contributor.
 
-**DARPA (2023)** | Structural Evaluation through Non-contact Sensor Embedding (SENSE). Primary Contributor.
+**DARPA (2023)**, Structural Evaluation through Non-contact Sensor Embedding (SENSE). Primary Contributor.
 
-**UCF-ASU Collaborative Internal Funding (2023)** | Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures ($50,000). Primary Contributor.
+**UCF-ASU Collaborative Internal Funding (2023)**, Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures ($50,000). Primary Contributor.
 
-**UCF Internal Funding (2021)** | Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal (Granted $49,228.00). Primary Contributor.
+**UCF Internal Funding (2021)**, Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal (Granted $49,228.00). Primary Contributor.
 
-**National Offshore Wind Research and Development Consortium (2021)** | Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure. Primary Contributor.
+**National Offshore Wind Research and Development Consortium (2021)**, Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure. Primary Contributor.
 
 
 # Invited Presentations

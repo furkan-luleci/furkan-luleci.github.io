@@ -22,7 +22,7 @@ redirect_from:
 
 # Research and Teaching Experience
 
-**Postdoctoral Researcher, UCF, Orlando, FL,	Aug 2024 – Present**
+**Preemininent Postdoctoral Fellow, UCF, Orlando, FL,	Aug 2024 – Present**
 - Collaborating on various research projects with U.S. and international institutions: leveraging Generative Artificial Intelligence (AI) for optimum use of infrastructure dynamic response data; focusing on the development of Digital Twins for the built environment; advancing Bridge Information Modeling techniques; and conducting Robot-based drive-by/indirect SHM field experiments.
 - Developing multidisciplinary scientific proposals in collaboration with multiple institutions for NSF, DoD, DoTs, and other government agencies funding like OESI, as well as internal university grants, focusing on smart cities, infrastructure reliability & resilience, and technology-enabled infrastructure management.
 - Mentoring and supervising graduate students in research projects.

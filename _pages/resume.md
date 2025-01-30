@@ -93,11 +93,12 @@ redirect_from:
 
 
 # Honors and Awards
+
+**Outstanding PhD Dissertation Award 2024**: *Selected as the #1 dissertation at the College of Engineering and Computer Science at UCF*
+
 **Best Research Award by ASCE Bridge Engineering Journal 2024**: *Investigating the Increase in Load Rating and Reliability of a Prestressed Concrete Bridge When Utilizing Field-Derived Distribution and Impact Factors*
 
 **UCF Graduate Travel/Presentation Fellowship 2023**
-
-**Outstanding PhD Dissertation Award (Jan 2024)**: *Selected as the #1 dissertation at the College of Engineering and Computer Science at UCF*
 
 **Geotechnical and Environmental Scholarship Award	Jun 2022**: *One of three recipients of $2,000 from the UCF College of Engineering*
 

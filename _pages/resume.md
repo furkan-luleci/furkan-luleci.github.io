@@ -97,6 +97,8 @@ redirect_from:
 
 **UCF Graduate Travel/Presentation Fellowship 2023**
 
+**Outstanding PhD Dissertation Award (Jan 2024)**: *Selected as the #1 dissertation at the College of Engineering and Computer Science at UCF*
+
 **Geotechnical and Environmental Scholarship Award	Jun 2022**: *One of three recipients of $2,000 from the UCF College of Engineering*
 
 **Graduate Student Chapter of the Year Award	Feb 2022**: *ASCE SEI Graduate Student Chapter at UCF was selected to receive this award under my presidency*

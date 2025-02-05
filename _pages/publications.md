@@ -9,6 +9,8 @@ author_profile: true
 
 ## Journal Publications
 
+Santos C, **Luleci F**, Amado J, Matos J, Catbas FN (2024) Automating Inspection Data from Bridge Management System into Bridge Information Model. Automation in Construction, Elsevier.
+
 **Luleci F**, Sevim A, Ozguven EE, Catbas FN (2024) [Community Twin for Disaster Resilient Communities](https://www.mdpi.com/2624-6511/7/6/137). Smart Cities, 7, (6), MDPI.
 
 **Luleci F**, Catbas FN (2024) [Bringing Site to the Office: Decision-Making in Infrastructure Management through Virtual Reality](https://doi.org/10.1016/j.autcon.2024.105675). Automation in Construction, 166, (105675), Elsevier.

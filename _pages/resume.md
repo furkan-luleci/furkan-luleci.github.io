@@ -69,6 +69,8 @@ redirect_from:
 
 # Scientific Grants
 
+**Navy SBIR 25.1** - Topic N251-033 Immersive Virtual Operations Environment (IVOE) for Improved Lifecycle Management of Navy Ships – Phase I. PI.
+
 **UCF Seed Funding Program (2024)**, TIRE-Lite: Pilot Study for Transportation Infrastructure Reliability Ecosystem (TIRE). Co-PI.
 
 **NSF ART / Seed Translational Research Project (2024)**, VirtOps: Virtual Operations and Maintenance for Resilient Civil Infrastructure Systems. Co-PI.

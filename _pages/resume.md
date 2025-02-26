@@ -75,7 +75,7 @@ redirect_from:
 
 **NSF ART / Seed Translational Research Project (2024)**, VirtOps: Virtual Operations and Maintenance for Resilient Civil Infrastructure Systems. Co-PI.
 
-**Ocean Energy Safety Institute (OESI) (2024)**, A Novel Digital Twin Methodology for Real-Time Structural Performance Assessment of Offshore Wind Structures. Primary Contributor.
+**Ocean Energy Safety Institute (OESI) (2024)**, A Novel Digital Twin Methodology for Real-Time Structural Performance Assessment of Offshore Wind Structures. Key Person.
 
 **DARPA (2023)**, Structural Evaluation through Non-contact Sensor Embedding (SENSE). Primary Contributor.
 

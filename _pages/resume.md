@@ -69,21 +69,23 @@ redirect_from:
 
 # Scientific Grants
 
-**Navy SBIR 25.1** - Topic N251-033 Immersive Virtual Operations Environment (IVOE) for Improved Lifecycle Management of Navy Ships – Phase I. PI.
+**DOE STTR (2025) – Topic C60-14** | Virtual Operations and Maintenance for Next Generation Wind Plants. Key Person.
 
-**UCF Seed Funding Program (2024)**, TIRE-Lite: Pilot Study for Transportation Infrastructure Reliability Ecosystem (TIRE). Co-PI.
+**Navy SBIR (2025) – Topic N251-033** | Immersive Virtual Operations (IVO) Environment for Improved Lifecycle Management of Navy Ships – Phase I. PI.
 
-**NSF ART / Seed Translational Research Project (2024)**, VirtOps: Virtual Operations and Maintenance for Resilient Civil Infrastructure Systems. Co-PI.
+**UCF Seed Funding Program (2024)** | TIRE-Lite: Pilot Study for Transportation Infrastructure Reliability Ecosystem (TIRE). Co-PI.
 
-**Ocean Energy Safety Institute (OESI) (2024)**, A Novel Digital Twin Methodology for Real-Time Structural Performance Assessment of Offshore Wind Structures. Key Person.
+**NSF ART / Seed Translational Research Project (2024)** | VirtOps: Virtual Operations and Maintenance for Resilient Civil Infrastructure Systems. Co-PI.
 
-**DARPA (2023)**, Structural Evaluation through Non-contact Sensor Embedding (SENSE). Primary Contributor.
+**Ocean Energy Safety Institute (OESI) (2024)** | A Novel Digital Twin Methodology for Real-Time Structural Performance Assessment of Offshore Wind Structures. Key Person.
 
-**UCF-ASU Collaborative Internal Funding (2023)**, Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures ($50,000). Primary Contributor.
+**DARPA (2023)** | Structural Evaluation through Non-contact Sensor Embedding (SENSE). Contributor
 
-**UCF Internal Funding (2021)**, Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal (Granted $49,228.00). Primary Contributor.
+**UCF-ASU Collaborative Internal Funding (2023)** | Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures ($50,000). Contributor.
 
-**National Offshore Wind Research and Development Consortium (2021)**, Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure. Primary Contributor.
+**UCF Internal Funding (2021)** | Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal. Contributor.
+
+**National Offshore Wind Research and Development Consortium (2021)** | Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure. Contributor.
 
 
 # Invited Presentations

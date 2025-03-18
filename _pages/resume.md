@@ -121,7 +121,7 @@ redirect_from:
 **ESOGU Honors Designation	Jun 2017**: *Graduated in the top 2% of the civil engineering department (ranked 8th)*
 
 
-TECHNICAL COMMITTEES
+# Technical Committees
 
 **ASCE Advances in Information Technology**, Member	                 Mar 2025 – Present
 

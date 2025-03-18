@@ -121,6 +121,13 @@ redirect_from:
 **ESOGU Honors Designation	Jun 2017**: *Graduated in the top 2% of the civil engineering department (ranked 8th)*
 
 
+TECHNICAL COMMITTEES
+
+**ASCE Advances in Information Technology**, Member	                 Mar 2025 – Present
+
+**ASCE Methods of Monitoring Structural Performance**, Member	       Mar 2025 – Present
+
+
 # Projects & Contests Involved in Academia
 - **UCF Stadium Monitoring** – Monitoring the portion of the UCF stadium with Structural Health Monitoring (SHM) systems as well as camera setups
 - **Sercel Project** – Experimentation and validation of ultrasensitive wireless accelerometers (S-Lynks) on engineering structures (pedestrian and prestressed highway bridges, and buildings)

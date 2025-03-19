@@ -55,37 +55,37 @@ redirect_from:
 
 
 # List of Courses Taught
-**Engineering Economics** - *Instructor of Record* in Fall & Spring 2024-2025
+- Engineering Economics - *Instructor of Record* in Fall & Spring 2024-2025
 
-**Engineering Statics** – *Teaching Assistant* in Fall 2022
+- Engineering Statics – *Teaching Assistant* in Fall 2022
 
-**Matrix Methods for Structural Analysis** – *Teaching Contributor* in Fall 2022
+- Matrix Methods for Structural Analysis** – *Teaching Contributor* in Fall 2022
 
-**Dynamic Analysis of Structures** – *Teaching Contributor* in Fall 2022
+- Dynamic Analysis of Structures – *Teaching Contributor* in Fall 2022
 
-**Finite Element Analysis** – *Teaching Contributor* in Spring 2021
+- Finite Element Analysis – *Teaching Contributor* in Spring 2021
 
 
 
 # Scientific Grants
 
-**DOE STTR (2025) – Topic C60-14**, Virtual Operations and Maintenance for Next Generation Wind Plants. Key Person.
+- DOE STTR (2025) – Topic C60-14, Virtual Operations and Maintenance for Next Generation Wind Plants. Key Person.
 
-**Navy SBIR (2025) – Topic N251-033**, Immersive Virtual Operations (IVO) Environment for Improved Lifecycle Management of Navy Ships – Phase I. PI.
+- Navy SBIR (2025) – Topic N251-033, Immersive Virtual Operations (IVO) Environment for Improved Lifecycle Management of Navy Ships – Phase I. PI.
 
-**UCF Seed Funding Program (2024)**, TIRE-Lite: Pilot Study for Transportation Infrastructure Reliability Ecosystem (TIRE). Co-PI.
+- UCF Seed Funding Program (2024), TIRE-Lite: Pilot Study for Transportation Infrastructure Reliability Ecosystem (TIRE). Co-PI.
 
-**NSF ART / Seed Translational Research Project (2024)**, VirtOps: Virtual Operations and Maintenance for Resilient Civil Infrastructure Systems. Co-PI.
+- NSF ART / Seed Translational Research Project (2024), VirtOps: Virtual Operations and Maintenance for Resilient Civil Infrastructure Systems. Co-PI.
 
-**Ocean Energy Safety Institute (OESI) (2024)**, A Novel Digital Twin Methodology for Real-Time Structural Performance Assessment of Offshore Wind Structures. Key Person.
+- Ocean Energy Safety Institute (OESI) (2024), A Novel Digital Twin Methodology for Real-Time Structural Performance Assessment of Offshore Wind Structures. Key Person.
 
-**DARPA (2023)**, Structural Evaluation through Non-contact Sensor Embedding (SENSE). Contributor
+- DARPA (2023), Structural Evaluation through Non-contact Sensor Embedding (SENSE). Contributor
 
-**UCF-ASU Collaborative Internal Funding (2023)**, Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures ($50,000). Contributor.
+- UCF-ASU Collaborative Internal Funding (2023), Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures ($50,000). Contributor.
 
-**UCF Internal Funding (2021)**, Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal. Contributor.
+- UCF Internal Funding (2021), Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal. Contributor.
 
-**National Offshore Wind Research and Development Consortium (2021)**, Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure. Contributor.
+- National Offshore Wind Research and Development Consortium (2021), Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure. Contributor.
 
 
 # Invited Presentations
@@ -98,42 +98,44 @@ redirect_from:
 
 # Honors and Awards
 
-**Outstanding PhD Dissertation Award 2024**: *Selected as the #1 dissertation in the Engineering, Physical, Mathematical, and Life Sciences category at UCF*
+- Outstanding PhD Dissertation Award 2024: *Selected as the #1 dissertation in the Engineering, Physical, Mathematical, and Life Sciences category at UCF*
 
-**Best Research Award by ASCE Bridge Engineering Journal 2024**: *Investigating the Increase in Load Rating and Reliability of a Prestressed Concrete Bridge When Utilizing Field-Derived Distribution and Impact Factors*
+- Best Research Award by ASCE Bridge Engineering Journal 2024: *Investigating the Increase in Load Rating and Reliability of a Prestressed Concrete Bridge When Utilizing Field-Derived Distribution and Impact Factors*
 
-**UCF Graduate Travel/Presentation Fellowship 2023**
+- UCF Graduate Travel/Presentation Fellowship 2023
 
-**Geotechnical and Environmental Scholarship Award	Jun 2022**: *One of three recipients of $2,000 from the UCF College of Engineering*
+- Geotechnical and Environmental Scholarship Award	Jun 2022: *One of three recipients of $2,000 from the UCF College of Engineering*
 
-**Graduate Student Chapter of the Year Award	Feb 2022**: *ASCE SEI Graduate Student Chapter at UCF was selected to receive this award under my presidency*
+- Graduate Student Chapter of the Year Award	Feb 2022: *ASCE SEI Graduate Student Chapter at UCF was selected to receive this award under my presidency*
 
-**Graduate Travel/Presentation Fellowship (UCF) 2021**
+- Graduate Travel/Presentation Fellowship (UCF) 2021
 
-**ASCE SEI East Central Branch Scholarship Award	Oct 2021**: *Recipient of $1,000 in East Central Florida*
+- ASCE SEI East Central Branch Scholarship Award	Oct 2021: *Recipient of $1,000 in East Central Florida*
 
-**UCF International Scholarship Award	Aug 2020**: *Recipient of $2,500 in UCF*
+- UCF International Scholarship Award	Aug 2020: *Recipient of $2,500 in UCF*
 
-**UCF ORCGS Doctoral Fellowship Award	Feb 2020**: *Tuition, fees, insurance coverage for the doctoral program, and a $25,000 stipend for a year*
+- UCF ORCGS Doctoral Fellowship Award	Feb 2020: *Tuition, fees, insurance coverage for the doctoral program, and a $25,000 stipend for a year*
   
-**UCF Graduate Assistant Fellowship Award	Jan 2018**: *Tuition, fees, and insurance coverage for the master’s program*
+- UCF Graduate Assistant Fellowship Award	Jan 2018: *Tuition, fees, and insurance coverage for the master’s program*
 
-**ESOGU Honors Designation	Jun 2017**: *Graduated in the top 2% of the civil engineering department (ranked 8th)*
+- ESOGU Honors Designation	Jun 2017: *Graduated in the top 2% of the civil engineering department (ranked 8th)*
 
 
 # Technical Committees
 
-**ASCE Advances in Information Technology**, Member	                 Mar 2025 – Present
+- ASCE SEI Structural Control and Sensing, Member	                     Mar 2025 – Present
 
-**ASCE Methods of Monitoring Structural Performance**, Member	       Mar 2025 – Present
+- ASCE SEI Advances in Information Technology, Member	                 Mar 2025 – Present
+
+- ASCE SEI Methods of Monitoring Structural Performance, Member	       Mar 2025 – Present
 
 
 # Projects & Contests Involved in Academia
-- **UCF Stadium Monitoring** – Monitoring the portion of the UCF stadium with Structural Health Monitoring (SHM) systems as well as camera setups
-- **Sercel Project** – Experimentation and validation of ultrasensitive wireless accelerometers (S-Lynks) on engineering structures (pedestrian and prestressed highway bridges, and buildings)
-- **MAPS Project** - Mobile Assessment for Civil Infrastructure Preservation using Structural Health Monitoring (SHM) and Building Information Modeling (BIM)
-- **NASA Project** - A Reliability-based Framework for Structural Assessment Using Structural Health Monitoring (SHM) And Non-Destructive Evaluation (NDE) Along with Advanced Modeling
-- **Big Beam Prestressed Contest 2018 by PCI** - Designed a 20 feet prestressed beam following the guidelines of PCI and ACI
+- UCF Stadium Monitoring – Monitoring the portion of the UCF stadium with Structural Health Monitoring (SHM) systems as well as camera setups
+- Sercel Project – Experimentation and validation of ultrasensitive wireless accelerometers (S-Lynks) on engineering structures (pedestrian and prestressed highway bridges, and buildings)
+- MAPS Project - Mobile Assessment for Civil Infrastructure Preservation using Structural Health Monitoring (SHM) and Building Information Modeling (BIM)
+- NASA Project - A Reliability-based Framework for Structural Assessment Using Structural Health Monitoring (SHM) And Non-Destructive Evaluation (NDE) Along with Advanced Modeling
+- Big Beam Prestressed Contest 2018 by PCI - Designed a 20 feet prestressed beam following the guidelines of PCI and ACI
 
 
 # Personal Skills & Competences

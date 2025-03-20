@@ -66,29 +66,9 @@ redirect_from:
 - Finite Element Analysis – *Teaching Contributor* in Spring 2021
 
 
-
-# Scientific Grants
-
-- DOE STTR (2025) – Topic C60-14, Virtual Operations and Maintenance for Next Generation Wind Plants. Key Person.
-
-- Navy SBIR (2025) – Topic N251-033, Immersive Virtual Operations (IVO) Environment for Improved Lifecycle Management of Navy Ships – Phase I. PI.
-
-- UCF Seed Funding Program (2024), TIRE-Lite: Pilot Study for Transportation Infrastructure Reliability Ecosystem (TIRE). Co-PI.
-
-- NSF ART / Seed Translational Research Project (2024), VirtOps: Virtual Operations and Maintenance for Resilient Civil Infrastructure Systems. Co-PI.
-
-- Ocean Energy Safety Institute (OESI) (2024), A Novel Digital Twin Methodology for Real-Time Structural Performance Assessment of Offshore Wind Structures. Key Person.
-
-- DARPA (2023), Structural Evaluation through Non-contact Sensor Embedding (SENSE). Contributor
-
-- UCF-ASU Collaborative Internal Funding (2023), Enhancing Resilience and Sustainability of Civil Infrastructure Systems: A Focus on Bridge Structures ($50,000). Contributor.
-
-- UCF Internal Funding (2021), Autonomous Infrastructure Monitoring and Assessment- An Interdisciplinary Research Equipment Proposal. Contributor.
-
-- National Offshore Wind Research and Development Consortium (2021), Immersive Visualization of GAN-Enhanced Damage Diagnostics of An Offshore Wind Structure. Contributor.
-
-
 # Invited Presentations
+- Emerging Technologies in Infrastructure Health Monitoring. Presented at Louisiana State University, Baton Rouge, LA, February 2025.
+
 - Digital Twins and Virtual Reality in Infrastructure Management for Decision-Making and Resilience. Presented at the International Workshop on Civil Infrastructure System Technologies and Applications, CITRS, UCF, Orlando, FL, December 2024.
 
 - Investigating Emerging Technologies in Civil Structural Health Monitoring: Generative Artificial Intelligence and Virtual Reality. Presented at Florida Polytechnic University, Lakeland, FL, June 2024

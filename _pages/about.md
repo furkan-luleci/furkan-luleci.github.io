@@ -34,15 +34,6 @@ Structural Health Monitoring (SHM), Structural Dynamics, Modal Analysis (Experim
 Generative AI (GANs, Diffusion Models, Transformers), Robotics (Unmanned Ground and Aerial Vehicles), Virtual Reality (VR) and other Immersive Visualization tools, Digital Twin, Machine Learning, Agent-Based Modeling (ABM), Multi-Agent Reinforcement Learning, Signal Processing, Advanced Sensing Technologies for Civil Infrastructure Systems, Non-Destructive Testing and Evaluation (NDT/E).
 
 
-### Hobbies
-📷 I love to take nature pictures and videos with my camera setups, smartphone, and drones. I also create short drone video clips and share them on my [youtube channel](https://www.youtube.com/@fllci) time to time.
-
-⛰️ I also love any outdoor activities, camping, hiking, kayaking, and snowboarding, and often visit different national parks as much as I can.
-
-📘 I have a deep interest in history, archeology, and world politics, and in my free time, I read books/articles from various sources about them. 
-
-
-
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=720&t=m&d=bBHuA1jde18YBbI-xmRNaOPUXMSCxqh1Bm8t6oOMCVg&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 

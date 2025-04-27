@@ -109,6 +109,15 @@ redirect_from:
 
 - ASCE SEI Methods of Monitoring Structural Performance, Member	       Mar 2025 – Present
 
+# Affiliations
+- IALCCE, Member		       2025 - Present
+
+- American Society of Civil Engineers, Affiliate Member		       2018 - Present
+  Have served in multiple roles at ASCE Structural Engineering Institute (SEI)
+  
+- Institution of Structural Engineers, Student Member 		           2018 - 2019
+
+
 
 # Projects & Contests Involved in Academia
 - UCF Stadium Monitoring – Monitoring the portion of the UCF stadium with Structural Health Monitoring (SHM) systems as well as camera setups
@@ -145,11 +154,6 @@ Teach-In Activity, Carillon Elementary School
 - Engineer in Training (Civil), No: 1100026741, by Florida Board of Professional Engineers.
 - SAP2000 Training, Computers and Structures, Inc. Isand017
 - AutoCAD Training, Bilişim Eğitim Merkezi, Issued Sep 2015, Credential ID 4706
-
-# Professional Affiliations
-- American Society of Civil Engineers, Affiliate Member, 			    2018 - Present
- - Have served and serving in multiple roles at ASCE Structural Engineering Institute (SEI)
-- Institution of Structural Engineers, Student Member, 			      2018-2019
 
 # Selected Coursework
 *In MSCE and PhD programs*:

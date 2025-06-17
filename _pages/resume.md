@@ -78,6 +78,8 @@ redirect_from:
 
 # Honors and Awards
 
+- Aftab Mufti Medal Best Paper Award 2025: *Generative Adversarial Networks for Labeled Acceleration Data Augmentation for Structural Damage Detection*
+
 - Outstanding PhD Dissertation Award 2024: *Selected as the #1 dissertation in the Engineering, Physical, Mathematical, and Life Sciences category at UCF*
 
 - Best Research Award by ASCE Bridge Engineering Journal 2024: *Investigating the Increase in Load Rating and Reliability of a Prestressed Concrete Bridge When Utilizing Field-Derived Distribution and Impact Factors*

@@ -10,7 +10,7 @@ redirect_from:
 
 ## Briefly about me
 
-I'll be joining the Department of Civil & Environmental Engineering at the Louisiana State University as an Assistant Professor in Fall 2025.
+*I'll be joining the Department of Civil & Environmental Engineering at the Louisiana State University as an Assistant Professor in Fall 2025.*
 
 👨🏻‍💻I'm a Postdoctoral Researcher and Adjunct Faculty at the [University of Central Florida (UCF) Department of Civil, Environmental, and Construction Engineering (CECE)](https://www.cece.ucf.edu/).
 
